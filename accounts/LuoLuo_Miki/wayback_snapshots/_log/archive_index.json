@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-08-07T16:46:11",
+  "last_updated": "2026-08-07T16:46:40",
   "html": {
     "https://web.archive.org/web/20260520133045if_/https://twitter.com/LuoLuo_Miki/status/2057091662854144271": {
       "status": "done",
@@ -5977,9 +5977,9 @@
       "referenced_by": [
         "20260603012832_twitter_com_LuoLuo_Miki_status_2061983340358758544.json"
       ],
-      "last_updated": "2026-08-07T16:25:53",
+      "last_updated": "2026-08-07T16:46:27",
       "last_reason": "HTTPError: 403 Client Error: Forbidden for url: https://web.archive.org/web/20260623141801/https://video.twimg.com/amplify_video/2061794066518638592/vid/avc1/720x1280/b3xbkWQEbbivaiuE.mp4",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://video.twimg.com/ext_tw_video/2064289776786960384/pu/vid/avc1/560x1264/lhk03sXW25Yq785q.mp4?tag=12": {
       "status": "done",
@@ -5993,9 +5993,9 @@
       "referenced_by": [
         "20260614124647_twitter_com_LuoLuo_Miki_status_2066140293129502860.json"
       ],
-      "last_updated": "2026-08-07T16:25:53",
+      "last_updated": "2026-08-07T16:46:32",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260614124647/https://video.twimg.com/ext_tw_video/2066117648598052864/pu/vid/avc1/1280x720/qBJIAwdh6-LTcTtk.mp4?tag=12",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://video.twimg.com/tweet_video/HMEsU9AaAAAQE0o.mp4": {
       "status": "done",
@@ -6009,18 +6009,18 @@
       "referenced_by": [
         "20260705120237_twitter_com_LuoLuo_Miki_status_2073739322310922254.json"
       ],
-      "last_updated": "2026-08-07T16:25:53",
+      "last_updated": "2026-08-07T16:46:36",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260705120237/https://video.twimg.com/ext_tw_video/2073738860090273792/pu/vid/avc1/576x1278/G7L1i742xhVQ28b_.mp4?tag=12",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://video.twimg.com/ext_tw_video/2073747990356078592/pu/vid/avc1/576x1278/u40mFEkmFD4ONnzF.mp4?tag=12": {
       "status": "failed_all",
       "referenced_by": [
         "20260705124210_twitter_com_LuoLuo_Miki_status_2073749277051084979.json"
       ],
-      "last_updated": "2026-08-07T16:25:52",
+      "last_updated": "2026-08-07T16:46:40",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260705124210/https://video.twimg.com/ext_tw_video/2073747990356078592/pu/vid/avc1/576x1278/u40mFEkmFD4ONnzF.mp4?tag=12",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://video.twimg.com/ext_tw_video/2073751635382489088/pu/vid/avc1/576x1278/YSgJ8wdpfNB_BRwe.mp4?tag=12": {
       "status": "done",
