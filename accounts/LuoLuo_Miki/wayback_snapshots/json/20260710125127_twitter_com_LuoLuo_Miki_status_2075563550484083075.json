@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592401094273302528",
+    "conversation_id": "2075563293851492835",
+    "created_at": "2026-07-10T12:51:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T13:51:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075563550484083075"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2038192732028469248",
+          "start": 0,
+          "username": "Akiraoo_xyn"
+        },
+        {
+          "end": 26,
+          "id": "1550811468009963521",
+          "start": 13,
+          "username": "zhi_cheng233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075563550484083075",
+    "in_reply_to_user_id": "1592401094273302528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075563293851492835",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Akiraoo_xyn @zhi_cheng233 不对啊，这个抽奖筛选是不是有问题"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3782,
+        "media_key": "3_2075563285215383552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM3hz6QbEAADTuh.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592401094273302528",
+        "conversation_id": "2075563293851492835",
+        "created_at": "2026-07-10T12:51:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T13:51:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075563550484083075"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2038192732028469248",
+              "start": 0,
+              "username": "Akiraoo_xyn"
+            },
+            {
+              "end": 26,
+              "id": "1550811468009963521",
+              "start": 13,
+              "username": "zhi_cheng233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075563550484083075",
+        "in_reply_to_user_id": "1592401094273302528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075563293851492835",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Akiraoo_xyn @zhi_cheng233 不对啊，这个抽奖筛选是不是有问题"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075563285215383552"
+          ]
+        },
+        "author_id": "1592401094273302528",
+        "conversation_id": "2075563293851492835",
+        "created_at": "2026-07-10T12:50:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T13:50:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075563293851492835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 25,
+              "id": "2038192732028469248",
+              "start": 13,
+              "username": "Akiraoo_xyn"
+            },
+            {
+              "end": 39,
+              "id": "1550811468009963521",
+              "start": 26,
+              "username": "zhi_cheng233"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YeU1UUfteS",
+              "end": 99,
+              "expanded_url": "https://x.com/LuoLuo_Miki/status/2075563293851492835/photo/1",
+              "media_key": "3_2075563285215383552",
+              "start": 76,
+              "url": "https://t.co/YeU1UUfteS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075563293851492835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "请@SofHAvWenn，@Akiraoo_xyn，@zhi_cheng233在隔天8点前找我领奖\n\n下次抽奖在500fo，抽取一年premium会员 https://t.co/YeU1UUfteS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-15T06:16:59.000Z",
+        "description": "各类游戏都浅玩，战雷伟大鳄梨邦，🍥2026/5/22\n每天都想和一只猹贴贴 ♡♡ \n@SofHAvVenn｜我的对象，我的爱人丨不od丨不zc丨大龄丨有证含糖🍥丨MTF\n\n互fo请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 42,
+                "username": "SofHAvVenn"
+              }
+            ]
+          }
+        },
+        "id": "1592401094273302528",
+        "name": "糯米🍥",
+        "pinned_tweet_id": "2074857658339795022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057058246888960000/PSLJHun5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 152,
+          "like_count": 458,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 440
+        },
+        "url": "",
+        "username": "LuoLuo_Miki",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-29T09:54:16.000Z",
+        "description": "MtX | 15y🇹🇼 | 无证🍥💊2026.05.09 | 深柜中 | 年龄党 | 生产日期 2011.06.27 | 社恐 | 小透明一个 | 不擅长安慰别人 | 有点笨 | 不自残 | 不od |\n小号 @Akiraoo_qwq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 105,
+                "username": "Akiraoo_qwq"
+              }
+            ]
+          }
+        },
+        "id": "2038192732028469248",
+        "name": "小旭Akira🍥",
+        "pinned_tweet_id": "2061053759518896159",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073124599328559104/qT_B1DyQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 154,
+          "like_count": 1022,
+          "listed_count": 2,
+          "media_count": 22,
+          "tweet_count": 207
+        },
+        "url": "",
+        "username": "Akiraoo_xyn",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-23T11:54:12.000Z",
+        "description": "-所有命运的馈赠早已在暗中标注好了价格-/06年🍥/INFP-T/后端开发者/52KG173CM/意识流发推\n最好的妹妹:@ILikeHappy_uwu\nHRT:24.4.20\n合作请私TG\n频道:https://t.co/1UTMj4Ojzo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 61,
+                "username": "ILikeHappy_uwu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/zhi_cheng233_c…",
+                "end": 122,
+                "expanded_url": "https://t.me/zhi_cheng233_channel",
+                "start": 99,
+                "url": "https://t.co/1UTMj4Ojzo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zhicheng233.top",
+                "end": 23,
+                "expanded_url": "https://zhicheng233.top",
+                "start": 0,
+                "url": "https://t.co/t9zy8Fl1lo"
+              }
+            ]
+          }
+        },
+        "id": "1550811468009963521",
+        "location": "广东 珠海 IP归属:CLOUDFLARE",
+        "name": "志成",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997748573606412288/Brv5JHcH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1518,
+          "following_count": 910,
+          "like_count": 8547,
+          "listed_count": 5,
+          "media_count": 547,
+          "tweet_count": 3843
+        },
+        "url": "https://t.co/t9zy8Fl1lo",
+        "username": "zhi_cheng233",
+        "verified": true
+      }
+    ]
+  }
+}

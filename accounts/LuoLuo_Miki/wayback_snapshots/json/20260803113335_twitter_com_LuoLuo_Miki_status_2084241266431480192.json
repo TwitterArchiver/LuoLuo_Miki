@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592401094273302528",
+    "conversation_id": "2084237355276509688",
+    "created_at": "2026-08-03T11:33:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T12:33:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084241266431480192"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 5,
+          "id": "1720665183188922368",
+          "start": 0,
+          "username": "grok"
+        },
+        {
+          "end": 11,
+          "id": "1720665183188922368",
+          "start": 6,
+          "username": "grok"
+        },
+        {
+          "end": 35,
+          "id": "1809084384563376128",
+          "start": 21,
+          "username": "Dreemurr_Miki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084241266431480192",
+    "in_reply_to_user_id": "1720665183188922368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084237730133717228",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@grok @grok 以相同的问答，回答@Dreemurr_Miki"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592401094273302528",
+        "conversation_id": "2084237355276509688",
+        "created_at": "2026-08-03T11:33:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T12:33:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084241266431480192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1720665183188922368",
+              "start": 0,
+              "username": "grok"
+            },
+            {
+              "end": 11,
+              "id": "1720665183188922368",
+              "start": 6,
+              "username": "grok"
+            },
+            {
+              "end": 35,
+              "id": "1809084384563376128",
+              "start": 21,
+              "username": "Dreemurr_Miki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084241266431480192",
+        "in_reply_to_user_id": "1720665183188922368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084237730133717228",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@grok @grok 以相同的问答，回答@Dreemurr_Miki"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720665183188922368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The world's smartest AI, Grok 3, is now available on X and iOS. Tap below to try.\n\nGrok in X: https://x.com/i/grok\n\nGrok on iOS: https://apps.apple.com/us/app/grok/id6670324846 ",
+              "id": "1892394207127465984",
+              "name": "Grok 3 is here. Try it for free."
+            }
+          }
+        ],
+        "conversation_id": "2084237355276509688",
+        "created_at": "2026-08-03T11:19:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T12:19:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084237730133717228"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1592401094273302528",
+              "start": 0,
+              "username": "LuoLuo_Miki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084237730133717228",
+        "in_reply_to_user_id": "1592401094273302528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "性别：女（MTF）\n性取向：喜欢女生\n年龄：20多岁（二旬才开始HRT）\n心理年龄：偏软幼\n爱好：和对象贴贴、可爱小物、二次元日常\n智商：正常\n形容词：敏感、粘人、情绪化、内向、可爱\n5个最喜欢：对象、贴贴、睡觉、可爱东西、安静\n5个不喜欢：不必要互动、游戏、糟糕事、孤独、剧烈不适\n伴侣：Dreemurr_Miki（一只猹）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084237355276509688",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LuoLuo_Miki 性别：女（MTF）\n性取向：喜欢女生\n年龄：20多岁（二旬才开始HRT）\n心理年龄：偏软幼\n爱好：和对象贴贴、可爱小物、二次元日常\n智商：正常\n形容词：敏感、粘人、情绪化、内向、可爱\n5个最喜欢：对象、贴贴、睡觉、可爱东西、安静\n5个不喜欢：不必要互动、游戏、糟糕事、孤独、剧烈不适"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-15T06:16:59.000Z",
+        "description": "🍥2026/5/22\n每天都想和一只猹贴贴 ♡♡ \n@Dreemurr_Miki｜我的对象，我的爱人｜丨不od丨不zc丨不抽烟丨不鉴证丨大龄丨有证含糖🍥丨MTF\n碎碎念日常，不玩游戏，不进行非必要互动，别靠近我我会很烦唉\n\n互fo请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 26,
+                "username": "Dreemurr_Miki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoluo_miki",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoluo_miki",
+                "start": 0,
+                "url": "https://t.co/GbvEwIAU2Y"
+              }
+            ]
+          }
+        },
+        "id": "1592401094273302528",
+        "location": "距离你126米",
+        "name": "糯米🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2082399117578473595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057058246888960000/PSLJHun5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 616,
+          "following_count": 191,
+          "like_count": 1034,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 751
+        },
+        "url": "https://t.co/GbvEwIAU2Y",
+        "username": "LuoLuo_Miki",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8904136,
+          "following_count": 5,
+          "like_count": 122,
+          "listed_count": 7257,
+          "media_count": 9213965,
+          "tweet_count": 133668104
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-05T04:38:31.000Z",
+        "description": "含糖mtx | 17岁 | 169cm 53kg | 家暴党\n\n@LuoLuo_Miki ←我的老婆\n一只绝望上学中的小药娘\n希望所有人都能拥有美好的人生\n不管您曾经经历了什么，我都希望喜乐和幸福能眷顾您",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 32,
+                "username": "LuoLuo_Miki"
+              }
+            ]
+          }
+        },
+        "id": "1809084384563376128",
+        "location": "Nevermind",
+        "name": "一只猹🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070814983592562688/vPtUGMbw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 41,
+          "like_count": 1287,
+          "listed_count": 1,
+          "media_count": 6,
+          "tweet_count": 138
+        },
+        "url": "",
+        "username": "Dreemurr_Miki",
+        "verified": false
+      }
+    ]
+  }
+}

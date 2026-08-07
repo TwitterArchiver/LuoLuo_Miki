@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592401094273302528",
+    "conversation_id": "2078825048279069139",
+    "created_at": "2026-07-20T06:02:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T07:02:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079084566908895444"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1766407744536420352",
+          "start": 0,
+          "username": "ScarsTowel616"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079084566908895444",
+    "in_reply_to_user_id": "1766407744536420352",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078825048279069139",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ScarsTowel616 摸摸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592401094273302528",
+        "conversation_id": "2078825048279069139",
+        "created_at": "2026-07-20T06:02:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T07:02:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079084566908895444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1766407744536420352",
+              "start": 0,
+              "username": "ScarsTowel616"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079084566908895444",
+        "in_reply_to_user_id": "1766407744536420352",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078825048279069139",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ScarsTowel616 摸摸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766407744536420352",
+        "conversation_id": "2078825048279069139",
+        "created_at": "2026-07-19T12:51:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T13:51:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078825048279069139"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078825048279069139",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 679,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "cnm的煞笔家长为什么在我拿快递的时候出现好讨厌好讨厌好讨厌我的碳酸钡被拿走了\n问我这个是干嘛的\n赶紧去死吧\n好讨厌\n让我一个人待着都不行吗\n为什么要这样子对我\n好想死为什么不能让我去死\n我恨你们\n自以为很了解我\n把我束缚在你们手里很爽是吗\n让我去死吧\n求你了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-15T06:16:59.000Z",
+        "description": "各类游戏都浅玩，战雷伟大鳄梨邦，🍥2026/5/22\n挚友@Dreemurr_Miki｜丨不od丨不zc丨不抽烟丨不鉴证丨大龄丨有证含糖🍥丨MTF\n\n互fo请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 29,
+                "username": "Dreemurr_Miki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoluo_miki",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoluo_miki",
+                "start": 0,
+                "url": "https://t.co/GbvEwIBrSw"
+              }
+            ]
+          }
+        },
+        "id": "1592401094273302528",
+        "name": "糯米🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2074857658339795022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057058246888960000/PSLJHun5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 374,
+          "following_count": 183,
+          "like_count": 602,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 554
+        },
+        "url": "https://t.co/GbvEwIBrSw",
+        "username": "LuoLuo_Miki",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-09T10:16:47.000Z",
+        "description": "一只笨蛋超大只疯子|紫残|戒o…？|MTF/X🏳️‍⚧️|炸柜（家暴党，大概）|无证含糖|出厂日期:2009.06.16|HRT:2026.3.6|断糖:2026.6.29|发一些负能碎碎念…|同类互fo喵|好闺蜜/好姐姐：@kuaizichopstick",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 128,
+                "start": 112,
+                "username": "kuaizichopstick"
+              }
+            ]
+          }
+        },
+        "id": "1766407744536420352",
+        "location": "site 02",
+        "name": "毛巾sama🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2067950659979415711",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059484390053613568/X677uU8V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 762,
+          "following_count": 613,
+          "like_count": 1822,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 1063
+        },
+        "url": "",
+        "username": "ScarsTowel616",
+        "verified": false
+      }
+    ]
+  }
+}

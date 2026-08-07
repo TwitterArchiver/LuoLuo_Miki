@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592401094273302528",
+    "conversation_id": "2082926370527809679",
+    "created_at": "2026-07-31T16:41:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T17:41:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083231707558494662"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2082922144644890624",
+          "start": 0,
+          "username": "KitsuMio7b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083231707558494662",
+    "in_reply_to_user_id": "2082922144644890624",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082926370527809679",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KitsuMio7b 😃"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1043,
+        "media_key": "3_2082926360805384192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOgKfUUaIAAxZJ9.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592401094273302528",
+        "conversation_id": "2082926370527809679",
+        "created_at": "2026-07-31T16:41:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T17:41:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083231707558494662"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2082922144644890624",
+              "start": 0,
+              "username": "KitsuMio7b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083231707558494662",
+        "in_reply_to_user_id": "2082922144644890624",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082926370527809679",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KitsuMio7b 😃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082926360805384192"
+          ]
+        },
+        "author_id": "2082922144644890624",
+        "conversation_id": "2082926370527809679",
+        "created_at": "2026-07-30T20:28:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T21:28:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082926370527809679"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BTNwiie8Yx",
+              "end": 84,
+              "expanded_url": "https://x.com/KitsuMio7b/status/2082926370527809679/photo/1",
+              "media_key": "3_2082926360805384192",
+              "start": 61,
+              "url": "https://t.co/BTNwiie8Yx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082926370527809679",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 215,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "这里是橘川澪新的用来发疯的账号 qwq\n上一个碎碎念账号被 msk 制裁了呜呜\n这个是刚创建的，大家可以关注一下 qwq https://t.co/BTNwiie8Yx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-15T06:16:59.000Z",
+        "description": "🍥2026/5/22\n每天都想和一只猹贴贴 ♡♡ \n@Dreemurr_Miki｜我的对象，我的爱人｜丨不od丨不zc丨不抽烟丨不鉴证丨大龄丨有证含糖🍥丨MTF\n碎碎念日常\n\n互fo请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 26,
+                "username": "Dreemurr_Miki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoluo_miki",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoluo_miki",
+                "start": 0,
+                "url": "https://t.co/GbvEwIBrSw"
+              }
+            ]
+          }
+        },
+        "id": "1592401094273302528",
+        "location": "距离你126米",
+        "name": "糯米🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2082399117578473595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057058246888960000/PSLJHun5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 606,
+          "following_count": 191,
+          "like_count": 976,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 717
+        },
+        "url": "https://t.co/GbvEwIBrSw",
+        "username": "LuoLuo_Miki",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-30T20:15:33.000Z",
+        "description": "ENTP | ASD | ADHD | DID | BPD | 重度人格障碍 | 抖M | 主账号是@KitsuMio7 | 风格明显变化+失忆就是DID犯了，自己可能感觉不到 | 没人要的，没有人喜欢我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 50,
+                "username": "KitsuMio7"
+              }
+            ]
+          }
+        },
+        "id": "2082922144644890624",
+        "name": "澪酱的碎碎念🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082932072080109568/o61qurLx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 17,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 6
+        },
+        "url": "",
+        "username": "KitsuMio7b",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592401094273302528",
+    "conversation_id": "2082458847395098987",
+    "created_at": "2026-07-29T15:39:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T16:39:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082491211156500694"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1321938692282454016",
+          "start": 0,
+          "username": "Chris45285785"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082491211156500694",
+    "in_reply_to_user_id": "1321938692282454016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082488310245753299",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chris45285785 好喝哦，记得点原味，不要点这种薄荷味，味道冲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592401094273302528",
+        "conversation_id": "2082458847395098987",
+        "created_at": "2026-07-29T15:39:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T16:39:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082491211156500694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1321938692282454016",
+              "start": 0,
+              "username": "Chris45285785"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082491211156500694",
+        "in_reply_to_user_id": "1321938692282454016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082488310245753299",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chris45285785 好喝哦，记得点原味，不要点这种薄荷味，味道冲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1321938692282454016",
+        "conversation_id": "2082458847395098987",
+        "created_at": "2026-07-29T15:27:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T16:27:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082488310245753299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1592401094273302528",
+              "start": 0,
+              "username": "LuoLuo_Miki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082488310245753299",
+        "in_reply_to_user_id": "1592401094273302528",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082458847395098987",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LuoLuo_Miki 我也想喝了明天点一杯吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-15T06:16:59.000Z",
+        "description": "各类游戏都浅玩，战雷伟大鳄梨邦，🍥2026/5/22\n每天都想和一只猹贴贴 ♡♡ \n@Dreemurr_Miki｜我的对象，我的爱人｜丨不od丨不zc丨不抽烟丨不鉴证丨大龄丨有证含糖🍥丨MTF\n\n互fo请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 42,
+                "username": "Dreemurr_Miki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoluo_miki",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoluo_miki",
+                "start": 0,
+                "url": "https://t.co/GbvEwIBrSw"
+              }
+            ]
+          }
+        },
+        "id": "1592401094273302528",
+        "location": "距离你126米",
+        "name": "糯米🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2082399117578473595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057058246888960000/PSLJHun5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 594,
+          "following_count": 189,
+          "like_count": 878,
+          "listed_count": 1,
+          "media_count": 74,
+          "tweet_count": 691
+        },
+        "url": "https://t.co/GbvEwIBrSw",
+        "username": "LuoLuo_Miki",
+        "verified": true
+      },
+      {
+        "created_at": "2020-10-29T22:15:33.000Z",
+        "description": "MTF/双标/edtwt/善妒/彼之不幸我之蜜糖/堕落/性/意志力薄弱/防走丢 @HLX_mocha",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 40,
+                "username": "HLX_mocha"
+              }
+            ]
+          }
+        },
+        "id": "1321938692282454016",
+        "name": "毒",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079775516824141824/7L9r5rWO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 28,
+          "like_count": 126,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 112
+        },
+        "url": "",
+        "username": "Chris45285785",
+        "verified": false
+      }
+    ]
+  }
+}

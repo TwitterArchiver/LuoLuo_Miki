@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592401094273302528",
+    "conversation_id": "2084351907167089070",
+    "created_at": "2026-08-03T23:41:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T00:41:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084424574498914450"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1944397601354465280",
+          "start": 0,
+          "username": "AzusaBA0713"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084424574498914450",
+    "in_reply_to_user_id": "1944397601354465280",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084351907167089070",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AzusaBA0713 😰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2084351886413701120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO0a_1CaoAAy_Ti.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2084351898027782144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO0bAgTbcAA59v-.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592401094273302528",
+        "conversation_id": "2084351907167089070",
+        "created_at": "2026-08-03T23:41:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T00:41:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084424574498914450"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1944397601354465280",
+              "start": 0,
+              "username": "AzusaBA0713"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084424574498914450",
+        "in_reply_to_user_id": "1944397601354465280",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084351907167089070",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AzusaBA0713 😰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084351886413701120",
+            "3_2084351898027782144"
+          ]
+        },
+        "author_id": "1944397601354465280",
+        "conversation_id": "2084351907167089070",
+        "created_at": "2026-08-03T18:53:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T19:53:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084351907167089070"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Tsp78DKjCH",
+              "end": 43,
+              "expanded_url": "https://x.com/AzusaBA0713/status/2084351907167089070/photo/1",
+              "media_key": "3_2084351886413701120",
+              "start": 20,
+              "url": "https://t.co/Tsp78DKjCH"
+            },
+            {
+              "display_url": "pic.x.com/Tsp78DKjCH",
+              "end": 43,
+              "expanded_url": "https://x.com/AzusaBA0713/status/2084351907167089070/photo/1",
+              "media_key": "3_2084351898027782144",
+              "start": 20,
+              "url": "https://t.co/Tsp78DKjCH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084351907167089070",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 99,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一定有人知道這是什麼的充電器吧...💦 https://t.co/Tsp78DKjCH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-15T06:16:59.000Z",
+        "description": "🍥2026/5/22\n每天都想和一只猹贴贴 ♡♡ \n@Dreemurr_Miki｜我的对象，我的爱人｜丨不od丨不zc丨不抽烟丨不鉴证丨大龄丨有证含糖🍥丨MTF\n碎碎念日常，不玩游戏，不进行非必要互动，别靠近我我会很烦唉\n\n互fo请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 26,
+                "username": "Dreemurr_Miki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoluo_miki",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoluo_miki",
+                "start": 0,
+                "url": "https://t.co/GbvEwIAU2Y"
+              }
+            ]
+          }
+        },
+        "id": "1592401094273302528",
+        "location": "距离你126米",
+        "name": "糯米🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2082399117578473595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057058246888960000/PSLJHun5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 619,
+          "following_count": 192,
+          "like_count": 1042,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 756
+        },
+        "url": "https://t.co/GbvEwIAU2Y",
+        "username": "LuoLuo_Miki",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-13T14:05:32.000Z",
+        "description": "一只喜欢吃糖🍥の小孩纸˃ ˄ ˂̥/已炸柜/家长不管/INFP-T/生产日期 农历六月初二2010/7/13/1.65m/mtf/hrt2025.5.1/中度抑郁/高敏註意...養傷中。\n請多多關心我\n最爱の笨宝宝:@XueFu13456\n供🍬の猫猫:@AksharJethwa\n呆呆瓜星羽:@seiuki070327",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 119,
+                "start": 108,
+                "username": "XueFu13456"
+              },
+              {
+                "end": 139,
+                "start": 126,
+                "username": "AksharJethwa"
+              },
+              {
+                "end": 159,
+                "start": 146,
+                "username": "seiuki070327"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/AzusaBA0713",
+                "end": 23,
+                "expanded_url": "http://t.me/AzusaBA0713",
+                "start": 0,
+                "url": "https://t.co/bbrOTQXtfz"
+              }
+            ]
+          }
+        },
+        "id": "1944397601354465280",
+        "location": "坐在守月的大金金上~",
+        "name": "木辛伊(梓星星)🍥",
+        "pinned_tweet_id": "2001140478084001950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059476908623151105/bgmq9-he_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1997,
+          "following_count": 1730,
+          "like_count": 3522,
+          "listed_count": 7,
+          "media_count": 350,
+          "tweet_count": 700
+        },
+        "url": "https://t.co/bbrOTQXtfz",
+        "username": "AzusaBA0713",
+        "verified": false
+      }
+    ]
+  }
+}

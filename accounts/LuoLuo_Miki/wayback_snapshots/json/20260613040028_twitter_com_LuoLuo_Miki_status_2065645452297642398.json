@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592401094273302528",
+    "conversation_id": "2064565349761360168",
+    "created_at": "2026-06-13T04:00:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T05:00:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065645452297642398"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1976690300379971584",
+          "start": 0,
+          "username": "xu15221606749"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065645452297642398",
+    "in_reply_to_user_id": "1976690300379971584",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065295869688033341",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xu15221606749 吃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592401094273302528",
+        "conversation_id": "2064565349761360168",
+        "created_at": "2026-06-13T04:00:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T05:00:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065645452297642398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1976690300379971584",
+              "start": 0,
+              "username": "xu15221606749"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065645452297642398",
+        "in_reply_to_user_id": "1976690300379971584",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065295869688033341",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xu15221606749 吃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976690300379971584",
+        "conversation_id": "2064565349761360168",
+        "created_at": "2026-06-12T04:51:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T05:51:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065295869688033341"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1592401094273302528",
+              "start": 0,
+              "username": "LuoLuo_Miki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065295869688033341",
+        "in_reply_to_user_id": "1592401094273302528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064565349761360168",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LuoLuo_Miki 我吃一口"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-15T06:16:59.000Z",
+        "description": "老大，白给会有人要吗丨不键政丨不od丨不自残丨内向不敢见人丨想找恋人或者主人丨",
+        "id": "1592401094273302528",
+        "name": "糯米🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057058246888960000/PSLJHun5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 81,
+          "like_count": 157,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 168
+        },
+        "username": "LuoLuo_Miki",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-10T16:44:38.000Z",
+        "description": "",
+        "id": "1976690300379971584",
+        "name": "玉玊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058537409349050369/b5b5fCkh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 4,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 5
+        },
+        "username": "xu15221606749",
+        "verified": false
+      }
+    ]
+  }
+}

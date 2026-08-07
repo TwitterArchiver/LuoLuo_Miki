@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592401094273302528",
+    "conversation_id": "2063481821745332392",
+    "created_at": "2026-06-07T10:30:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T11:30:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063569234865820079"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1889861257",
+          "start": 0,
+          "username": "__summer__sea__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063569234865820079",
+    "in_reply_to_user_id": "1889861257",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063481821745332392",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@__summer__sea__ 记得按时擦药"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2560,
+        "media_key": "3_2063481811167313920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKL1xkMbgAAMlO3.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592401094273302528",
+        "conversation_id": "2063481821745332392",
+        "created_at": "2026-06-07T10:30:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T11:30:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063569234865820079"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1889861257",
+              "start": 0,
+              "username": "__summer__sea__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063569234865820079",
+        "in_reply_to_user_id": "1889861257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063481821745332392",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@__summer__sea__ 记得按时擦药"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063481811167313920"
+          ]
+        },
+        "author_id": "1889861257",
+        "conversation_id": "2063481821745332392",
+        "created_at": "2026-06-07T04:42:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T05:42:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063481821745332392"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1h4fHrfIyq",
+              "end": 58,
+              "expanded_url": "https://x.com/__summer__sea__/status/2063481821745332392/photo/1",
+              "media_key": "3_2063481811167313920",
+              "start": 35,
+              "url": "https://t.co/1h4fHrfIyq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063481821745332392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 475,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天好难过，今天去看医生了不知道是不是转双相了？昨天划太深了痛死…… https://t.co/1h4fHrfIyq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-15T06:16:59.000Z",
+        "description": "老大，白给会有人要吗丨不键政丨不od丨不自残丨内向不敢见人丨想找恋人或者主人丨",
+        "id": "1592401094273302528",
+        "name": "糯米🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057058246888960000/PSLJHun5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 84,
+          "like_count": 128,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 144
+        },
+        "username": "LuoLuo_Miki",
+        "verified": true
+      },
+      {
+        "created_at": "2013-09-21T11:07:58.000Z",
+        "description": "神户盐｜16岁｜护理专业｜已扭转一年半｜情感淡漠｜家长不管党｜Q:3755457720｜对象:@sklmm_｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 47,
+                "username": "sklmm_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/brentcruz106",
+                "end": 23,
+                "expanded_url": "https://t.me/brentcruz106",
+                "start": 0,
+                "url": "https://t.co/1e7qTaQHLq"
+              }
+            ]
+          }
+        },
+        "id": "1889861257",
+        "name": "盐🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061179467889074177/WoZoQ9BB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 733,
+          "following_count": 879,
+          "like_count": 8856,
+          "listed_count": 0,
+          "media_count": 152,
+          "tweet_count": 2760
+        },
+        "url": "https://t.co/1e7qTaQHLq",
+        "username": "__summer__sea__",
+        "verified": false
+      }
+    ]
+  }
+}

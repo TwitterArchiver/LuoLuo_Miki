@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592401094273302528",
+    "conversation_id": "2066522881602081187",
+    "created_at": "2026-06-15T17:40:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T18:40:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066576613224206846"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1655661465200631814",
+          "start": 0,
+          "username": "ruolili_shion"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066576613224206846",
+    "in_reply_to_user_id": "1655661465200631814",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066522881602081187",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ruolili_shion 好多插板"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066522878636654593",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK3Dm_VbAAETda_.jpg",
+        "width": 1382
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592401094273302528",
+        "conversation_id": "2066522881602081187",
+        "created_at": "2026-06-15T17:40:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T18:40:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066576613224206846"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1655661465200631814",
+              "start": 0,
+              "username": "ruolili_shion"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066576613224206846",
+        "in_reply_to_user_id": "1655661465200631814",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066522881602081187",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ruolili_shion 好多插板"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066522878636654593"
+          ]
+        },
+        "author_id": "1655661465200631814",
+        "conversation_id": "2066522881602081187",
+        "created_at": "2026-06-15T14:07:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T15:07:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066522881602081187"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 18,
+              "tag": "小药娘"
+            },
+            {
+              "end": 27,
+              "start": 23,
+              "tag": "xyn"
+            },
+            {
+              "end": 32,
+              "start": 28,
+              "tag": "小男娘"
+            },
+            {
+              "end": 37,
+              "start": 33,
+              "tag": "xyn"
+            },
+            {
+              "end": 41,
+              "start": 38,
+              "tag": "nn"
+            },
+            {
+              "end": 46,
+              "start": 42,
+              "tag": "xnn"
+            },
+            {
+              "end": 55,
+              "start": 47,
+              "tag": "RTX3080"
+            },
+            {
+              "end": 60,
+              "start": 56,
+              "tag": "跨性别"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Jp09y5AIOY",
+              "end": 84,
+              "expanded_url": "https://x.com/ruolili_shion/status/2066522881602081187/photo/1",
+              "media_key": "3_2066522878636654593",
+              "start": 61,
+              "url": "https://t.co/Jp09y5AIOY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066522881602081187",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我和电脑哪个更能获得你的芳心呢喵？\n#小药娘 #xyn #小男娘 #xyn #nn #xnn #RTX3080 #跨性别 https://t.co/Jp09y5AIOY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-15T06:16:59.000Z",
+        "description": "老大，白给会有人要吗丨不键政丨不od丨不自残丨内向不敢见人丨想找恋人或者主人丨",
+        "id": "1592401094273302528",
+        "name": "糯米🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057058246888960000/PSLJHun5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 83,
+          "like_count": 171,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 188
+        },
+        "username": "LuoLuo_Miki",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-08T19:50:36.000Z",
+        "description": "小药娘🍥|mtf🏳‍⚧️|163|54kg左右|杭州线下可🈷️|可收养的小狐娘|QQ2773626671|精神状态无常|私信看到都会回|欢迎互fo|收养或包养请私信|想找主人收养",
+        "id": "1655661465200631814",
+        "name": "ruolili🍥",
+        "pinned_tweet_id": "2065525518632460486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046561666071162880/D3xq1H4m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 165,
+          "like_count": 110,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 167
+        },
+        "username": "ruolili_shion",
+        "verified": false
+      }
+    ]
+  }
+}

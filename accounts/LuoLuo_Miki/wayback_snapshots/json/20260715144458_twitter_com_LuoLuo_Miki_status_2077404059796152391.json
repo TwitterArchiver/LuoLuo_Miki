@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592401094273302528",
+    "conversation_id": "2077404059796152391",
+    "created_at": "2026-07-15T14:44:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T15:44:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077404059796152391"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1549814682654949376",
+          "start": 3,
+          "username": "wszhd321"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077404059796152391",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077394702647628005",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wszhd321: 我已经买了喜思品150mg的pr80，要等几天，不会超过一个星期发货，先口令红包预定一星期没发退钱，先到先得\n转发此条这个月20号开奖 抽2个人15块10个人10块钱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592401094273302528",
+        "conversation_id": "2077404059796152391",
+        "created_at": "2026-07-15T14:44:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T15:44:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077404059796152391"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1549814682654949376",
+              "start": 3,
+              "username": "wszhd321"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077404059796152391",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077394702647628005",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wszhd321: 我已经买了喜思品150mg的pr80，要等几天，不会超过一个星期发货，先口令红包预定一星期没发退钱，先到先得\n转发此条这个月20号开奖 抽2个人15块10个人10块钱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1549814682654949376",
+        "conversation_id": "2077394702647628005",
+        "created_at": "2026-07-15T14:07:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T15:07:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077394702647628005"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077394702647628005",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 81,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我已经买了喜思品150mg的pr80，要等几天，不会超过一个星期发货，先口令红包预定一星期没发退钱，先到先得\n转发此条这个月20号开奖 抽2个人15块10个人10块钱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-15T06:16:59.000Z",
+        "description": "各类游戏都浅玩，战雷伟大鳄梨邦，🍥2026/5/22\n每天都想和一只猹贴贴 ♡♡ \n@Dreemurr_Miki｜我的对象，我的爱人丨不od丨不zc丨大龄丨有证含糖🍥丨MTF\n\n互fo请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 42,
+                "username": "Dreemurr_Miki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoluo_miki",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoluo_miki",
+                "start": 0,
+                "url": "https://t.co/GbvEwIBrSw"
+              }
+            ]
+          }
+        },
+        "id": "1592401094273302528",
+        "name": "糯米🍥",
+        "pinned_tweet_id": "2074857658339795022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057058246888960000/PSLJHun5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 160,
+          "like_count": 527,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 485
+        },
+        "url": "https://t.co/GbvEwIBrSw",
+        "username": "LuoLuo_Miki",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-20T17:53:20.000Z",
+        "description": "只要当下\n橙普80块钱，定金不能低于40，3到5天发货，没发退定金，发货再给尾款，口令红包",
+        "id": "1549814682654949376",
+        "name": "与与",
+        "pinned_tweet_id": "2077394702647628005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073744811434082305/bdDkJ-W5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 42,
+          "like_count": 162,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 534
+        },
+        "url": "",
+        "username": "wszhd321",
+        "verified": false
+      }
+    ]
+  }
+}

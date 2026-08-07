@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065645789528084480"
+      ]
+    },
+    "author_id": "1592401094273302528",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2065645792329875739",
+    "created_at": "2026-06-13T04:01:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T05:01:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065645792329875739"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/TTdsoa58SJ",
+          "end": 57,
+          "expanded_url": "https://x.com/LuoLuo_Miki/status/2065645792329875739/photo/1",
+          "media_key": "3_2065645789528084480",
+          "start": 34,
+          "url": "https://t.co/TTdsoa58SJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065645792329875739",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "手背好辣😭，好疼啊，这个螺旋椒+蒜+姜片，我现在手背火辣辣的😭😭😭 https://t.co/TTdsoa58SJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 931,
+        "media_key": "3_2065645789528084480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKql5ryaUAA2wAg.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065645789528084480"
+          ]
+        },
+        "author_id": "1592401094273302528",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2065645792329875739",
+        "created_at": "2026-06-13T04:01:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T05:01:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065645792329875739"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TTdsoa58SJ",
+              "end": 57,
+              "expanded_url": "https://x.com/LuoLuo_Miki/status/2065645792329875739/photo/1",
+              "media_key": "3_2065645789528084480",
+              "start": 34,
+              "url": "https://t.co/TTdsoa58SJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065645792329875739",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "手背好辣😭，好疼啊，这个螺旋椒+蒜+姜片，我现在手背火辣辣的😭😭😭 https://t.co/TTdsoa58SJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-15T06:16:59.000Z",
+        "description": "老大，白给会有人要吗丨不键政丨不od丨不自残丨内向不敢见人丨想找恋人或者主人丨",
+        "id": "1592401094273302528",
+        "name": "糯米🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057058246888960000/PSLJHun5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 81,
+          "like_count": 157,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 169
+        },
+        "username": "LuoLuo_Miki",
+        "verified": true
+      }
+    ]
+  }
+}

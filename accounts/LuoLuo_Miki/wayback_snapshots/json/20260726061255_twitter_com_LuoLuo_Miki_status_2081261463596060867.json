@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592401094273302528",
+    "conversation_id": "2081179457801670786",
+    "created_at": "2026-07-26T06:12:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T07:12:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081261463596060867"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1746818545630195713",
+          "start": 0,
+          "username": "Anxious_K1n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081261463596060867",
+    "in_reply_to_user_id": "1746818545630195713",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081179457801670786",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Anxious_K1n 蚌住了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2081179451136806912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOHVryraEAADWJd.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592401094273302528",
+        "conversation_id": "2081179457801670786",
+        "created_at": "2026-07-26T06:12:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T07:12:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081261463596060867"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1746818545630195713",
+              "start": 0,
+              "username": "Anxious_K1n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081261463596060867",
+        "in_reply_to_user_id": "1746818545630195713",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081179457801670786",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Anxious_K1n 蚌住了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081179451136806912"
+          ]
+        },
+        "author_id": "1746818545630195713",
+        "conversation_id": "2081179457801670786",
+        "created_at": "2026-07-26T00:47:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T01:47:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081179457801670786"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SBJJTgl9aL",
+              "end": 30,
+              "expanded_url": "https://x.com/Anxious_K1n/status/2081179457801670786/photo/1",
+              "media_key": "3_2081179451136806912",
+              "start": 7,
+              "url": "https://t.co/SBJJTgl9aL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081179457801670786",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 232,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是男的…… https://t.co/SBJJTgl9aL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-15T06:16:59.000Z",
+        "description": "各类游戏都浅玩，战雷伟大鳄梨邦，🍥2026/5/22\n每天都想和一只猹贴贴 ♡♡ \n@Dreemurr_Miki｜我的对象，我的爱人｜丨不od丨不zc丨不抽烟丨不鉴证丨大龄丨有证含糖🍥丨MTF\n\n互fo请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 42,
+                "username": "Dreemurr_Miki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoluo_miki",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoluo_miki",
+                "start": 0,
+                "url": "https://t.co/GbvEwIBrSw"
+              }
+            ]
+          }
+        },
+        "id": "1592401094273302528",
+        "location": "距离你126米",
+        "name": "糯米🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2079073415873605729",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057058246888960000/PSLJHun5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 527,
+          "following_count": 187,
+          "like_count": 830,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 648
+        },
+        "url": "https://t.co/GbvEwIBrSw",
+        "username": "LuoLuo_Miki",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-15T08:56:41.000Z",
+        "description": "你能看到的也只有腐烂的过程\n⚠️智力有问题/精分/双相/ODER/自残/烟鬼/酗酒/Brat/A股知名韭菜/玻璃心/欢迎私信/熟悉之后可以加墙内联系方式/请称呼我文文or小卡\n如果能忍受我不定期发疯可以和我交朋友\n别骂我别骂我别骂我，我要是说错话请直接告诉我\n这里是我的垃圾桶，如果有冒犯到你我很抱歉",
+        "id": "1746818545630195713",
+        "location": "Mercury",
+        "name": "Kasumi",
+        "pinned_tweet_id": "2063533744276038085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062077789306793984/OF_vhTdc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 406,
+          "following_count": 255,
+          "like_count": 1305,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 655
+        },
+        "url": "",
+        "username": "Anxious_K1n",
+        "verified": false
+      }
+    ]
+  }
+}

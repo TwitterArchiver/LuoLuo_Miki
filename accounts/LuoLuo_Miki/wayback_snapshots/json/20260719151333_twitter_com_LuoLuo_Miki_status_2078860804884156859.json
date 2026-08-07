@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592401094273302528",
+    "conversation_id": "2078813229695070275",
+    "created_at": "2026-07-19T15:13:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T16:13:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078860804884156859"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1851416603990405120",
+          "start": 0,
+          "username": "ogsa1687497"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078860804884156859",
+    "in_reply_to_user_id": "1851416603990405120",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078813229695070275",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ogsa1687497 鲨鲨🌃"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2078813221948129281",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNltnICagAEfgUq.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592401094273302528",
+        "conversation_id": "2078813229695070275",
+        "created_at": "2026-07-19T15:13:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T16:13:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078860804884156859"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1851416603990405120",
+              "start": 0,
+              "username": "ogsa1687497"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078860804884156859",
+        "in_reply_to_user_id": "1851416603990405120",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078813229695070275",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ogsa1687497 鲨鲨🌃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078813221948129281"
+          ]
+        },
+        "author_id": "1851416603990405120",
+        "conversation_id": "2078813229695070275",
+        "created_at": "2026-07-19T12:04:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T13:04:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078813229695070275"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EWKyTT8Vi6",
+              "end": 29,
+              "expanded_url": "https://x.com/ogsa1687497/status/2078813229695070275/photo/1",
+              "media_key": "3_2078813221948129281",
+              "start": 6,
+              "url": "https://t.co/EWKyTT8Vi6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078813229695070275",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "臭猪😋😋😋 https://t.co/EWKyTT8Vi6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-15T06:16:59.000Z",
+        "description": "各类游戏都浅玩，战雷伟大鳄梨邦，🍥2026/5/22\n挚友@Dreemurr_Miki｜丨不od丨不zc丨不抽烟丨不鉴证丨大龄丨有证含糖🍥丨MTF\n\n互fo请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 29,
+                "username": "Dreemurr_Miki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoluo_miki",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoluo_miki",
+                "start": 0,
+                "url": "https://t.co/GbvEwIBrSw"
+              }
+            ]
+          }
+        },
+        "id": "1592401094273302528",
+        "name": "糯米🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2074857658339795022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057058246888960000/PSLJHun5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 181,
+          "like_count": 587,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 544
+        },
+        "url": "https://t.co/GbvEwIBrSw",
+        "username": "LuoLuo_Miki",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-30T00:11:41.000Z",
+        "description": "嗯……不开心☹️",
+        "id": "1851416603990405120",
+        "location": "Hong Kong",
+        "name": "青菜猫🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073411023261016064/sFFv5oDx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 466,
+          "following_count": 314,
+          "like_count": 354,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 406
+        },
+        "url": "",
+        "username": "ogsa1687497",
+        "verified": false
+      }
+    ]
+  }
+}

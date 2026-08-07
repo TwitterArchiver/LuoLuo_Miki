@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072679726079164417"
+      ]
+    },
+    "author_id": "1592401094273302528",
+    "conversation_id": "2072677355798376614",
+    "created_at": "2026-07-02T13:52:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T14:52:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072679733977116989"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2053864757329817600",
+          "start": 0,
+          "username": "today_is_foggy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tG0i8e0QF8",
+          "end": 43,
+          "expanded_url": "https://x.com/LuoLuo_Miki/status/2072679733977116989/photo/1",
+          "media_key": "3_2072679726079164417",
+          "start": 20,
+          "url": "https://t.co/tG0i8e0QF8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072679733977116989",
+    "in_reply_to_user_id": "2053864757329817600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072677355798376614",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@today_is_foggy 拍拍你 https://t.co/tG0i8e0QF8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 500,
+        "media_key": "3_2072679726079164417",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMOjOrYaQAENyKD.jpg",
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072679726079164417"
+          ]
+        },
+        "author_id": "1592401094273302528",
+        "conversation_id": "2072677355798376614",
+        "created_at": "2026-07-02T13:52:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T14:52:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072679733977116989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2053864757329817600",
+              "start": 0,
+              "username": "today_is_foggy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tG0i8e0QF8",
+              "end": 43,
+              "expanded_url": "https://x.com/LuoLuo_Miki/status/2072679733977116989/photo/1",
+              "media_key": "3_2072679726079164417",
+              "start": 20,
+              "url": "https://t.co/tG0i8e0QF8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072679733977116989",
+        "in_reply_to_user_id": "2053864757329817600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072677355798376614",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@today_is_foggy 拍拍你 https://t.co/tG0i8e0QF8"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053864757329817600",
+        "conversation_id": "2072677355798376614",
+        "created_at": "2026-07-02T13:42:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T14:42:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072677355798376614"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072677355798376614",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我总是那么无趣，经常交到很棒的朋友，但是却在几天后因为没有共同话题导致关系慢慢变得冷淡，然后看见她们在群里和别的人聊的热火朝天。可是我真的很难对大部分事务提起兴趣？每天也只是在无聊的发呆中度过。没有喜欢的游戏，没有持久的爱好，也没有那方面很厉害，没有人喜欢和我这种人玩吧。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-15T06:16:59.000Z",
+        "description": "大家好~❤️！\n这里是糯米，很高兴认识大家❤️\n丨不od丨抑郁丨性别焦虑丨无证含糖🍥丨MTF\n\n笨蛋@linxinyujiang",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 50,
+                "username": "linxinyujiang"
+              }
+            ]
+          }
+        },
+        "id": "1592401094273302528",
+        "name": "糯米🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057058246888960000/PSLJHun5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 127,
+          "like_count": 281,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 306
+        },
+        "url": "",
+        "username": "LuoLuo_Miki",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-11T15:48:30.000Z",
+        "description": "kiki，二次元，笨蛋，无糖，不od、割手，什么都会一点但什么都做不好，只要接纳咱那一定会有反馈的说ww接触过的东西有好多，但都很入门...航空航天 时事政治 摄影 化妆 化学 锻炼健身 番剧游戏 还自己学过一点c和Python...希望有人可以来找咱聊天什么的。",
+        "id": "2053864757329817600",
+        "location": "成都  山东上学",
+        "name": "是kiki~",
+        "pinned_tweet_id": "2072524780209864832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054228140684410881/UolaELqW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 89,
+          "like_count": 963,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 591
+        },
+        "url": "",
+        "username": "today_is_foggy",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592401094273302528",
+    "conversation_id": "2066522224660742381",
+    "created_at": "2026-06-15T17:38:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T18:38:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066576122859684083"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2045025548401823744",
+          "start": 0,
+          "username": "ShiXiaomeiMoYa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066576122859684083",
+    "in_reply_to_user_id": "2045025548401823744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066522224660742381",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShiXiaomeiMoYa 抱抱你，早点休息，晚安"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592401094273302528",
+        "conversation_id": "2066522224660742381",
+        "created_at": "2026-06-15T17:38:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T18:38:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066576122859684083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2045025548401823744",
+              "start": 0,
+              "username": "ShiXiaomeiMoYa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066576122859684083",
+        "in_reply_to_user_id": "2045025548401823744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066522224660742381",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShiXiaomeiMoYa 抱抱你，早点休息，晚安"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045025548401823744",
+        "conversation_id": "2066522224660742381",
+        "created_at": "2026-06-15T14:04:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T15:04:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066522224660742381"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066522224660742381",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 808,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 32,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "沒有人陪我……😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-15T06:16:59.000Z",
+        "description": "老大，白给会有人要吗丨不键政丨不od丨不自残丨内向不敢见人丨想找恋人或者主人丨",
+        "id": "1592401094273302528",
+        "name": "糯米🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057058246888960000/PSLJHun5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 83,
+          "like_count": 170,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 187
+        },
+        "username": "LuoLuo_Miki",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-17T06:24:35.000Z",
+        "description": "門52，只收wechat\n愛～～～你～～～們～～～//🩷🩷🩷//\n是女生是女生是女生！！！\n（生日）\n30/11/2010\nand\n1/6/2026",
+        "id": "2045025548401823744",
+        "name": "camellia",
+        "pinned_tweet_id": "2066181877686525979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065372729705136128/H6AKK1n__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 61,
+          "like_count": 438,
+          "listed_count": 1,
+          "media_count": 69,
+          "tweet_count": 775
+        },
+        "username": "ShiXiaomeiMoYa",
+        "verified": false
+      }
+    ]
+  }
+}

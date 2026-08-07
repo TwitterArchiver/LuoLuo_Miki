@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592401094273302528",
+    "conversation_id": "2079515065607413840",
+    "created_at": "2026-07-21T16:26:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T17:26:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079603812680245617"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1804296555354013696",
+          "start": 0,
+          "username": "LoveForever_52"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079603812680245617",
+    "in_reply_to_user_id": "1804296555354013696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079597466824106138",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LoveForever_52 不吃不吃😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592401094273302528",
+        "conversation_id": "2079515065607413840",
+        "created_at": "2026-07-21T16:26:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T17:26:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079603812680245617"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1804296555354013696",
+              "start": 0,
+              "username": "LoveForever_52"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079603812680245617",
+        "in_reply_to_user_id": "1804296555354013696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079597466824106138",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LoveForever_52 不吃不吃😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804296555354013696",
+        "conversation_id": "2079515065607413840",
+        "created_at": "2026-07-21T16:00:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T17:00:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079597466824106138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1592401094273302528",
+              "start": 0,
+              "username": "LuoLuo_Miki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079597466824106138",
+        "in_reply_to_user_id": "1592401094273302528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079515065607413840",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LuoLuo_Miki 快点给我丢掉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-15T06:16:59.000Z",
+        "description": "各类游戏都浅玩，战雷伟大鳄梨邦，🍥2026/5/22\n每天都想和一只猹贴贴 ♡♡ \n@Dreemurr_Miki｜我的对象，我的爱人｜丨不od丨不zc丨不抽烟丨不鉴证丨大龄丨有证含糖🍥丨MTF\n\n互fo请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 42,
+                "username": "Dreemurr_Miki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoluo_miki",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoluo_miki",
+                "start": 0,
+                "url": "https://t.co/GbvEwIBrSw"
+              }
+            ]
+          }
+        },
+        "id": "1592401094273302528",
+        "name": "糯米🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2074857658339795022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057058246888960000/PSLJHun5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 416,
+          "following_count": 182,
+          "like_count": 674,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 583
+        },
+        "url": "https://t.co/GbvEwIBrSw",
+        "username": "LuoLuo_Miki",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-21T23:33:30.000Z",
+        "description": "生产日08.4.18/保质期18年20年??/👻163cm54kg努力减肥中/半个家长党/同类可+我/临的可找我玩/小单睾一只（字面意思）",
+        "id": "1804296555354013696",
+        "location": "中国",
+        "name": "天依🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000435599564779520/7ap8p92y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1387,
+          "following_count": 230,
+          "like_count": 284,
+          "listed_count": 5,
+          "media_count": 412,
+          "tweet_count": 968
+        },
+        "url": "",
+        "username": "LoveForever_52",
+        "verified": true
+      }
+    ]
+  }
+}

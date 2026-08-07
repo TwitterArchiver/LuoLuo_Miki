@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592401094273302528",
+    "conversation_id": "2071993825170706475",
+    "created_at": "2026-07-01T02:58:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T03:58:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072152931839967399"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2060679315126439936",
+          "start": 0,
+          "username": "MioKitsukawa"
+        },
+        {
+          "end": 27,
+          "id": "1258034521691189251",
+          "start": 14,
+          "username": "Liuli_Lumine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072152931839967399",
+    "in_reply_to_user_id": "2060679315126439936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071993825170706475",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MioKitsukawa @Liuli_Lumine 去翻了一下，呃呃呃，确实很..."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2071993808166977536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMEzZACaAAA7vpG.jpg",
+        "width": 980
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592401094273302528",
+        "conversation_id": "2071993825170706475",
+        "created_at": "2026-07-01T02:58:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T03:58:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072152931839967399"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2060679315126439936",
+              "start": 0,
+              "username": "MioKitsukawa"
+            },
+            {
+              "end": 27,
+              "id": "1258034521691189251",
+              "start": 14,
+              "username": "Liuli_Lumine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072152931839967399",
+        "in_reply_to_user_id": "2060679315126439936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071993825170706475",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MioKitsukawa @Liuli_Lumine 去翻了一下，呃呃呃，确实很..."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071993808166977536"
+          ]
+        },
+        "author_id": "2060679315126439936",
+        "conversation_id": "2071993825170706475",
+        "created_at": "2026-06-30T16:26:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T17:26:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071993825170706475"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 20,
+              "id": "1258034521691189251",
+              "start": 7,
+              "username": "Liuli_Lumine"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OPlRwxP7Fq",
+              "end": 44,
+              "expanded_url": "https://x.com/MioKitsukawa/status/2071993825170706475/photo/1",
+              "media_key": "3_2071993808166977536",
+              "start": 21,
+              "url": "https://t.co/OPlRwxP7Fq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071993825170706475",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1269,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这人无敌了😅 @Liuli_Lumine https://t.co/OPlRwxP7Fq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-15T06:16:59.000Z",
+        "description": "大家好~❤️！\n这里是糯米，很高兴认识大家❤️\n丨不od丨抑郁丨性别焦虑丨无证含糖🍥丨MTF\n\n笨蛋@linxinyujiang",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 50,
+                "username": "linxinyujiang"
+              }
+            ]
+          }
+        },
+        "id": "1592401094273302528",
+        "name": "糯米🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057058246888960000/PSLJHun5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 125,
+          "like_count": 268,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 294
+        },
+        "url": "",
+        "username": "LuoLuo_Miki",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-30T11:13:54.000Z",
+        "description": "MTF | HRT since 2023 | 18 | ENTP | ASD | 述情障碍 | Developer | TypeScript | Node.js | LocalLLaMA Maximalist | 先天跨 | 会伪音 | 反向深柜 | MioMtFWiki 创建者 | 平权主义 | ✨同类互 fo 喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kitsumio.github.io/MioMtFWiki/",
+                "end": 23,
+                "expanded_url": "https://kitsumio.github.io/MioMtFWiki/",
+                "start": 0,
+                "url": "https://t.co/20qbkKwHi3"
+              }
+            ]
+          }
+        },
+        "id": "2060679315126439936",
+        "location": "距离你 325m",
+        "name": "橘川澪KitsuMio🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2067490830429118730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060685033225228288/M9pISiDO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 990,
+          "following_count": 825,
+          "like_count": 1396,
+          "listed_count": 3,
+          "media_count": 130,
+          "tweet_count": 953
+        },
+        "url": "https://t.co/20qbkKwHi3",
+        "username": "MioKitsukawa",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-06T14:03:11.000Z",
+        "description": "坚决维护祖国统一，反对台独",
+        "id": "1258034521691189251",
+        "location": "China 中国",
+        "name": "爱千早琉荧🇨🇳",
+        "pinned_tweet_id": "1410101010681372673",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979655317643288576/cbGhMn3I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 105,
+          "like_count": 579,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 343
+        },
+        "url": "",
+        "username": "Liuli_Lumine",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592401094273302528",
+    "conversation_id": "2063554375075983855",
+    "created_at": "2026-06-07T10:21:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T11:21:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063567067304042788"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2059475041126055936",
+          "start": 0,
+          "username": "Hshdhhd7ofy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063567067304042788",
+    "in_reply_to_user_id": "2059475041126055936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063554562578121058",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hshdhhd7ofy 😭😭😭是的，我在刷题，刷到了这个，我感觉会考"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592401094273302528",
+        "conversation_id": "2063554375075983855",
+        "created_at": "2026-06-07T10:21:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T11:21:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063567067304042788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2059475041126055936",
+              "start": 0,
+              "username": "Hshdhhd7ofy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063567067304042788",
+        "in_reply_to_user_id": "2059475041126055936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063554562578121058",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hshdhhd7ofy 😭😭😭是的，我在刷题，刷到了这个，我感觉会考"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059475041126055936",
+        "conversation_id": "2063554375075983855",
+        "created_at": "2026-06-07T09:32:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T10:32:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063554562578121058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1592401094273302528",
+              "start": 0,
+              "username": "LuoLuo_Miki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063554562578121058",
+        "in_reply_to_user_id": "1592401094273302528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063554375075983855",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LuoLuo_Miki 啊，科目一考这个吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-15T06:16:59.000Z",
+        "description": "老大，白给会有人要吗丨不键政丨不od丨不自残丨内向不敢见人丨想找恋人或者主人丨",
+        "id": "1592401094273302528",
+        "name": "糯米🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057058246888960000/PSLJHun5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 84,
+          "like_count": 124,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 142
+        },
+        "username": "LuoLuo_Miki",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-27T03:21:44.000Z",
+        "description": "07，新西兰留学生，玩火影王者，想以火影为主，全天在线，网瘾大，互fo聊天",
+        "id": "2059475041126055936",
+        "location": "在哪都行",
+        "name": "忒修斯",
+        "pinned_tweet_id": "2061780619114463597",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060374121587052544/q0nCI1WV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 45,
+          "like_count": 746,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 144
+        },
+        "username": "Hshdhhd7ofy",
+        "verified": true
+      }
+    ]
+  }
+}

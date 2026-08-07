@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592401094273302528",
+    "conversation_id": "2062518306251448653",
+    "created_at": "2026-06-04T16:21:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T17:21:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062570373108081138"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1798564576029810688",
+          "start": 0,
+          "username": "lirong11451419"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062570373108081138",
+    "in_reply_to_user_id": "1798564576029810688",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062518306251448653",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lirong11451419 😰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062518295618793472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ-JdlEaMAAuOz_.jpg",
+        "width": 936
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592401094273302528",
+        "conversation_id": "2062518306251448653",
+        "created_at": "2026-06-04T16:21:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T17:21:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062570373108081138"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1798564576029810688",
+              "start": 0,
+              "username": "lirong11451419"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062570373108081138",
+        "in_reply_to_user_id": "1798564576029810688",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062518306251448653",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lirong11451419 😰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062518295618793472"
+          ]
+        },
+        "author_id": "1798564576029810688",
+        "conversation_id": "2062518306251448653",
+        "created_at": "2026-06-04T12:54:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T13:54:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062518306251448653"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zkzdjg4m5D",
+              "end": 52,
+              "expanded_url": "https://x.com/lirong11451419/status/2062518306251448653/photo/1",
+              "media_key": "3_2062518295618793472",
+              "start": 29,
+              "url": "https://t.co/zkzdjg4m5D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062518306251448653",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 413,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有人加我微信玩吗(ฅ´ω`ฅ)（非药娘非男娘的普通男大） https://t.co/zkzdjg4m5D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-15T06:16:59.000Z",
+        "description": "老大，白给会有人要吗丨不键政丨不od丨不自残丨内向不敢见人丨想找恋人或者主人丨",
+        "id": "1592401094273302528",
+        "name": "糯米🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057058246888960000/PSLJHun5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 78,
+          "like_count": 99,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 122
+        },
+        "username": "LuoLuo_Miki",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-06T03:56:43.000Z",
+        "description": "🍥E2 HRT Date:2025.4.6 | he/his| gay 0 with estradiol| 含糖友跨顺男0 | 永远长不大用🍥来疗愈自己 | 性格软软 爱吃糖的小孩૮₍◜ෆ◝.₎ა，\n蓄发，护肤，学化妆进行时\n衡阳某大砖核科学在读",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/erererrtrt",
+                "end": 23,
+                "expanded_url": "https://t.me/erererrtrt",
+                "start": 0,
+                "url": "https://t.co/IprWNDkIXc"
+              }
+            ]
+          }
+        },
+        "id": "1798564576029810688",
+        "location": "湖南",
+        "name": "哒哒喵🍥",
+        "pinned_tweet_id": "1965991505367281767",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039497198761893888/xL8rvNjI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1873,
+          "following_count": 1480,
+          "like_count": 3297,
+          "listed_count": 5,
+          "media_count": 181,
+          "tweet_count": 1574
+        },
+        "url": "https://t.co/IprWNDkIXc",
+        "username": "lirong11451419",
+        "verified": false
+      }
+    ]
+  }
+}

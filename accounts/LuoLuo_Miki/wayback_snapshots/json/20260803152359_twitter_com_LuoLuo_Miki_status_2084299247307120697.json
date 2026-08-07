@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592401094273302528",
+    "conversation_id": "2084299247307120697",
+    "created_at": "2026-08-03T15:23:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T16:23:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084299247307120697"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/senzhiwu/statu…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/senzhiwu/status/2084294284992483340",
+          "start": 30,
+          "url": "https://t.co/qmbBxtkLo6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084299247307120697",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084294284992483340",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "除了对象没有能支撑我活下去的东西，也许分开那天就是离别之时 https://t.co/qmbBxtkLo6"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592401094273302528",
+        "conversation_id": "2084299247307120697",
+        "created_at": "2026-08-03T15:23:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T16:23:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084299247307120697"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/senzhiwu/statu…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/senzhiwu/status/2084294284992483340",
+              "start": 30,
+              "url": "https://t.co/qmbBxtkLo6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084299247307120697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084294284992483340",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "除了对象没有能支撑我活下去的东西，也许分开那天就是离别之时 https://t.co/qmbBxtkLo6"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2031270533359349761",
+        "conversation_id": "2084294284992483340",
+        "created_at": "2026-08-03T15:04:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T16:04:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084294284992483340"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084294284992483340",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "除了对象没有能支撑我活下去的东西，也许分开那天就是离别之时"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-15T06:16:59.000Z",
+        "description": "🍥2026/5/22\n每天都想和一只猹贴贴 ♡♡ \n@Dreemurr_Miki｜我的对象，我的爱人｜丨不od丨不zc丨不抽烟丨不鉴证丨大龄丨有证含糖🍥丨MTF\n碎碎念日常，不玩游戏，不进行非必要互动，别靠近我我会很烦唉\n\n互fo请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 26,
+                "username": "Dreemurr_Miki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoluo_miki",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoluo_miki",
+                "start": 0,
+                "url": "https://t.co/GbvEwIAU2Y"
+              }
+            ]
+          }
+        },
+        "id": "1592401094273302528",
+        "location": "距离你126米",
+        "name": "糯米🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2082399117578473595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057058246888960000/PSLJHun5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 617,
+          "following_count": 191,
+          "like_count": 1039,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 754
+        },
+        "url": "https://t.co/GbvEwIAU2Y",
+        "username": "LuoLuo_Miki",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-10T07:27:30.000Z",
+        "description": "一个什么都不擅长的废物｜喜欢一切可爱事物｜entp-t 现infp/j｜心归所至：@74025hai 愿为你的天使，化作你的羽翼，与你共赴天堂｜可爱树树子@GlowingTree880｜mtx🏳️‍⚧️｜小证偷吃｜hrt3.29｜家长党｜欢迎互fo喵｜常驻南京",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 41,
+                "username": "74025hai"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "GlowingTree880"
+              }
+            ]
+          }
+        },
+        "id": "2031270533359349761",
+        "location": "你家门口",
+        "name": "senzhiwu🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2055955740553355693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070681859684798464/sOsRMjEF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1727,
+          "following_count": 421,
+          "like_count": 3315,
+          "listed_count": 5,
+          "media_count": 124,
+          "tweet_count": 2529
+        },
+        "url": "",
+        "username": "senzhiwu",
+        "verified": false
+      }
+    ]
+  }
+}

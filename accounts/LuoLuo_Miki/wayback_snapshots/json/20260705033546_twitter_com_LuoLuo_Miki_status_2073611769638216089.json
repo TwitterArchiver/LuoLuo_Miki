@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592401094273302528",
+    "conversation_id": "2073307297410130294",
+    "created_at": "2026-07-05T03:35:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T04:35:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073611769638216089"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1545050439049064450",
+          "start": 0,
+          "username": "xz8796"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073611769638216089",
+    "in_reply_to_user_id": "1545050439049064450",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073610027521507641",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xz8796 好吧，我也想囤原粉😋"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592401094273302528",
+        "conversation_id": "2073307297410130294",
+        "created_at": "2026-07-05T03:35:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T04:35:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073611769638216089"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1545050439049064450",
+              "start": 0,
+              "username": "xz8796"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073611769638216089",
+        "in_reply_to_user_id": "1545050439049064450",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073610027521507641",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xz8796 好吧，我也想囤原粉😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1545050439049064450",
+        "conversation_id": "2073307297410130294",
+        "created_at": "2026-07-05T03:28:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T04:28:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073610027521507641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1592401094273302528",
+              "start": 0,
+              "username": "LuoLuo_Miki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073610027521507641",
+        "in_reply_to_user_id": "1592401094273302528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073608164885549290",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LuoLuo_Miki 没办法 99买不到能买到的就是98了要是我知道杂质是哪个就好搞了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-15T06:16:59.000Z",
+        "description": "各类游戏都浅玩，战雷伟大鳄梨邦，🍥2026/5/22\n丨不od丨不zc丨大龄丨有证含糖🍥丨MTF\n互fo请私信\n傻瓜@SofHAvVenn，笨蛋@linxinyujiang",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 58,
+                "username": "SofHAvVenn"
+              },
+              {
+                "end": 86,
+                "start": 72,
+                "username": "linxinyujiang"
+              }
+            ]
+          }
+        },
+        "id": "1592401094273302528",
+        "name": "糯米🍥",
+        "pinned_tweet_id": "2073265357758886352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057058246888960000/PSLJHun5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 137,
+          "like_count": 350,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 352
+        },
+        "url": "",
+        "username": "LuoLuo_Miki",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-07T14:21:54.000Z",
+        "description": "鉴赏李帆中……从今天开始我要做一个健全人\n生活號 | 一天會發10+條推請見諒\nINTJ | FtX | ed | od（劃掉） | BMI15\n有點陰暗 囤積癖",
+        "id": "1545050439049064450",
+        "location": "Republic of Korea",
+        "name": "李帆",
+        "pinned_tweet_id": "2073386250669850974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072228021139066880/Y41_HhUm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 185,
+          "like_count": 2188,
+          "listed_count": 0,
+          "media_count": 272,
+          "tweet_count": 1306
+        },
+        "url": "",
+        "username": "xz8796",
+        "verified": true
+      }
+    ]
+  }
+}

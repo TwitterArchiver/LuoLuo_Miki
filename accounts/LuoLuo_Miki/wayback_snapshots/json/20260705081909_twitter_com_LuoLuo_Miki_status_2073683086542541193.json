@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592401094273302528",
+    "conversation_id": "2073594502326194194",
+    "created_at": "2026-07-05T08:19:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T09:19:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073683086542541193"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2001675650994999296",
+          "start": 0,
+          "username": "Pluralitysubsys"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073683086542541193",
+    "in_reply_to_user_id": "2001675650994999296",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073677434717929580",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Pluralitysubsys 羡慕了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592401094273302528",
+        "conversation_id": "2073594502326194194",
+        "created_at": "2026-07-05T08:19:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T09:19:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073683086542541193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2001675650994999296",
+              "start": 0,
+              "username": "Pluralitysubsys"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073683086542541193",
+        "in_reply_to_user_id": "2001675650994999296",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073677434717929580",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pluralitysubsys 羡慕了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2001675650994999296",
+        "conversation_id": "2073594502326194194",
+        "created_at": "2026-07-05T07:56:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T08:56:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073677434717929580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1592401094273302528",
+              "start": 0,
+              "username": "LuoLuo_Miki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073677434717929580",
+        "in_reply_to_user_id": "1592401094273302528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073594502326194194",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LuoLuo_Miki 这两个都是好处啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-15T06:16:59.000Z",
+        "description": "各类游戏都浅玩，战雷伟大鳄梨邦，🍥2026/5/22\n丨不od丨不zc丨大龄丨有证含糖🍥丨MTF\n互fo请私信\n傻瓜@SofHAvVenn，笨蛋@linxinyujiang",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 58,
+                "username": "SofHAvVenn"
+              },
+              {
+                "end": 86,
+                "start": 72,
+                "username": "linxinyujiang"
+              }
+            ]
+          }
+        },
+        "id": "1592401094273302528",
+        "name": "糯米🍥",
+        "pinned_tweet_id": "2073265357758886352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057058246888960000/PSLJHun5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 141,
+          "like_count": 360,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 363
+        },
+        "url": "",
+        "username": "LuoLuo_Miki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-18T15:27:35.000Z",
+        "description": "喜爱生物化学 | 渴望成为全知者 | HK | They | audhd | 道德感极强 | nssi | od | 绝不自杀 | 法外狂徒 | 精神状态疯癫 |",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sites.google.com/view/plurality…",
+                "end": 23,
+                "expanded_url": "https://sites.google.com/view/pluralitysubsystem2025personal",
+                "start": 0,
+                "url": "https://t.co/Bv5TPNjkK9"
+              }
+            ]
+          }
+        },
+        "id": "2001675650994999296",
+        "location": "全球最大的化工厂 A区第8期11栋0318室",
+        "name": "清梦与清云",
+        "pinned_tweet_id": "2059175171286819294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059920070571335680/QMy39m02_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 134,
+          "like_count": 1884,
+          "listed_count": 0,
+          "media_count": 258,
+          "tweet_count": 3132
+        },
+        "url": "https://t.co/Bv5TPNjkK9",
+        "username": "Pluralitysubsys",
+        "verified": false
+      }
+    ]
+  }
+}

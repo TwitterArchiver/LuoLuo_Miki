@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592401094273302528",
+    "conversation_id": "2072943925170713060",
+    "created_at": "2026-07-03T09:56:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T10:56:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072982699510575489"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1927842694979801090",
+          "start": 0,
+          "username": "Lim_Rain_Bow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072982699510575489",
+    "in_reply_to_user_id": "1927842694979801090",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072982202720137564",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lim_Rain_Bow 不许o"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592401094273302528",
+        "conversation_id": "2072943925170713060",
+        "created_at": "2026-07-03T09:56:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T10:56:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072982699510575489"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1927842694979801090",
+              "start": 0,
+              "username": "Lim_Rain_Bow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072982699510575489",
+        "in_reply_to_user_id": "1927842694979801090",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072982202720137564",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lim_Rain_Bow 不许o"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1927842694979801090",
+        "conversation_id": "2072943925170713060",
+        "created_at": "2026-07-03T09:54:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T10:54:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072982202720137564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1592401094273302528",
+              "start": 0,
+              "username": "LuoLuo_Miki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072982202720137564",
+        "in_reply_to_user_id": "1592401094273302528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072943925170713060",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LuoLuo_Miki 来支持了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-15T06:16:59.000Z",
+        "description": "大家好~❤️！\n这里是糯米，很高兴认识大家❤️\n丨不od丨抑郁丨性别焦虑丨无证含糖🍥丨MTF\n\n笨蛋@linxinyujiang",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 50,
+                "username": "linxinyujiang"
+              }
+            ]
+          }
+        },
+        "id": "1592401094273302528",
+        "name": "糯米🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057058246888960000/PSLJHun5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 131,
+          "like_count": 291,
+          "listed_count": 2,
+          "media_count": 51,
+          "tweet_count": 319
+        },
+        "url": "",
+        "username": "LuoLuo_Miki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-28T21:41:44.000Z",
+        "description": "MtF🏳️‍⚧️/生产日期08.02.23/HRT26.5.11 无证含糖🍥/170cm？kg（体重焦虑中）/重焦双相/od中止/躺平摆烂ing/立直麻将 音游狗",
+        "id": "1927842694979801090",
+        "name": "レインボー☆🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033501252156588032/_SfpoI1M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 214,
+          "like_count": 109,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 26
+        },
+        "url": "",
+        "username": "Lim_Rain_Bow",
+        "verified": false
+      }
+    ]
+  }
+}

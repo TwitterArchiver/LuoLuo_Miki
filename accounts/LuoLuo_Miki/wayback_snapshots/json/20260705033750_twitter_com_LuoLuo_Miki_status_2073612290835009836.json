@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592401094273302528",
+    "conversation_id": "2065233585410580797",
+    "created_at": "2026-07-05T03:37:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T04:37:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073612290835009836"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1868438397083410432",
+          "start": 0,
+          "username": "2020520Rei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073612290835009836",
+    "in_reply_to_user_id": "1868438397083410432",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065233585410580797",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2020520Rei 咪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592401094273302528",
+        "conversation_id": "2065233585410580797",
+        "created_at": "2026-07-05T03:37:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T04:37:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073612290835009836"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1868438397083410432",
+              "start": 0,
+              "username": "2020520Rei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073612290835009836",
+        "in_reply_to_user_id": "1868438397083410432",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065233585410580797",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2020520Rei 咪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868438397083410432",
+        "conversation_id": "2065233585410580797",
+        "created_at": "2026-06-12T00:43:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T01:43:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065233585410580797"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065233585410580797",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1038,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "重新找回了一个老账号来用，他宝贝的阿零真是爱死你了，阿零的好朋友都找不到阿零了。没事的阿零在这里😘😘😘——"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-15T06:16:59.000Z",
+        "description": "各类游戏都浅玩，战雷伟大鳄梨邦，🍥2026/5/22\n丨不od丨不zc丨大龄丨有证含糖🍥丨MTF\n互fo请私信\n傻瓜@SofHAvVenn，笨蛋@linxinyujiang",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 58,
+                "username": "SofHAvVenn"
+              },
+              {
+                "end": 86,
+                "start": 72,
+                "username": "linxinyujiang"
+              }
+            ]
+          }
+        },
+        "id": "1592401094273302528",
+        "name": "糯米🍥",
+        "pinned_tweet_id": "2073265357758886352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057058246888960000/PSLJHun5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 138,
+          "like_count": 351,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 354
+        },
+        "url": "",
+        "username": "LuoLuo_Miki",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-15T23:30:20.000Z",
+        "description": "账号重生×3—重抑—有认知障碍—体弱多病—MTF🏳️‍⚧️—🔪💊🧂—只想做好自己       人美心善😘～                          163cm  45kg（小小只）              \n*我的互fo死了msk你赔我",
+        "id": "1868438397083410432",
+        "location": "0km",
+        "name": "Rei零🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2065233585410580797",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065231105180250112/fdeNffjS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 107,
+          "like_count": 565,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 288
+        },
+        "url": "",
+        "username": "2020520Rei",
+        "verified": false
+      }
+    ]
+  }
+}

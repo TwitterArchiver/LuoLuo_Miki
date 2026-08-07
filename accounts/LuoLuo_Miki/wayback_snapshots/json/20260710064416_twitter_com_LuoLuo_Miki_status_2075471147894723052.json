@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592401094273302528",
+    "conversation_id": "2075471147894723052",
+    "created_at": "2026-07-10T06:44:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T07:44:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075471147894723052"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1549814682654949376",
+          "start": 3,
+          "username": "wszhd321"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075471147894723052",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075422912644092411",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wszhd321: 抽奖，开奖时间最近，点赞评论转发，抽到12个小时没回作废，纯想送礼\n一等奖:抽3个每人6瓶魔爪可换其它饮料\n二等奖:3个15\n三等奖:5个8.8\n四等奖:5个6.6"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592401094273302528",
+        "conversation_id": "2075471147894723052",
+        "created_at": "2026-07-10T06:44:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T07:44:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075471147894723052"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1549814682654949376",
+              "start": 3,
+              "username": "wszhd321"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075471147894723052",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075422912644092411",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wszhd321: 抽奖，开奖时间最近，点赞评论转发，抽到12个小时没回作废，纯想送礼\n一等奖:抽3个每人6瓶魔爪可换其它饮料\n二等奖:3个15\n三等奖:5个8.8\n四等奖:5个6.6"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1549814682654949376",
+        "conversation_id": "2075422912644092411",
+        "created_at": "2026-07-10T03:32:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T04:32:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075422912644092411"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075422912644092411",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "抽奖，开奖时间最近，点赞评论转发，抽到12个小时没回作废，纯想送礼\n一等奖:抽3个每人6瓶魔爪可换其它饮料\n二等奖:3个15\n三等奖:5个8.8\n四等奖:5个6.6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-15T06:16:59.000Z",
+        "description": "各类游戏都浅玩，战雷伟大鳄梨邦，🍥2026/5/22\n每天都想和一只猹贴贴 ♡♡ \n@SofHAvVenn｜我的对象，我的爱人丨不od丨不zc丨大龄丨有证含糖🍥丨MTF\n\n互fo请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 42,
+                "username": "SofHAvVenn"
+              }
+            ]
+          }
+        },
+        "id": "1592401094273302528",
+        "name": "糯米🍥",
+        "pinned_tweet_id": "2074857658339795022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057058246888960000/PSLJHun5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 152,
+          "like_count": 458,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 438
+        },
+        "url": "",
+        "username": "LuoLuo_Miki",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-20T17:53:20.000Z",
+        "description": "只要当下",
+        "id": "1549814682654949376",
+        "name": "与与",
+        "pinned_tweet_id": "2075422912644092411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073744811434082305/bdDkJ-W5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 39,
+          "like_count": 140,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 468
+        },
+        "url": "",
+        "username": "wszhd321",
+        "verified": false
+      }
+    ]
+  }
+}

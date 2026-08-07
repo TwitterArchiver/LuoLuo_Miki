@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592401094273302528",
+    "conversation_id": "2073307297410130294",
+    "created_at": "2026-07-05T02:37:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T03:37:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073597203470585919"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1545050439049064450",
+          "start": 0,
+          "username": "xz8796"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073597203470585919",
+    "in_reply_to_user_id": "1545050439049064450",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073307297410130294",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xz8796 ☝😃，体感能接近吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2073307288967036928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMXd_pUbwAA8si4.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592401094273302528",
+        "conversation_id": "2073307297410130294",
+        "created_at": "2026-07-05T02:37:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T03:37:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073597203470585919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1545050439049064450",
+              "start": 0,
+              "username": "xz8796"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073597203470585919",
+        "in_reply_to_user_id": "1545050439049064450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073307297410130294",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xz8796 ☝😃，体感能接近吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073307288967036928"
+          ]
+        },
+        "author_id": "1545050439049064450",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2073307297410130294",
+        "created_at": "2026-07-04T07:25:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T08:25:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073307297410130294"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ThMczbDYLe",
+              "end": 23,
+              "expanded_url": "https://x.com/xz8796/status/2073307297410130294/photo/1",
+              "media_key": "3_2073307288967036928",
+              "start": 0,
+              "url": "https://t.co/ThMczbDYLe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073307297410130294",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 223,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ThMczbDYLe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-15T06:16:59.000Z",
+        "description": "这里是糯米，很高兴认识大家❤️\n丨不od丨抑郁丨性别焦虑丨无证含糖🍥丨MTF\n互fo请私信\n笨蛋@linxinyujiang",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 48,
+                "username": "linxinyujiang"
+              }
+            ]
+          }
+        },
+        "id": "1592401094273302528",
+        "name": "糯米🍥",
+        "pinned_tweet_id": "2073265357758886352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057058246888960000/PSLJHun5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 137,
+          "like_count": 348,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 346
+        },
+        "url": "",
+        "username": "LuoLuo_Miki",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-07T14:21:54.000Z",
+        "description": "鉴赏李帆中……从今天开始我要做一个健全人\n生活號 | 一天會發10+條推請見諒\nINTJ | FtX | ed | od（劃掉） | BMI15\n有點陰暗 囤積癖",
+        "id": "1545050439049064450",
+        "location": "Republic of Korea",
+        "name": "李帆",
+        "pinned_tweet_id": "2073386250669850974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072228021139066880/Y41_HhUm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 185,
+          "like_count": 2188,
+          "listed_count": 0,
+          "media_count": 272,
+          "tweet_count": 1303
+        },
+        "url": "",
+        "username": "xz8796",
+        "verified": true
+      }
+    ]
+  }
+}

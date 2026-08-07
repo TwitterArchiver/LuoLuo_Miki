@@ -1,0 +1,121 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592401094273302528",
+    "conversation_id": "2069762648116449412",
+    "created_at": "2026-06-24T12:40:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T13:40:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069762648116449412"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "一份结合了心理学量表与行为逻辑测试的深度鉴定系统",
+          "display_url": "femboy.test.nagisa.icu/?qq_aio_chat_t…",
+          "end": 77,
+          "expanded_url": "https://femboy.test.nagisa.icu/?qq_aio_chat_type=3",
+          "start": 54,
+          "status": 200,
+          "title": "男娘潜质综合评估量表",
+          "unwound_url": "https://femboy.test.nagisa.icu/?qq_aio_chat_type=3",
+          "url": "https://t.co/tdP1Xvdic9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069762648116449412",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我测出了「行为习惯满载体质」：205/250，🧸 软妹基因初醒，核心倾向是行为习惯。快来测测你的隐藏属性。 https://t.co/tdP1Xvdic9"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592401094273302528",
+        "conversation_id": "2069762648116449412",
+        "created_at": "2026-06-24T12:40:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T13:40:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069762648116449412"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "一份结合了心理学量表与行为逻辑测试的深度鉴定系统",
+              "display_url": "femboy.test.nagisa.icu/?qq_aio_chat_t…",
+              "end": 77,
+              "expanded_url": "https://femboy.test.nagisa.icu/?qq_aio_chat_type=3",
+              "start": 54,
+              "status": 200,
+              "title": "男娘潜质综合评估量表",
+              "unwound_url": "https://femboy.test.nagisa.icu/?qq_aio_chat_type=3",
+              "url": "https://t.co/tdP1Xvdic9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069762648116449412",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我测出了「行为习惯满载体质」：205/250，🧸 软妹基因初醒，核心倾向是行为习惯。快来测测你的隐藏属性。 https://t.co/tdP1Xvdic9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-15T06:16:59.000Z",
+        "description": "老大，白给会有人要吗丨不键政丨不od丨不自残丨内向不敢见人丨想找恋人或者主人丨",
+        "id": "1592401094273302528",
+        "name": "糯米🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057058246888960000/PSLJHun5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 107,
+          "like_count": 235,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 244
+        },
+        "url": "",
+        "username": "LuoLuo_Miki",
+        "verified": false
+      }
+    ]
+  }
+}

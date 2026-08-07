@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2083199737831014400"
+      ]
+    },
+    "author_id": "1592401094273302528",
+    "conversation_id": "2083199772270493866",
+    "created_at": "2026-07-31T14:35:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T15:35:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083199772270493866"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mdKhPIeyjt",
+          "end": 39,
+          "expanded_url": "https://x.com/LuoLuo_Miki/status/2083199772270493866/video/1",
+          "media_key": "13_2083199737831014400",
+          "start": 16,
+          "url": "https://t.co/mdKhPIeyjt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083199772270493866",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "尖头还会旋转，雷霆小鬼头🤣👉👉 https://t.co/mdKhPIeyjt"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18829,
+        "height": 1280,
+        "media_key": "13_2083199737831014400",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2083199737831014400/img/Tz3KqU4C2-LorTaW.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083199737831014400/vid/avc1/320x568/j80eJ3YsTCrOFs2x.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083199737831014400/vid/avc1/480x852/2gqRApRl7JkRJBAK.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083199737831014400/vid/avc1/720x1280/L2sArQz2ovTXYvls.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2083199737831014400/pl/rtmK9AsD7cU-4Cp7.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083199737831014400"
+          ]
+        },
+        "author_id": "1592401094273302528",
+        "conversation_id": "2083199772270493866",
+        "created_at": "2026-07-31T14:35:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T15:35:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083199772270493866"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mdKhPIeyjt",
+              "end": 39,
+              "expanded_url": "https://x.com/LuoLuo_Miki/status/2083199772270493866/video/1",
+              "media_key": "13_2083199737831014400",
+              "start": 16,
+              "url": "https://t.co/mdKhPIeyjt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083199772270493866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "尖头还会旋转，雷霆小鬼头🤣👉👉 https://t.co/mdKhPIeyjt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-15T06:16:59.000Z",
+        "description": "🍥2026/5/22\n每天都想和一只猹贴贴 ♡♡ \n@Dreemurr_Miki｜我的对象，我的爱人｜丨不od丨不zc丨不抽烟丨不鉴证丨大龄丨有证含糖🍥丨MTF\n碎碎念日常\n\n互fo请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 26,
+                "username": "Dreemurr_Miki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoluo_miki",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoluo_miki",
+                "start": 0,
+                "url": "https://t.co/GbvEwIBrSw"
+              }
+            ]
+          }
+        },
+        "id": "1592401094273302528",
+        "location": "距离你126米",
+        "name": "糯米🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2082399117578473595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057058246888960000/PSLJHun5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 606,
+          "following_count": 190,
+          "like_count": 969,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 713
+        },
+        "url": "https://t.co/GbvEwIBrSw",
+        "username": "LuoLuo_Miki",
+        "verified": true
+      }
+    ]
+  }
+}

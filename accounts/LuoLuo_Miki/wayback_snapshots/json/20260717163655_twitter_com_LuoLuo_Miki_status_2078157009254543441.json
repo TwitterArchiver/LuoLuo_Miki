@@ -1,0 +1,414 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592401094273302528",
+    "conversation_id": "2078136970317054380",
+    "created_at": "2026-07-17T16:36:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T17:36:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078157009254543441"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1672078534469369856",
+          "start": 0,
+          "username": "csl1027"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078157009254543441",
+    "in_reply_to_user_id": "1672078534469369856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078136970317054380",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@csl1027 空空...空空...努力往前吧，摸摸你"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2078136936397701120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNcGiICagAAaAqb.jpg",
+        "width": 2275
+      },
+      {
+        "height": 2275,
+        "media_key": "3_2078136936397774848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNcGiICboAA2djY.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592401094273302528",
+        "conversation_id": "2078136970317054380",
+        "created_at": "2026-07-17T16:36:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T17:36:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078157009254543441"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1672078534469369856",
+              "start": 0,
+              "username": "csl1027"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078157009254543441",
+        "in_reply_to_user_id": "1672078534469369856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078136970317054380",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@csl1027 空空...空空...努力往前吧，摸摸你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078136936397701120",
+            "3_2078136936397774848"
+          ]
+        },
+        "author_id": "1672078534469369856",
+        "conversation_id": "2078136970317054380",
+        "created_at": "2026-07-17T15:17:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T16:17:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078136970317054380"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3IvCTJoE2m",
+              "end": 169,
+              "expanded_url": "https://x.com/csl1027/status/2078136970317054380/photo/1",
+              "media_key": "3_2078136936397701120",
+              "start": 146,
+              "url": "https://t.co/3IvCTJoE2m"
+            },
+            {
+              "display_url": "pic.x.com/3IvCTJoE2m",
+              "end": 169,
+              "expanded_url": "https://x.com/csl1027/status/2078136970317054380/photo/1",
+              "media_key": "3_2078136936397774848",
+              "start": 146,
+              "url": "https://t.co/3IvCTJoE2m"
+            },
+            {
+              "display_url": "x.com/csl1027/status…",
+              "end": 193,
+              "expanded_url": "https://twitter.com/csl1027/status/2078077639160733985",
+              "start": 170,
+              "url": "https://t.co/8QTWjzv4sV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078136970317054380",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 326,
+                "start": 321,
+                "tag": "房间整理"
+              },
+              {
+                "end": 331,
+                "start": 327,
+                "tag": "新开始"
+              },
+              {
+                "end": 340,
+                "start": 332,
+                "tag": "otaku房间"
+              },
+              {
+                "end": 347,
+                "start": 341,
+                "tag": "mtf日常"
+              },
+              {
+                "end": 353,
+                "start": 348,
+                "tag": "可爱日常"
+              },
+              {
+                "end": 359,
+                "start": 354,
+                "tag": "生活转折"
+              },
+              {
+                "end": 365,
+                "start": 360,
+                "tag": "告别过去"
+              },
+              {
+                "end": 370,
+                "start": 366,
+                "tag": "空荡荡"
+              },
+              {
+                "end": 376,
+                "start": 371,
+                "tag": "部屋整理"
+              },
+              {
+                "end": 384,
+                "start": 377,
+                "tag": "新しい始まり"
+              },
+              {
+                "end": 390,
+                "start": 385,
+                "tag": "薬娘日常"
+              },
+              {
+                "end": 397,
+                "start": 391,
+                "tag": "日常の変化"
+              },
+              {
+                "end": 408,
+                "start": 398,
+                "tag": "otakulife"
+              },
+              {
+                "end": 422,
+                "start": 409,
+                "tag": "roommakeover"
+              },
+              {
+                "end": 437,
+                "start": 423,
+                "tag": "newbeginnings"
+              },
+              {
+                "end": 447,
+                "start": 438,
+                "tag": "mtfdaily"
+              },
+              {
+                "end": 459,
+                "start": 448,
+                "tag": "transdaily"
+              },
+              {
+                "end": 466,
+                "start": 460,
+                "tag": "新しい部屋"
+              },
+              {
+                "end": 472,
+                "start": 467,
+                "tag": "手办告别"
+              },
+              {
+                "end": 478,
+                "start": 473,
+                "tag": "小说收藏"
+              },
+              {
+                "end": 487,
+                "start": 479,
+                "tag": "otaku生活"
+              },
+              {
+                "end": 494,
+                "start": 488,
+                "tag": "生活の変化"
+              },
+              {
+                "end": 501,
+                "start": 495,
+                "tag": "可愛い日常"
+              },
+              {
+                "end": 508,
+                "start": 502,
+                "tag": "新しい生活"
+              },
+              {
+                "end": 513,
+                "start": 509,
+                "tag": "mtf"
+              },
+              {
+                "end": 518,
+                "start": 514,
+                "tag": "木桶饭"
+              },
+              {
+                "end": 522,
+                "start": 519,
+                "tag": "药娘"
+              },
+              {
+                "end": 527,
+                "start": 523,
+                "tag": "家暴党"
+              }
+            ]
+          },
+          "text": "这就是整理之后的样子了……😭\n\n床上的抱枕和被子还在，但书架和展示架空了好大一块。\n\n以前那里摆满了我的小说、周边，还有很多手办，现在只剩几个小东西了。\n\n真的好不习惯这种空荡荡的感觉……😢\n\n那些曾经堆满整个房间的角色和故事，现在都收起来了。\n\n虽然难过，但也算是给生活一个新的开始吧……\n\n（“那…… 如果有来世…… 我，我想做个女孩子。”\n太阴的目光开始变得闪烁起来，她盯着苏雨晴看着，像是一台扫描仪一样，把她整个的扫了一遍，甚至好像就连记忆都被读取了一般。\n“嗯。” 太阴终于点了点头，决定实现苏雨晴的这个愿望，用有些机械的声线说道，“来世，你可以做一个真正的女孩子，但是，所有的记忆都会消失……”\n“没关系。”）—— 药娘的天空🫂\n#房间整理 #新开始 #otaku房间 #mtf日常 #可爱日常 #生活转折 #告别过去 #空荡荡 #部屋整理 #新しい始まり #薬娘日常 #日常の変化 #otakulife #roommakeover #newbeginnings #mtfdaily #transdaily #新しい部屋 #手办告别 #小说收藏 #otaku生活 #生活の変化 #可愛い日常 #新しい生活 #mtf #木桶饭 #药娘 #家暴党"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 445,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078077639160733985",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这就是整理之后的样子了……😭\n\n床上的抱枕和被子还在，但书架和展示架空了好大一块。\n\n以前那里摆满了我的小说、周边，还有很多手办，现在只剩几个小东西了。\n\n真的好不习惯这种空荡荡的感觉……😢\n\n那些曾经堆满整个房间的角色和故事，现在都收起来了。\n\n虽然难过，但也算是给生活一个新的开始吧…… https://t.co/3IvCTJoE2m https://t.co/8QTWjzv4sV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-15T06:16:59.000Z",
+        "description": "各类游戏都浅玩，战雷伟大鳄梨邦，🍥2026/5/22\n挚友@Dreemurr_Miki｜丨不od丨不zc丨不抽烟丨不鉴证丨大龄丨有证含糖🍥丨MTF\n\n互fo请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 29,
+                "username": "Dreemurr_Miki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoluo_miki",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoluo_miki",
+                "start": 0,
+                "url": "https://t.co/GbvEwIBrSw"
+              }
+            ]
+          }
+        },
+        "id": "1592401094273302528",
+        "name": "糯米🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2074857658339795022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057058246888960000/PSLJHun5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 350,
+          "following_count": 171,
+          "like_count": 567,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 520
+        },
+        "url": "https://t.co/GbvEwIBrSw",
+        "username": "LuoLuo_Miki",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-23T03:06:25.000Z",
+        "description": "mtf🏳️‍⚧️🍥 | 📮:clipsule@outlook.com | 无证HRT:2026.3.15 | 不混🏳️‍⚧️圈 | 不改花刀 | 出厂2008.10.27 | 艰难存活ing | 出柜变家暴党藏吃药ing | 163cm/44kg | 推魔女伊蕾娜 | 计算机技术宅 | 记录可爱日常～💕",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "me.clipsule.cn",
+                "end": 23,
+                "expanded_url": "https://me.clipsule.cn/",
+                "start": 0,
+                "url": "https://t.co/VAVAt3H09t"
+              }
+            ]
+          }
+        },
+        "id": "1672078534469369856",
+        "location": "江苏 徐州",
+        "name": "晴れ猫🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2075210180112064747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067110268417802243/nDzW43nF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 477,
+          "following_count": 27,
+          "like_count": 293,
+          "listed_count": 2,
+          "media_count": 52,
+          "tweet_count": 251
+        },
+        "url": "https://t.co/VAVAt3H09t",
+        "username": "csl1027",
+        "verified": true
+      }
+    ]
+  }
+}

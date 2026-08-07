@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592401094273302528",
+    "conversation_id": "2061461667930845556",
+    "created_at": "2026-06-01T14:55:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T15:55:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061461667930845556"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2061461667930845556",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "记忆太碎片化了，越来越严重了。\n今天在手机备忘录里又记录了今天发的事情。鹦鹉很乖，捧在手里会蹭我的手，放进笼子里会有人照顾，有吃有喝，要是被丢弃了呢？应该会飞的很远很高吧....\n我想了很久..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592401094273302528",
+        "conversation_id": "2061461667930845556",
+        "created_at": "2026-06-01T14:55:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T15:55:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061461667930845556"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2061461667930845556",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "记忆太碎片化了，越来越严重了。\n今天在手机备忘录里又记录了今天发的事情。鹦鹉很乖，捧在手里会蹭我的手，放进笼子里会有人照顾，有吃有喝，要是被丢弃了呢？应该会飞的很远很高吧....\n我想了很久..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-15T06:16:59.000Z",
+        "description": "老大，白给会有人要吗丨不键政丨不od丨想找恋人或者主人丨",
+        "id": "1592401094273302528",
+        "name": "糯米🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057058246888960000/PSLJHun5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 66,
+          "like_count": 62,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 97
+        },
+        "username": "LuoLuo_Miki",
+        "verified": true
+      }
+    ]
+  }
+}

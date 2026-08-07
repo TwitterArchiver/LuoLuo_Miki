@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592401094273302528",
+    "conversation_id": "2073594502326194194",
+    "created_at": "2026-07-05T12:16:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T13:16:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073742844494594419"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1864353240109731841",
+          "start": 0,
+          "username": "sjxjxjnz"
+        },
+        {
+          "end": 22,
+          "id": "1698558933575827457",
+          "start": 10,
+          "username": "ChenHe20581"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073742844494594419",
+    "in_reply_to_user_id": "1864353240109731841",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073742335972618276",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sjxjxjnz @ChenHe20581 😨😨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592401094273302528",
+        "conversation_id": "2073594502326194194",
+        "created_at": "2026-07-05T12:16:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T13:16:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073742844494594419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1864353240109731841",
+              "start": 0,
+              "username": "sjxjxjnz"
+            },
+            {
+              "end": 22,
+              "id": "1698558933575827457",
+              "start": 10,
+              "username": "ChenHe20581"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073742844494594419",
+        "in_reply_to_user_id": "1864353240109731841",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073742335972618276",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sjxjxjnz @ChenHe20581 😨😨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1864353240109731841",
+        "conversation_id": "2073594502326194194",
+        "created_at": "2026-07-05T12:14:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T13:14:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073742335972618276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1698558933575827457",
+              "start": 0,
+              "username": "ChenHe20581"
+            },
+            {
+              "end": 25,
+              "id": "1592401094273302528",
+              "start": 13,
+              "username": "LuoLuo_Miki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073742335972618276",
+        "in_reply_to_user_id": "1698558933575827457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073700711834234936",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChenHe20581 @LuoLuo_Miki 那如果我有恋丑癖呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-15T06:16:59.000Z",
+        "description": "各类游戏都浅玩，战雷伟大鳄梨邦，🍥2026/5/22\n丨不od丨不zc丨大龄丨有证含糖🍥丨MTF\n互fo请私信\n傻瓜@SofHAvVenn，笨蛋@linxinyujiang",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 58,
+                "username": "SofHAvVenn"
+              },
+              {
+                "end": 86,
+                "start": 72,
+                "username": "linxinyujiang"
+              }
+            ]
+          }
+        },
+        "id": "1592401094273302528",
+        "name": "糯米🍥",
+        "pinned_tweet_id": "2073265357758886352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057058246888960000/PSLJHun5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 142,
+          "like_count": 397,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 385
+        },
+        "url": "",
+        "username": "LuoLuo_Miki",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-04T16:57:34.000Z",
+        "description": "",
+        "id": "1864353240109731841",
+        "name": "不吃香菜😋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926431285737594880/qiC2_med_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 95,
+          "like_count": 3491,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 117
+        },
+        "url": "",
+        "username": "sjxjxjnz",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-04T04:49:56.000Z",
+        "description": "",
+        "id": "1698558933575827457",
+        "name": "key",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999213493787197440/rYyMiFGn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 216,
+          "like_count": 13942,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 1924
+        },
+        "url": "",
+        "username": "ChenHe20581",
+        "verified": false
+      }
+    ]
+  }
+}

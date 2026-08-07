@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592401094273302528",
+    "conversation_id": "2084616751040590234",
+    "created_at": "2026-08-04T12:25:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T13:25:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084616751040590234"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 23,
+          "id": "1720665183188922368",
+          "start": 18,
+          "username": "grok"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/KTD593yug/stat…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/KTD593yug/status/2084581921263333564",
+          "start": 31,
+          "url": "https://t.co/tRzsyvn9Yr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084616751040590234",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084581921263333564",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "请告诉我这个账号上最恶心的帖子  \n@grok \n（用中文） https://t.co/tRzsyvn9Yr"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592401094273302528",
+        "conversation_id": "2084616751040590234",
+        "created_at": "2026-08-04T12:25:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T13:25:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084616751040590234"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 23,
+              "id": "1720665183188922368",
+              "start": 18,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/KTD593yug/stat…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/KTD593yug/status/2084581921263333564",
+              "start": 31,
+              "url": "https://t.co/tRzsyvn9Yr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084616751040590234",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084581921263333564",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "请告诉我这个账号上最恶心的帖子  \n@grok \n（用中文） https://t.co/tRzsyvn9Yr"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686914633314013184",
+        "conversation_id": "2084581921263333564",
+        "created_at": "2026-08-04T10:07:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T11:07:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084581921263333564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 23,
+              "id": "1720665183188922368",
+              "start": 18,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Wesley10032/st…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/Wesley10032/status/2084573316178993227",
+              "start": 31,
+              "url": "https://t.co/pLjeiY8Obm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084581921263333564",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 284,
+          "like_count": 2,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084573316178993227",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "请告诉我这个账号上最恶心的帖子  \n@grok \n（用中文） https://t.co/pLjeiY8Obm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-15T06:16:59.000Z",
+        "description": "🍥2026/5/22\n每天都想和一只猹贴贴 ♡♡ \n@Dreemurr_Miki｜我的对象，我的爱人｜丨不od丨不zc丨不抽烟丨不鉴证丨大龄丨有证含糖🍥丨MTF\n碎碎念日常，不玩游戏，不进行非必要互动，别靠近我\n\n互fo请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 26,
+                "username": "Dreemurr_Miki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoluo_miki",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoluo_miki",
+                "start": 0,
+                "url": "https://t.co/GbvEwIAU2Y"
+              }
+            ]
+          }
+        },
+        "id": "1592401094273302528",
+        "location": "距离你126米",
+        "name": "糯米🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2082399117578473595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057058246888960000/PSLJHun5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 619,
+          "following_count": 190,
+          "like_count": 1069,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 768
+        },
+        "url": "https://t.co/GbvEwIAU2Y",
+        "username": "LuoLuo_Miki",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8908710,
+          "following_count": 5,
+          "like_count": 122,
+          "listed_count": 7262,
+          "media_count": 9218396,
+          "tweet_count": 133902220
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-03T01:39:45.000Z",
+        "description": "雑魚ざこ♡ | 是ENFP | 友跨 | 偶尔半夜emo | 看情况互fo | 简介不定期更新喵",
+        "id": "1686914633314013184",
+        "location": "-13cm",
+        "name": "千绘莉喵～",
+        "pinned_tweet_id": "2077804269668110515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029148198111985664/FJjVvRik_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 249,
+          "like_count": 3746,
+          "listed_count": 1,
+          "media_count": 137,
+          "tweet_count": 881
+        },
+        "url": "",
+        "username": "KTD593yug",
+        "verified": false
+      }
+    ]
+  }
+}

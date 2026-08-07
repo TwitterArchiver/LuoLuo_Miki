@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592401094273302528",
+    "conversation_id": "2080597411547042001",
+    "created_at": "2026-07-24T12:07:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T13:07:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080625874219815334"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1440983154131488774",
+          "start": 0,
+          "username": "daisy38193824"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080625874219815334",
+    "in_reply_to_user_id": "1440983154131488774",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080597411547042001",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@daisy38193824 不要啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2080597389132603392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN_ETUvaoAA7qTF.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592401094273302528",
+        "conversation_id": "2080597411547042001",
+        "created_at": "2026-07-24T12:07:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T13:07:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080625874219815334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1440983154131488774",
+              "start": 0,
+              "username": "daisy38193824"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080625874219815334",
+        "in_reply_to_user_id": "1440983154131488774",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080597411547042001",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@daisy38193824 不要啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080597389132603392"
+          ]
+        },
+        "author_id": "1440983154131488774",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2080597411547042001",
+        "created_at": "2026-07-24T10:14:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T11:14:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080597411547042001"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lXl61IaAJQ",
+              "end": 39,
+              "expanded_url": "https://x.com/daisy38193824/status/2080597411547042001/photo/1",
+              "media_key": "3_2080597389132603392",
+              "start": 16,
+              "url": "https://t.co/lXl61IaAJQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080597411547042001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "等我债务还完，就可以离开了.. https://t.co/lXl61IaAJQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-15T06:16:59.000Z",
+        "description": "各类游戏都浅玩，战雷伟大鳄梨邦，🍥2026/5/22\n每天都想和一只猹贴贴 ♡♡ \n@Dreemurr_Miki｜我的对象，我的爱人｜丨不od丨不zc丨不抽烟丨不鉴证丨大龄丨有证含糖🍥丨MTF\n\n互fo请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 42,
+                "username": "Dreemurr_Miki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoluo_miki",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoluo_miki",
+                "start": 0,
+                "url": "https://t.co/GbvEwIBrSw"
+              }
+            ]
+          }
+        },
+        "id": "1592401094273302528",
+        "location": "距离你126米",
+        "name": "糯米🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2079073415873605729",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057058246888960000/PSLJHun5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 470,
+          "following_count": 185,
+          "like_count": 788,
+          "listed_count": 1,
+          "media_count": 68,
+          "tweet_count": 626
+        },
+        "url": "https://t.co/GbvEwIBrSw",
+        "username": "LuoLuo_Miki",
+        "verified": true
+      },
+      {
+        "created_at": "2021-09-23T10:15:39.000Z",
+        "description": "无证含糖中|HRT：2026/3/19｜ INFP-T｜\n比较内向社恐｜喜欢可爱的小动物｜爱玩mc cs2 lol 各种galgame | 爱看治愈/治愈/催泪类型的动漫｜ 粤语/日语流行/摇滚/后摇/欧美流行/二次元/古典/爵士/金属｜TG：@FALLIN2064|匿名提问👇",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 122,
+                "username": "FALLIN2064"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fallin22938",
+                "end": 23,
+                "expanded_url": "https://ngl.link/fallin22938",
+                "start": 0,
+                "url": "https://t.co/wx8CXSpu18"
+              }
+            ]
+          }
+        },
+        "id": "1440983154131488774",
+        "location": "湖北省武汉市某下水道",
+        "name": "𝓕𝓪𝓵𝓵𝓲𝓷'🍥",
+        "pinned_tweet_id": "2070453103594524856",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072714947436703744/ou5BYij__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 971,
+          "following_count": 950,
+          "like_count": 4405,
+          "listed_count": 2,
+          "media_count": 286,
+          "tweet_count": 808
+        },
+        "url": "https://t.co/wx8CXSpu18",
+        "username": "daisy38193824",
+        "verified": false
+      }
+    ]
+  }
+}

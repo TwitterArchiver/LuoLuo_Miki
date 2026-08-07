@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592401094273302528",
+    "conversation_id": "2084189723804025197",
+    "created_at": "2026-08-03T11:22:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T12:22:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084238369949974850"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1686914633314013184",
+          "start": 0,
+          "username": "KTD593yug"
+        },
+        {
+          "end": 16,
+          "id": "1720665183188922368",
+          "start": 11,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084238369949974850",
+    "in_reply_to_user_id": "1686914633314013184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084189723804025197",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KTD593yug @grok 我的怎么不一样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592401094273302528",
+        "conversation_id": "2084189723804025197",
+        "created_at": "2026-08-03T11:22:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T12:22:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084238369949974850"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1686914633314013184",
+              "start": 0,
+              "username": "KTD593yug"
+            },
+            {
+              "end": 16,
+              "id": "1720665183188922368",
+              "start": 11,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084238369949974850",
+        "in_reply_to_user_id": "1686914633314013184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084189723804025197",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KTD593yug @grok 我的怎么不一样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1686914633314013184",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2084189723804025197",
+        "created_at": "2026-08-03T08:08:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T09:08:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084189723804025197"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1720665183188922368",
+              "start": 0,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Aurvsnow/statu…",
+              "end": 135,
+              "expanded_url": "https://twitter.com/Aurvsnow/status/2084188567522472255",
+              "start": 112,
+              "url": "https://t.co/0vmCHXvflE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084189723804025197",
+        "in_reply_to_user_id": "1720665183188922368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 588,
+          "like_count": 7,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084188567522472255",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@grok 分析我的推文、个人资料和互动，并回答以下内容：\n\n性别：\n性取向：\n年龄：\n心理年龄：\n爱好：\n智商：\n形容我的形容词：\n5 个最喜欢的事物：\n5 个不喜欢的事物：\n根据 Twitter 我的伴侣：\n（用中文） https://t.co/0vmCHXvflE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-15T06:16:59.000Z",
+        "description": "🍥2026/5/22\n每天都想和一只猹贴贴 ♡♡ \n@Dreemurr_Miki｜我的对象，我的爱人｜丨不od丨不zc丨不抽烟丨不鉴证丨大龄丨有证含糖🍥丨MTF\n碎碎念日常，不玩游戏，不进行非必要互动，别靠近我我会很烦唉\n\n互fo请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 26,
+                "username": "Dreemurr_Miki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoluo_miki",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoluo_miki",
+                "start": 0,
+                "url": "https://t.co/GbvEwIAU2Y"
+              }
+            ]
+          }
+        },
+        "id": "1592401094273302528",
+        "location": "距离你126米",
+        "name": "糯米🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2082399117578473595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057058246888960000/PSLJHun5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 616,
+          "following_count": 191,
+          "like_count": 1034,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 750
+        },
+        "url": "https://t.co/GbvEwIAU2Y",
+        "username": "LuoLuo_Miki",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-03T01:39:45.000Z",
+        "description": "雑魚ざこ♡ | 是ENFP | 友跨 | 偶尔半夜emo | 看情况互fo | 简介不定期更新喵",
+        "id": "1686914633314013184",
+        "location": "-13cm",
+        "name": "千绘莉喵～",
+        "pinned_tweet_id": "2077804269668110515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029148198111985664/FJjVvRik_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 231,
+          "like_count": 3402,
+          "listed_count": 1,
+          "media_count": 132,
+          "tweet_count": 813
+        },
+        "url": "",
+        "username": "KTD593yug",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8904102,
+          "following_count": 5,
+          "like_count": 122,
+          "listed_count": 7257,
+          "media_count": 9213925,
+          "tweet_count": 133666331
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

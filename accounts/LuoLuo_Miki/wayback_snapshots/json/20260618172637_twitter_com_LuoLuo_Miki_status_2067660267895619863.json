@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592401094273302528",
+    "conversation_id": "2067653601036779670",
+    "created_at": "2026-06-18T17:26:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T18:26:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067660267895619863"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2031920545630208000",
+          "start": 0,
+          "username": "MistLemon2011"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067660267895619863",
+    "in_reply_to_user_id": "2031920545630208000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067653601036779670",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MistLemon2011 能修好吗，可以用来纪念"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592401094273302528",
+        "conversation_id": "2067653601036779670",
+        "created_at": "2026-06-18T17:26:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T18:26:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067660267895619863"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2031920545630208000",
+              "start": 0,
+              "username": "MistLemon2011"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067660267895619863",
+        "in_reply_to_user_id": "2031920545630208000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067653601036779670",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MistLemon2011 能修好吗，可以用来纪念"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2031920545630208000",
+        "conversation_id": "2067653601036779670",
+        "created_at": "2026-06-18T17:00:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T18:00:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067653601036779670"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067653601036779670",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我电脑显示器烧了…倒霉倒霉…啊不过它比我还大一岁也算寿终正寝了🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-15T06:16:59.000Z",
+        "description": "老大，白给会有人要吗丨不键政丨不od丨不自残丨内向不敢见人丨想找恋人或者主人丨",
+        "id": "1592401094273302528",
+        "name": "糯米🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057058246888960000/PSLJHun5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 90,
+          "like_count": 179,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 196
+        },
+        "url": "",
+        "username": "LuoLuo_Miki",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-12T02:30:48.000Z",
+        "description": "2011出厂的次品｜INFP｜公交迷｜中抑轻焦｜MTF｜半个家长党｜无证含糖｜🍥2026/5/9｜不键政｜无特长无目标无未来的废物｜很想安慰他人奈何我嘴太笨了😢\n恳请包容🥲",
+        "id": "2031920545630208000",
+        "location": "远在天边",
+        "name": "凝矇啊🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054920035580403712/OLpB-21o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 334,
+          "like_count": 1917,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 245
+        },
+        "url": "",
+        "username": "MistLemon2011",
+        "verified": false
+      }
+    ]
+  }
+}

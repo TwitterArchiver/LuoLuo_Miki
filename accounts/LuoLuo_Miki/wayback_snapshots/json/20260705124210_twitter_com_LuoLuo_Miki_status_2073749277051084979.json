@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2073747990356078592"
+      ],
+      "media_source_tweet_id": [
+        "2073748137064452496"
+      ]
+    },
+    "author_id": "1592401094273302528",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2073749277051084979",
+    "created_at": "2026-07-05T12:42:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T13:42:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073749277051084979"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1830260222180646912",
+          "start": 3,
+          "username": "Ep1pQAQ"
+        },
+        {
+          "end": 25,
+          "id": "1592401094273302528",
+          "start": 13,
+          "username": "LuoLuo_Miki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sUE2pJXULm",
+          "end": 115,
+          "expanded_url": "https://x.com/Ep1pQAQ/status/2073748137064452496/video/1",
+          "media_key": "7_2073747990356078592",
+          "start": 92,
+          "url": "https://t.co/sUE2pJXULm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073749277051084979",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073748137064452496",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ep1pQAQ: @LuoLuo_Miki 恭喜糯米中奖，也感谢大家对番茄的支持，番茄以后也会更加努力的！祝大家好运~（话说好像快到200fo了，你们说到时候抽什么好呢？🤔） https://t.co/sUE2pJXULm"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 61161,
+        "height": 1278,
+        "media_key": "7_2073747990356078592",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2073747990356078592/pu/img/ZMjiDZUiZ2CASxEA.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2073747990356078592/pu/vid/avc1/320x710/uGaP1v4zR18Sjtrq.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2073747990356078592/pu/vid/avc1/480x1064/DI8gcNVhrIX63bsL.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2073747990356078592/pu/vid/avc1/576x1278/u40mFEkmFD4ONnzF.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2073747990356078592/pu/pl/minpsrIKvWNMB6mr.m3u8?tag=12"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2073747990356078592"
+          ],
+          "media_source_tweet_id": [
+            "2073748137064452496"
+          ]
+        },
+        "author_id": "1592401094273302528",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2073749277051084979",
+        "created_at": "2026-07-05T12:42:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T13:42:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073749277051084979"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1830260222180646912",
+              "start": 3,
+              "username": "Ep1pQAQ"
+            },
+            {
+              "end": 25,
+              "id": "1592401094273302528",
+              "start": 13,
+              "username": "LuoLuo_Miki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sUE2pJXULm",
+              "end": 115,
+              "expanded_url": "https://x.com/Ep1pQAQ/status/2073748137064452496/video/1",
+              "media_key": "7_2073747990356078592",
+              "start": 92,
+              "url": "https://t.co/sUE2pJXULm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073749277051084979",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073748137064452496",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ep1pQAQ: @LuoLuo_Miki 恭喜糯米中奖，也感谢大家对番茄的支持，番茄以后也会更加努力的！祝大家好运~（话说好像快到200fo了，你们说到时候抽什么好呢？🤔） https://t.co/sUE2pJXULm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2073747990356078592"
+          ]
+        },
+        "author_id": "1830260222180646912",
+        "conversation_id": "2073748137064452496",
+        "created_at": "2026-07-05T12:37:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T13:37:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073748137064452496"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1592401094273302528",
+              "start": 0,
+              "username": "LuoLuo_Miki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sUE2pJXULm",
+              "end": 102,
+              "expanded_url": "https://x.com/Ep1pQAQ/status/2073748137064452496/video/1",
+              "media_key": "7_2073747990356078592",
+              "start": 79,
+              "url": "https://t.co/sUE2pJXULm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073748137064452496",
+        "in_reply_to_user_id": "1592401094273302528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "@LuoLuo_Miki 恭喜糯米中奖，也感谢大家对番茄的支持，番茄以后也会更加努力的！祝大家好运~（话说好像快到200fo了，你们说到时候抽什么好呢？🤔） https://t.co/sUE2pJXULm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-15T06:16:59.000Z",
+        "description": "各类游戏都浅玩，战雷伟大鳄梨邦，🍥2026/5/22\n丨不od丨不zc丨大龄丨有证含糖🍥丨MTF\n互fo请私信\n傻瓜@SofHAvVenn，笨蛋@linxinyujiang",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 58,
+                "username": "SofHAvVenn"
+              },
+              {
+                "end": 86,
+                "start": 72,
+                "username": "linxinyujiang"
+              }
+            ]
+          }
+        },
+        "id": "1592401094273302528",
+        "name": "糯米🍥",
+        "pinned_tweet_id": "2073265357758886352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057058246888960000/PSLJHun5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 142,
+          "like_count": 397,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 386
+        },
+        "url": "",
+        "username": "LuoLuo_Miki",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-01T15:03:53.000Z",
+        "description": "喂喂？让你视奸我了吗！等等...你说你要加入ep的无时无刻的无聊大冒险喵？（叉腰）那就勉为其难的同意你入伙了...哼哼！（得意）\n简单自我介绍一下吧—\nINFP-A/是个经自我专业审批后选择个性化内分泌调节方案的MTF🍬！/情绪调酒师，来者不拒，欢迎私信，希望能到1000fo...（当前入伙人数191！/1000）",
+        "id": "1830260222180646912",
+        "name": "番茄摞EP🍮🍥🏳️‍⚧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059240653293518848/PV6Psq4__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 136,
+          "like_count": 379,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 240
+        },
+        "url": "",
+        "username": "Ep1pQAQ",
+        "verified": false
+      }
+    ]
+  }
+}

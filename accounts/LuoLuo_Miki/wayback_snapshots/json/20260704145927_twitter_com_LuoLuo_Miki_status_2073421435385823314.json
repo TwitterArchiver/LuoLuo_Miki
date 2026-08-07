@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592401094273302528",
+    "conversation_id": "2073265357758886352",
+    "created_at": "2026-07-04T14:59:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T15:59:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073421435385823314"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1977200375766958082",
+          "start": 0,
+          "username": "yvanyvandecw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073421435385823314",
+    "in_reply_to_user_id": "1977200375766958082",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073420879028167088",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yvanyvandecw 😡👉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592401094273302528",
+        "conversation_id": "2073265357758886352",
+        "created_at": "2026-07-04T14:59:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T15:59:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073421435385823314"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1977200375766958082",
+              "start": 0,
+              "username": "yvanyvandecw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073421435385823314",
+        "in_reply_to_user_id": "1977200375766958082",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073420879028167088",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yvanyvandecw 😡👉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1977200375766958082",
+        "conversation_id": "2073265357758886352",
+        "created_at": "2026-07-04T14:57:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T15:57:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073420879028167088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1592401094273302528",
+              "start": 0,
+              "username": "LuoLuo_Miki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073420879028167088",
+        "in_reply_to_user_id": "1592401094273302528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073265357758886352",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LuoLuo_Miki 不要抢我的货😠"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-15T06:16:59.000Z",
+        "description": "这里是糯米，很高兴认识大家❤️\n丨不od丨抑郁丨性别焦虑丨无证含糖🍥丨MTF\n互fo请私信\n笨蛋@linxinyujiang",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 48,
+                "username": "linxinyujiang"
+              }
+            ]
+          }
+        },
+        "id": "1592401094273302528",
+        "name": "糯米🍥",
+        "pinned_tweet_id": "2073265357758886352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057058246888960000/PSLJHun5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 135,
+          "like_count": 347,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 336
+        },
+        "url": "",
+        "username": "LuoLuo_Miki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-12T02:31:33.000Z",
+        "description": "一枚xyn 155cm/44.5kg  💊🤤😵&🔪🩸😭  \n灌注沐媛喵…灌注沐媛谢谢喵🥺\n初二 同类互fo喵😋\n15歲年齡党+天残党+小透明/无人在意\n🍥2026.5.13\n大部分时候脑子正常🧐\n发现被在乎的小细节会开心一整天🥺\n超级社恐😩\n产地：桂C 生产日期：2011.06.15 保质期不详",
+        "id": "1977200375766958082",
+        "location": "六分街",
+        "name": "沐媛yyyyy🍥🏳️‍⚧️🔪",
+        "pinned_tweet_id": "2065895738136211471",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063239427951149056/_Ed68_s-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 705,
+          "following_count": 400,
+          "like_count": 1156,
+          "listed_count": 2,
+          "media_count": 42,
+          "tweet_count": 385
+        },
+        "url": "",
+        "username": "yvanyvandecw",
+        "verified": true
+      }
+    ]
+  }
+}

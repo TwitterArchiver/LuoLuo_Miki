@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592401094273302528",
+    "conversation_id": "2067570772080771406",
+    "created_at": "2026-06-18T17:20:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T18:20:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067658759007240352"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1747180238810021888",
+          "start": 0,
+          "username": "wwj23355"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067658759007240352",
+    "in_reply_to_user_id": "1747180238810021888",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067570772080771406",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wwj23355 羡慕身材"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067570764283531264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLF8p9kaUAAIRRq.jpg",
+        "width": 1598
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592401094273302528",
+        "conversation_id": "2067570772080771406",
+        "created_at": "2026-06-18T17:20:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T18:20:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067658759007240352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1747180238810021888",
+              "start": 0,
+              "username": "wwj23355"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067658759007240352",
+        "in_reply_to_user_id": "1747180238810021888",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067570772080771406",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wwj23355 羡慕身材"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067570764283531264"
+          ]
+        },
+        "author_id": "1747180238810021888",
+        "conversation_id": "2067570772080771406",
+        "created_at": "2026-06-18T11:31:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T12:31:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067570772080771406"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LRzZYxZEod",
+              "end": 41,
+              "expanded_url": "https://x.com/wwj23355/status/2067570772080771406/photo/1",
+              "media_key": "3_2067570764283531264",
+              "start": 18,
+              "url": "https://t.co/LRzZYxZEod"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067570772080771406",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 391,
+          "like_count": 26,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "发张库存喵\n能挽救我可怜的流量嘛😭 https://t.co/LRzZYxZEod"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-15T06:16:59.000Z",
+        "description": "老大，白给会有人要吗丨不键政丨不od丨不自残丨内向不敢见人丨想找恋人或者主人丨",
+        "id": "1592401094273302528",
+        "name": "糯米🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057058246888960000/PSLJHun5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 90,
+          "like_count": 179,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 194
+        },
+        "username": "LuoLuo_Miki",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-16T08:53:40.000Z",
+        "description": "Ciallo～～(∠・ω)⌒☆\n｜重抑重焦｜不od (?) 不割手 (?) 不登校｜183 60的mtf()｜HRT: 26.04.27 - 05.21 |睡眠重度依赖｜满级颓废｜玩车｜BA | CN/EN/KR/JP prob OK |\n｜生产日期：08.09.13｜\n天天发一些负面傻逼言论真的对不起",
+        "id": "1747180238810021888",
+        "name": "WVKI233333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044056098873978883/TB8Ilmi6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 557,
+          "following_count": 492,
+          "like_count": 3135,
+          "listed_count": 2,
+          "media_count": 85,
+          "tweet_count": 1151
+        },
+        "username": "wwj23355",
+        "verified": false
+      }
+    ]
+  }
+}

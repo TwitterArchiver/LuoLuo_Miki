@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592401094273302528",
+    "conversation_id": "2058403900332679654",
+    "created_at": "2026-05-24T08:28:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T09:28:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058465149967880583"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2049292877814173696",
+          "start": 0,
+          "username": "Shuliaosui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058465149967880583",
+    "in_reply_to_user_id": "2049292877814173696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058403900332679654",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shuliaosui 闲鱼叫什么"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2058403890375413760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJDrbrIb0AAALE8.jpg",
+        "width": 940
+      },
+      {
+        "height": 1098,
+        "media_key": "3_2058403895010054144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJDrb8Za0AALZLS.jpg",
+        "width": 928
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592401094273302528",
+        "conversation_id": "2058403900332679654",
+        "created_at": "2026-05-24T08:28:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T09:28:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058465149967880583"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2049292877814173696",
+              "start": 0,
+              "username": "Shuliaosui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058465149967880583",
+        "in_reply_to_user_id": "2049292877814173696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058403900332679654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shuliaosui 闲鱼叫什么"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058403890375413760",
+            "3_2058403895010054144"
+          ]
+        },
+        "author_id": "2049292877814173696",
+        "conversation_id": "2058403900332679654",
+        "created_at": "2026-05-24T04:25:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T05:25:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058403900332679654"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MLp5rEEOui",
+              "end": 37,
+              "expanded_url": "https://x.com/Shuliaosui/status/2058403900332679654/photo/1",
+              "media_key": "3_2058403890375413760",
+              "start": 14,
+              "url": "https://t.co/MLp5rEEOui"
+            },
+            {
+              "display_url": "pic.x.com/MLp5rEEOui",
+              "end": 37,
+              "expanded_url": "https://x.com/Shuliaosui/status/2058403900332679654/photo/1",
+              "media_key": "3_2058403895010054144",
+              "start": 14,
+              "url": "https://t.co/MLp5rEEOui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058403900332679654",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 135,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "各位，盐的糖可以走咸鱼哦， https://t.co/MLp5rEEOui"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-15T06:16:59.000Z",
+        "description": "老大，白给会有人要吗丨不键政丨不od丨想找恋人或者主人丨",
+        "id": "1592401094273302528",
+        "name": "糯米🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057058246888960000/PSLJHun5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 62,
+          "like_count": 47,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 81
+        },
+        "username": "LuoLuo_Miki",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-29T01:01:19.000Z",
+        "description": "/24年药娘/接陪伴/爱自己/自杀干预/家长不管/16岁/护理专业/Q:3755457720/Q群:285607409/匿名提问:https://t.co/P7wEVYG2Sn",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yan14866",
+                "end": 88,
+                "expanded_url": "https://ngl.link/yan14866",
+                "start": 65,
+                "url": "https://t.co/P7wEVYG2Sn"
+              }
+            ]
+          }
+        },
+        "id": "2049292877814173696",
+        "name": "盐🍬🍚",
+        "pinned_tweet_id": "2055481763137454207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050083452826066944/WL1ORgHQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 733,
+          "like_count": 246,
+          "listed_count": 1,
+          "media_count": 149,
+          "tweet_count": 329
+        },
+        "username": "Shuliaosui",
+        "verified": false
+      }
+    ]
+  }
+}

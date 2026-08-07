@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592401094273302528",
+    "conversation_id": "2064359205457608713",
+    "created_at": "2026-06-09T23:20:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T00:20:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064487808006594871"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2031270533359349761",
+          "start": 0,
+          "username": "senzhiwu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064487808006594871",
+    "in_reply_to_user_id": "2031270533359349761",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064359205457608713",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@senzhiwu 密码改成你的生日了，晚安"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592401094273302528",
+        "conversation_id": "2064359205457608713",
+        "created_at": "2026-06-09T23:20:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T00:20:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064487808006594871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2031270533359349761",
+              "start": 0,
+              "username": "senzhiwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064487808006594871",
+        "in_reply_to_user_id": "2031270533359349761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064359205457608713",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@senzhiwu 密码改成你的生日了，晚安"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2031270533359349761",
+        "conversation_id": "2064359205457608713",
+        "created_at": "2026-06-09T14:49:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T15:49:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064359205457608713"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/k1ta_ikuyo/sta…",
+              "end": 163,
+              "expanded_url": "https://twitter.com/k1ta_ikuyo/status/2064015477714874797",
+              "start": 140,
+              "url": "https://t.co/TakXeIGvej"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064359205457608713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 614,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064015477714874797",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可以喜欢我吗？可以爱我吗？可以毫无理由地亲亲吗？可以把冰凉的手放进你的口袋里取暖吗？可以逛街时十指相扣吗？可以在睡前说晚安吗？可以在早晨有起床吻吗？可以和你共用一床被窝吗？可以把密码改成你的生日吗？可以在条件反射时第一个喊我的名字吗？可以和我一直这样谈恋爱吗？可以吗可以吗可以吗 https://t.co/TakXeIGvej"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-15T06:16:59.000Z",
+        "description": "老大，白给会有人要吗丨不键政丨不od丨不自残丨内向不敢见人丨想找恋人或者主人丨",
+        "id": "1592401094273302528",
+        "name": "糯米🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057058246888960000/PSLJHun5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 81,
+          "like_count": 158,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 162
+        },
+        "username": "LuoLuo_Miki",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-10T07:27:30.000Z",
+        "description": "叫我森森就好啦｜一个什么都不擅长的废物呜｜日常孤独缺爱ing｜喜欢一切可爱的事物｜生日2008｜mtx🏳️‍⚧️｜小证偷吃｜entp-t｜hrt 3.29 ｜欢迎互fo喵！｜🇲🇾留学生/常驻南京 欢迎来找我玩哦 可以把我当树洞喵，虽然可能不太会安慰人呜",
+        "id": "2031270533359349761",
+        "location": "你家门口",
+        "name": "senzhiwu🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2055955740553355693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057469282360107008/wkkOtOfV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1589,
+          "following_count": 386,
+          "like_count": 2625,
+          "listed_count": 4,
+          "media_count": 107,
+          "tweet_count": 2289
+        },
+        "username": "senzhiwu",
+        "verified": false
+      }
+    ]
+  }
+}

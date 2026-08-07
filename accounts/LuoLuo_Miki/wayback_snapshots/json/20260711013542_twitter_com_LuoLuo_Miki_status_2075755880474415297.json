@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592401094273302528",
+    "conversation_id": "2075563293851492835",
+    "created_at": "2026-07-11T01:35:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T02:35:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075755880474415297"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1550811468009963521",
+          "start": 0,
+          "username": "zhi_cheng233"
+        },
+        {
+          "end": 26,
+          "id": "2038192732028469248",
+          "start": 14,
+          "username": "Akiraoo_xyn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075755880474415297",
+    "in_reply_to_user_id": "1550811468009963521",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075678896016564372",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhi_cheng233 @Akiraoo_xyn 😡👉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592401094273302528",
+        "conversation_id": "2075563293851492835",
+        "created_at": "2026-07-11T01:35:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T02:35:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075755880474415297"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1550811468009963521",
+              "start": 0,
+              "username": "zhi_cheng233"
+            },
+            {
+              "end": 26,
+              "id": "2038192732028469248",
+              "start": 14,
+              "username": "Akiraoo_xyn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075755880474415297",
+        "in_reply_to_user_id": "1550811468009963521",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075678896016564372",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhi_cheng233 @Akiraoo_xyn 😡👉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1550811468009963521",
+        "conversation_id": "2075563293851492835",
+        "created_at": "2026-07-10T20:29:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T21:29:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075678896016564372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1592401094273302528",
+              "start": 0,
+              "username": "LuoLuo_Miki"
+            },
+            {
+              "end": 25,
+              "id": "2038192732028469248",
+              "start": 13,
+              "username": "Akiraoo_xyn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075678896016564372",
+        "in_reply_to_user_id": "1592401094273302528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075563293851492835",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LuoLuo_Miki @Akiraoo_xyn 没绷住喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-15T06:16:59.000Z",
+        "description": "各类游戏都浅玩，战雷伟大鳄梨邦，🍥2026/5/22\n每天都想和一只猹贴贴 ♡♡ \n@Dreemurr_Miki｜我的对象，我的爱人丨不od丨不zc丨大龄丨有证含糖🍥丨MTF\n\n互fo请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 42,
+                "username": "Dreemurr_Miki"
+              }
+            ]
+          }
+        },
+        "id": "1592401094273302528",
+        "name": "糯米🍥",
+        "pinned_tweet_id": "2074857658339795022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057058246888960000/PSLJHun5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 152,
+          "like_count": 457,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 444
+        },
+        "url": "",
+        "username": "LuoLuo_Miki",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-23T11:54:12.000Z",
+        "description": "-所有命运的馈赠早已在暗中标注好了价格-/06年🍥/INFP-T/后端开发者/52KG173CM/意识流发推\n最好的妹妹:@ILikeHappy_uwu\nHRT:24.4.20\n合作请私TG\n频道:https://t.co/1UTMj4Ojzo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 61,
+                "username": "ILikeHappy_uwu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/zhi_cheng233_c…",
+                "end": 122,
+                "expanded_url": "https://t.me/zhi_cheng233_channel",
+                "start": 99,
+                "url": "https://t.co/1UTMj4Ojzo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zhicheng233.top",
+                "end": 23,
+                "expanded_url": "https://zhicheng233.top",
+                "start": 0,
+                "url": "https://t.co/t9zy8Fl1lo"
+              }
+            ]
+          }
+        },
+        "id": "1550811468009963521",
+        "location": "广东 珠海 IP归属:CLOUDFLARE",
+        "name": "志成",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997748573606412288/Brv5JHcH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1520,
+          "following_count": 911,
+          "like_count": 8558,
+          "listed_count": 5,
+          "media_count": 548,
+          "tweet_count": 3847
+        },
+        "url": "https://t.co/t9zy8Fl1lo",
+        "username": "zhi_cheng233",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-29T09:54:16.000Z",
+        "description": "MtX | 15y🇹🇼 | 无证🍥💊2026.05.09 | 深柜中 | 年龄党 | 生产日期 2011.06.27 | 社恐 | 小透明一个 | 不擅长安慰别人 | 有点笨 | 不自残 | 不od |\n小号 @Akiraoo_qwq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 117,
+                "start": 105,
+                "username": "Akiraoo_qwq"
+              }
+            ]
+          }
+        },
+        "id": "2038192732028469248",
+        "name": "小旭Akira🍥",
+        "pinned_tweet_id": "2061053759518896159",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073124599328559104/qT_B1DyQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 156,
+          "like_count": 1025,
+          "listed_count": 2,
+          "media_count": 22,
+          "tweet_count": 209
+        },
+        "url": "",
+        "username": "Akiraoo_xyn",
+        "verified": false
+      }
+    ]
+  }
+}

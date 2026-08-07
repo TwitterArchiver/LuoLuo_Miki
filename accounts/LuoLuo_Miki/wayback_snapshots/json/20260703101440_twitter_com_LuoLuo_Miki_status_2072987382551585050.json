@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072987371373731840"
+      ]
+    },
+    "author_id": "1592401094273302528",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2072987382551585050",
+    "created_at": "2026-07-03T10:14:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T11:14:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072987382551585050"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/J6WlhAfT6O",
+          "end": 32,
+          "expanded_url": "https://x.com/LuoLuo_Miki/status/2072987382551585050/photo/1",
+          "media_key": "3_2072987371373731840",
+          "start": 9,
+          "url": "https://t.co/J6WlhAfT6O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072987382551585050",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "猜猜这是什么☝😃 https://t.co/J6WlhAfT6O"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2072987371373731840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMS7B_aaIAAS35a.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072987371373731840"
+          ]
+        },
+        "author_id": "1592401094273302528",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2072987382551585050",
+        "created_at": "2026-07-03T10:14:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T11:14:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072987382551585050"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/J6WlhAfT6O",
+              "end": 32,
+              "expanded_url": "https://x.com/LuoLuo_Miki/status/2072987382551585050/photo/1",
+              "media_key": "3_2072987371373731840",
+              "start": 9,
+              "url": "https://t.co/J6WlhAfT6O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072987382551585050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "猜猜这是什么☝😃 https://t.co/J6WlhAfT6O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-15T06:16:59.000Z",
+        "description": "大家好~❤️！\n这里是糯米，很高兴认识大家❤️\n丨不od丨抑郁丨性别焦虑丨无证含糖🍥丨MTF\n\n笨蛋@linxinyujiang",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 50,
+                "username": "linxinyujiang"
+              }
+            ]
+          }
+        },
+        "id": "1592401094273302528",
+        "name": "糯米🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057058246888960000/PSLJHun5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 132,
+          "like_count": 297,
+          "listed_count": 2,
+          "media_count": 52,
+          "tweet_count": 322
+        },
+        "url": "",
+        "username": "LuoLuo_Miki",
+        "verified": false
+      }
+    ]
+  }
+}

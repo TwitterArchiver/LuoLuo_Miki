@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592401094273302528",
+    "conversation_id": "2082394544616956107",
+    "created_at": "2026-07-29T09:16:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T10:16:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082394772497723527"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "2024068861134528512",
+          "start": 0,
+          "username": "1gdsb"
+        },
+        {
+          "end": 20,
+          "id": "1153430387504373764",
+          "start": 7,
+          "username": "xiangcai_nya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082394772497723527",
+    "in_reply_to_user_id": "2024068861134528512",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082394544616956107",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1gdsb @xiangcai_nya 啊？😨"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2082394333807091712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOYmnRTboAABf0T.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592401094273302528",
+        "conversation_id": "2082394544616956107",
+        "created_at": "2026-07-29T09:16:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T10:16:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082394772497723527"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "2024068861134528512",
+              "start": 0,
+              "username": "1gdsb"
+            },
+            {
+              "end": 20,
+              "id": "1153430387504373764",
+              "start": 7,
+              "username": "xiangcai_nya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082394772497723527",
+        "in_reply_to_user_id": "2024068861134528512",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082394544616956107",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1gdsb @xiangcai_nya 啊？😨"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082394333807091712"
+          ]
+        },
+        "author_id": "2024068861134528512",
+        "conversation_id": "2082394544616956107",
+        "created_at": "2026-07-29T09:15:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T10:14:35.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082394342879359367",
+          "2082394544616956107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 27,
+              "id": "1153430387504373764",
+              "start": 14,
+              "username": "xiangcai_nya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tuS2ABAyz5",
+              "end": 51,
+              "expanded_url": "https://x.com/1gdsb/status/2082394544616956107/photo/1",
+              "media_key": "3_2082394333807091712",
+              "start": 28,
+              "url": "https://t.co/tuS2ABAyz5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082394544616956107",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🤓传下去香菜gangmen紧@xiangcai_nya https://t.co/tuS2ABAyz5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-15T06:16:59.000Z",
+        "description": "各类游戏都浅玩，战雷伟大鳄梨邦，🍥2026/5/22\n每天都想和一只猹贴贴 ♡♡ \n@Dreemurr_Miki｜我的对象，我的爱人｜丨不od丨不zc丨不抽烟丨不鉴证丨大龄丨有证含糖🍥丨MTF\n\n互fo请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 42,
+                "username": "Dreemurr_Miki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoluo_miki",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoluo_miki",
+                "start": 0,
+                "url": "https://t.co/GbvEwIBrSw"
+              }
+            ]
+          }
+        },
+        "id": "1592401094273302528",
+        "location": "距离你126米",
+        "name": "糯米🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2079073415873605729",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057058246888960000/PSLJHun5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 586,
+          "following_count": 190,
+          "like_count": 873,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 679
+        },
+        "url": "https://t.co/GbvEwIBrSw",
+        "username": "LuoLuo_Miki",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-18T10:30:04.000Z",
+        "description": "mtf/x？ 缺爱？抖m？ 🚪0r🥺一分不用\n不o不割纯发癫 我决定只发正常的东西了发疯的东西都去我草稿箱待着吧😋\n天残年龄党\n小号@ovvvvvvvvvvomtf\n8.31（开学前一天悲:(\n身高179 57.4kg\nhrt2026.4.15 同类100%回fo\n其他不想写",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 82,
+                "start": 66,
+                "username": "ovvvvvvvvvvomtf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cn_1gdsb1",
+                "end": 23,
+                "expanded_url": "http://ngl.link/cn_1gdsb1",
+                "start": 0,
+                "url": "https://t.co/nDeqjDhbvO"
+              }
+            ]
+          }
+        },
+        "id": "2024068861134528512",
+        "location": "广州海珠赤岗",
+        "name": "cn_1gdsb",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068400073894236160/GFl-Hbh9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 575,
+          "following_count": 594,
+          "like_count": 4406,
+          "listed_count": 3,
+          "media_count": 575,
+          "tweet_count": 2338
+        },
+        "url": "https://t.co/nDeqjDhbvO",
+        "username": "1gdsb",
+        "verified": true
+      },
+      {
+        "created_at": "2019-07-22T22:23:28.000Z",
+        "description": "mtf→mtx(ing)\n想要互fo",
+        "id": "1153430387504373764",
+        "location": "Archangel, Russia",
+        "name": "꧁ 葱花香菜重度依赖 ꧂🍥",
+        "pinned_tweet_id": "2080612731078787108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073611435129868288/Wr4hsJiq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 653,
+          "following_count": 404,
+          "like_count": 614,
+          "listed_count": 4,
+          "media_count": 63,
+          "tweet_count": 1529
+        },
+        "url": "",
+        "username": "xiangcai_nya",
+        "verified": true
+      }
+    ]
+  }
+}

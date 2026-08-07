@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592401094273302528",
+    "conversation_id": "2073323400676983077",
+    "created_at": "2026-07-05T01:56:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T02:56:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073586775428055397"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1627860014114168833",
+          "start": 0,
+          "username": "Snow_Xue_1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073586775428055397",
+    "in_reply_to_user_id": "1627860014114168833",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073323400676983077",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Snow_Xue_1 早上好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592401094273302528",
+        "conversation_id": "2073323400676983077",
+        "created_at": "2026-07-05T01:56:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T02:56:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073586775428055397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1627860014114168833",
+              "start": 0,
+              "username": "Snow_Xue_1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073586775428055397",
+        "in_reply_to_user_id": "1627860014114168833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073323400676983077",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Snow_Xue_1 早上好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1627860014114168833",
+        "conversation_id": "2073323400676983077",
+        "created_at": "2026-07-04T08:29:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T09:29:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073323400676983077"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073323400676983077",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 252,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "希望别下雨🙏\n还是早点回家吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-15T06:16:59.000Z",
+        "description": "这里是糯米，很高兴认识大家❤️\n丨不od丨抑郁丨性别焦虑丨无证含糖🍥丨MTF\n互fo请私信\n笨蛋@linxinyujiang",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 48,
+                "username": "linxinyujiang"
+              }
+            ]
+          }
+        },
+        "id": "1592401094273302528",
+        "name": "糯米🍥",
+        "pinned_tweet_id": "2073265357758886352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057058246888960000/PSLJHun5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 136,
+          "like_count": 348,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 343
+        },
+        "url": "",
+        "username": "LuoLuo_Miki",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-21T02:39:25.000Z",
+        "description": "✝️普瑞巴林，曲马多重度依赖✝️ \n| 普通的上海入 | hrt2025.11 🍥 | 生产日期 2010.3.16 | 半家长党（约等于家长不管党） od不管 | 姐姐 @vokleer",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 86,
+                "username": "vokleer"
+              }
+            ]
+          }
+        },
+        "id": "1627860014114168833",
+        "location": "上海",
+        "name": "雪🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062076159492595713/NHormeLn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 263,
+          "like_count": 4910,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 619
+        },
+        "url": "",
+        "username": "Snow_Xue_1",
+        "verified": false
+      }
+    ]
+  }
+}

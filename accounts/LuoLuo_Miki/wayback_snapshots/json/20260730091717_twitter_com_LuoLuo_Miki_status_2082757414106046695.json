@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592401094273302528",
+    "conversation_id": "2082722888625562004",
+    "created_at": "2026-07-30T09:17:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T10:17:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082757414106046695"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1153430387504373764",
+          "start": 0,
+          "username": "xiangcai_nya"
+        },
+        {
+          "end": 30,
+          "id": "1393373599579267073",
+          "start": 14,
+          "username": "Ilikesleepinghh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082757414106046695",
+    "in_reply_to_user_id": "1153430387504373764",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082722888625562004",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiangcai_nya @Ilikesleepinghh xm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1412,
+        "media_key": "3_2082722836968542208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOdRYq8akAAATXh.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592401094273302528",
+        "conversation_id": "2082722888625562004",
+        "created_at": "2026-07-30T09:17:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T10:17:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082757414106046695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1153430387504373764",
+              "start": 0,
+              "username": "xiangcai_nya"
+            },
+            {
+              "end": 30,
+              "id": "1393373599579267073",
+              "start": 14,
+              "username": "Ilikesleepinghh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082757414106046695",
+        "in_reply_to_user_id": "1153430387504373764",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082722888625562004",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiangcai_nya @Ilikesleepinghh xm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082722836968542208"
+          ]
+        },
+        "author_id": "1153430387504373764",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2082722888625562004",
+        "created_at": "2026-07-30T07:00:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T08:00:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082722888625562004"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3PvHBiakmU",
+              "end": 27,
+              "expanded_url": "https://x.com/xiangcai_nya/status/2082722888625562004/photo/1",
+              "media_key": "3_2082722836968542208",
+              "start": 4,
+              "url": "https://t.co/3PvHBiakmU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082722888625562004",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 606,
+          "like_count": 39,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "面基喵 https://t.co/3PvHBiakmU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-15T06:16:59.000Z",
+        "description": "🍥2026/5/22\n每天都想和一只猹贴贴 ♡♡ \n@Dreemurr_Miki｜我的对象，我的爱人｜丨不od丨不zc丨不抽烟丨不鉴证丨大龄丨有证含糖🍥丨MTF\n碎碎念日常\n\n互fo请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 26,
+                "username": "Dreemurr_Miki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoluo_miki",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoluo_miki",
+                "start": 0,
+                "url": "https://t.co/GbvEwIBrSw"
+              }
+            ]
+          }
+        },
+        "id": "1592401094273302528",
+        "location": "距离你126米",
+        "name": "糯米🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2082399117578473595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057058246888960000/PSLJHun5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 599,
+          "following_count": 189,
+          "like_count": 884,
+          "listed_count": 1,
+          "media_count": 75,
+          "tweet_count": 689
+        },
+        "url": "https://t.co/GbvEwIBrSw",
+        "username": "LuoLuo_Miki",
+        "verified": true
+      },
+      {
+        "created_at": "2019-07-22T22:23:28.000Z",
+        "description": "mtf→mtx(ing)\n想要互fo",
+        "id": "1153430387504373764",
+        "location": "Archangel, Russia",
+        "name": "꧁ 葱花香菜重度依赖 ꧂🍥",
+        "pinned_tweet_id": "2080612731078787108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073611435129868288/Wr4hsJiq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 711,
+          "following_count": 432,
+          "like_count": 636,
+          "listed_count": 4,
+          "media_count": 68,
+          "tweet_count": 1605
+        },
+        "url": "",
+        "username": "xiangcai_nya",
+        "verified": true
+      },
+      {
+        "created_at": "2021-05-15T01:12:37.000Z",
+        "description": "可以叫我婉星\n08 | mtf |🍥since25.3.5 \n珠江一中|傻福选科| IMSB |中中混血 |\n🍻德智体美劳 想吃麦当劳🍔\n🥰@shu_hao14180",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 70,
+                "username": "shu_hao14180"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "v50to.me",
+                "end": 23,
+                "expanded_url": "http://v50to.me",
+                "start": 0,
+                "url": "https://t.co/uY9ukwfRFh"
+              }
+            ]
+          }
+        },
+        "id": "1393373599579267073",
+        "location": "127.0.0.1",
+        "name": "好想睡够24小时啊啊啊啊啊🍥",
+        "pinned_tweet_id": "1921106684644110662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020110133645529088/GWrkohlM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 320,
+          "like_count": 1478,
+          "listed_count": 1,
+          "media_count": 316,
+          "tweet_count": 605
+        },
+        "url": "https://t.co/uY9ukwfRFh",
+        "username": "Ilikesleepinghh",
+        "verified": false
+      }
+    ]
+  }
+}

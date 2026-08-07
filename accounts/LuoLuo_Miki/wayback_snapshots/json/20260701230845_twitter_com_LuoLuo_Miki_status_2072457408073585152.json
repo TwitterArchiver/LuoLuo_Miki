@@ -1,0 +1,151 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592401094273302528",
+    "conversation_id": "2072456526330237423",
+    "created_at": "2026-07-01T23:08:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T00:08:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072457408073585152"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2072457408073585152",
+    "in_reply_to_user_id": "1592401094273302528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072456526330237423",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "只用了十几秒就到我这里了，雨珠大的打在身上好疼，雷电批下来好恐怖。打在树上，电线杆上，人上，紫色，蓝色，蓝紫色雷电，我骑着电驴在跑，我当时为什么不留在家里呢，我跑了很远，车子要没电了，慢慢的雷暴云就走远了，身上好疼，心理也很恐怖，被吓得整个人一直在哭，但是哭不出来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592401094273302528",
+        "conversation_id": "2072456526330237423",
+        "created_at": "2026-07-01T23:08:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T00:08:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072457408073585152"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072457408073585152",
+        "in_reply_to_user_id": "1592401094273302528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072456526330237423",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "只用了十几秒就到我这里了，雨珠大的打在身上好疼，雷电批下来好恐怖。打在树上，电线杆上，人上，紫色，蓝色，蓝紫色雷电，我骑着电驴在跑，我当时为什么不留在家里呢，我跑了很远，车子要没电了，慢慢的雷暴云就走远了，身上好疼，心理也很恐怖，被吓得整个人一直在哭，但是哭不出来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592401094273302528",
+        "conversation_id": "2072456526330237423",
+        "created_at": "2026-07-01T23:05:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T00:05:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072456526330237423"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072456526330237423",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "早上好，做噩梦了。\n梦里梦到，看了天气预报，说是雷暴雨，我在家里给最好的朋友烧纸和点香....在大门口，手里拿着三根香拜三拜的时候，突然天气骤变，感觉世界末日了一样，并不是暴雨，整远处的天上，大片的超级乌云，肉眼能看到，很恐怖很恐怖很恐怖，速度很快，明明看起来很远但是速度好快"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-15T06:16:59.000Z",
+        "description": "大家好~❤️！\n这里是糯米，很高兴认识大家❤️\n丨不od丨抑郁丨性别焦虑丨无证含糖🍥丨MTF\n\n笨蛋@linxinyujiang",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 50,
+                "username": "linxinyujiang"
+              }
+            ]
+          }
+        },
+        "id": "1592401094273302528",
+        "name": "糯米🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057058246888960000/PSLJHun5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 126,
+          "like_count": 271,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 296
+        },
+        "url": "",
+        "username": "LuoLuo_Miki",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592401094273302528",
+    "conversation_id": "2073706273422643612",
+    "created_at": "2026-07-05T10:42:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T11:42:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073719069745066227"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2061394480604073984",
+          "start": 0,
+          "username": "y6fi6040328"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073719069745066227",
+    "in_reply_to_user_id": "2061394480604073984",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073706273422643612",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@y6fi6040328 看"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2073706265352790017",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMdI3ILa4AEfgA0.jpg",
+        "width": 921
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592401094273302528",
+        "conversation_id": "2073706273422643612",
+        "created_at": "2026-07-05T10:42:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T11:42:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073719069745066227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2061394480604073984",
+              "start": 0,
+              "username": "y6fi6040328"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073719069745066227",
+        "in_reply_to_user_id": "2061394480604073984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073706273422643612",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@y6fi6040328 看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073706265352790017"
+          ]
+        },
+        "author_id": "2061394480604073984",
+        "conversation_id": "2073706273422643612",
+        "created_at": "2026-07-05T09:51:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T10:51:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073706273422643612"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xODzfHSMAi",
+              "end": 46,
+              "expanded_url": "https://x.com/y6fi6040328/status/2073706273422643612/photo/1",
+              "media_key": "3_2073706265352790017",
+              "start": 23,
+              "url": "https://t.co/xODzfHSMAi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073706273422643612",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怎么发长文呀，10个帖子还不够用 (⊙o⊙) https://t.co/xODzfHSMAi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-15T06:16:59.000Z",
+        "description": "各类游戏都浅玩，战雷伟大鳄梨邦，🍥2026/5/22\n丨不od丨不zc丨大龄丨有证含糖🍥丨MTF\n互fo请私信\n傻瓜@SofHAvVenn，笨蛋@linxinyujiang",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 58,
+                "username": "SofHAvVenn"
+              },
+              {
+                "end": 86,
+                "start": 72,
+                "username": "linxinyujiang"
+              }
+            ]
+          }
+        },
+        "id": "1592401094273302528",
+        "name": "糯米🍥",
+        "pinned_tweet_id": "2073265357758886352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057058246888960000/PSLJHun5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 142,
+          "like_count": 388,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 374
+        },
+        "url": "",
+        "username": "LuoLuo_Miki",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-01T10:30:24.000Z",
+        "description": "04MTF🍥｜cn栗子｜推曲林静树，梦想成为跟静树酱一样的人｜已脱离原生家庭版｜微癫｜165cm 48kg｜欢迎同类互fo",
+        "id": "2061394480604073984",
+        "location": "成都",
+        "name": "是栗子也是梨子🍥",
+        "pinned_tweet_id": "2073046014748233910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061395100463505408/1ZOz7N8t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 63,
+          "like_count": 62,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 65
+        },
+        "url": "",
+        "username": "y6fi6040328",
+        "verified": false
+      }
+    ]
+  }
+}

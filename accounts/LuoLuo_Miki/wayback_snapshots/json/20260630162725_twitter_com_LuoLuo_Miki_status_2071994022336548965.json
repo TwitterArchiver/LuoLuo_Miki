@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071994002052915201",
+        "3_2071994011548778496"
+      ]
+    },
+    "author_id": "1592401094273302528",
+    "conversation_id": "2071994022336548965",
+    "created_at": "2026-06-30T16:27:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T17:27:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071994022336548965"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OTM7Wid0T2",
+          "end": 51,
+          "expanded_url": "https://x.com/LuoLuo_Miki/status/2071994022336548965/photo/1",
+          "media_key": "3_2071994002052915201",
+          "start": 28,
+          "url": "https://t.co/OTM7Wid0T2"
+        },
+        {
+          "display_url": "pic.x.com/OTM7Wid0T2",
+          "end": 51,
+          "expanded_url": "https://x.com/LuoLuo_Miki/status/2071994022336548965/photo/1",
+          "media_key": "3_2071994011548778496",
+          "start": 28,
+          "url": "https://t.co/OTM7Wid0T2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071994022336548965",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "还有5个卡海关了，摆着看也不错\n我应该是有点死了\n？( https://t.co/OTM7Wid0T2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2071994002052915201",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMEzkSUaoAECzwy.jpg",
+        "width": 2376
+      },
+      {
+        "height": 1188,
+        "media_key": "3_2071994011548778496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMEzk1saAAATLLW.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071994002052915201",
+            "3_2071994011548778496"
+          ]
+        },
+        "author_id": "1592401094273302528",
+        "conversation_id": "2071994022336548965",
+        "created_at": "2026-06-30T16:27:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T17:27:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071994022336548965"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OTM7Wid0T2",
+              "end": 51,
+              "expanded_url": "https://x.com/LuoLuo_Miki/status/2071994022336548965/photo/1",
+              "media_key": "3_2071994002052915201",
+              "start": 28,
+              "url": "https://t.co/OTM7Wid0T2"
+            },
+            {
+              "display_url": "pic.x.com/OTM7Wid0T2",
+              "end": 51,
+              "expanded_url": "https://x.com/LuoLuo_Miki/status/2071994022336548965/photo/1",
+              "media_key": "3_2071994011548778496",
+              "start": 28,
+              "url": "https://t.co/OTM7Wid0T2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071994022336548965",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还有5个卡海关了，摆着看也不错\n我应该是有点死了\n？( https://t.co/OTM7Wid0T2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-15T06:16:59.000Z",
+        "description": "大家好~❤️！\n这里是糯米，很高兴认识大家❤️\n丨不od丨抑郁丨性别焦虑丨无证含糖🍥丨MTF\n\n笨蛋@linxinyujiang",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 50,
+                "username": "linxinyujiang"
+              }
+            ]
+          }
+        },
+        "id": "1592401094273302528",
+        "name": "糯米🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057058246888960000/PSLJHun5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 123,
+          "like_count": 263,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 292
+        },
+        "url": "",
+        "username": "LuoLuo_Miki",
+        "verified": false
+      }
+    ]
+  }
+}

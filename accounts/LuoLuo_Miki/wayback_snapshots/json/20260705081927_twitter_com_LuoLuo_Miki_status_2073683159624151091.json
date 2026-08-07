@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592401094273302528",
+    "conversation_id": "2073594502326194194",
+    "created_at": "2026-07-05T08:19:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T09:19:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073683159624151091"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1699985068721082368",
+          "start": 0,
+          "username": "RX_Xron28390"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073683159624151091",
+    "in_reply_to_user_id": "1699985068721082368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073658226382606367",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RX_Xron28390 😡👉你不应该出现在这个分房里"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592401094273302528",
+        "conversation_id": "2073594502326194194",
+        "created_at": "2026-07-05T08:19:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T09:19:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073683159624151091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1699985068721082368",
+              "start": 0,
+              "username": "RX_Xron28390"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073683159624151091",
+        "in_reply_to_user_id": "1699985068721082368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073658226382606367",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RX_Xron28390 😡👉你不应该出现在这个分房里"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699985068721082368",
+        "conversation_id": "2073594502326194194",
+        "created_at": "2026-07-05T06:40:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T07:40:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073658226382606367"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1592401094273302528",
+              "start": 0,
+              "username": "LuoLuo_Miki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073658226382606367",
+        "in_reply_to_user_id": "1592401094273302528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 98,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073594502326194194",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LuoLuo_Miki 我将自己的性别定义为BMPT-72😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-15T06:16:59.000Z",
+        "description": "各类游戏都浅玩，战雷伟大鳄梨邦，🍥2026/5/22\n丨不od丨不zc丨大龄丨有证含糖🍥丨MTF\n互fo请私信\n傻瓜@SofHAvVenn，笨蛋@linxinyujiang",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 58,
+                "username": "SofHAvVenn"
+              },
+              {
+                "end": 86,
+                "start": 72,
+                "username": "linxinyujiang"
+              }
+            ]
+          }
+        },
+        "id": "1592401094273302528",
+        "name": "糯米🍥",
+        "pinned_tweet_id": "2073265357758886352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057058246888960000/PSLJHun5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 141,
+          "like_count": 361,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 364
+        },
+        "url": "",
+        "username": "LuoLuo_Miki",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-08T03:16:52.000Z",
+        "description": "17岁在美宾洲男高/前世为德皇战死凡尔登转世的bf轮椅人/德拉无疑是美味的😋/本人搭载Welt大语言模型，响应速度114毫秒\n鉴证打咩，德皇kaiser：@sanitf1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 77,
+                "username": "sanitf1"
+              }
+            ]
+          }
+        },
+        "id": "1699985068721082368",
+        "location": "凡爾登，378號高地陣地，1916",
+        "name": "𝑇𝑦𝑟 𝑉𝑜𝑛 𝑊𝑒𝑙𝑡",
+        "pinned_tweet_id": "2071587468831514803",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061669969558147072/IWw1uzlk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 350,
+          "like_count": 10105,
+          "listed_count": 2,
+          "media_count": 1041,
+          "tweet_count": 7092
+        },
+        "url": "",
+        "username": "RX_Xron28390",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592401094273302528",
+    "conversation_id": "2062829599202197604",
+    "created_at": "2026-06-05T12:42:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T13:42:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062877834524454976"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1975129821111074816",
+          "start": 0,
+          "username": "woaiuai0721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062877834524454976",
+    "in_reply_to_user_id": "1975129821111074816",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062829599202197604",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@woaiuai0721 惨"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062829594714259456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKCklkkbQAA0I_G.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592401094273302528",
+        "conversation_id": "2062829599202197604",
+        "created_at": "2026-06-05T12:42:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T13:42:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062877834524454976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1975129821111074816",
+              "start": 0,
+              "username": "woaiuai0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062877834524454976",
+        "in_reply_to_user_id": "1975129821111074816",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062829599202197604",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woaiuai0721 惨"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062829594714259456"
+          ]
+        },
+        "author_id": "1975129821111074816",
+        "conversation_id": "2062829599202197604",
+        "created_at": "2026-06-05T09:31:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T10:31:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062829599202197604"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1hF2vg8TeS",
+              "end": 31,
+              "expanded_url": "https://x.com/woaiuai0721/status/2062829599202197604/photo/1",
+              "media_key": "3_2062829594714259456",
+              "start": 8,
+              "url": "https://t.co/1hF2vg8TeS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062829599202197604",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "头发给我剪毁了 https://t.co/1hF2vg8TeS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-15T06:16:59.000Z",
+        "description": "老大，白给会有人要吗丨不键政丨不od丨不自残丨内向不敢见人丨想找恋人或者主人丨",
+        "id": "1592401094273302528",
+        "name": "糯米🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057058246888960000/PSLJHun5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 82,
+          "like_count": 113,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 132
+        },
+        "username": "LuoLuo_Miki",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-06T09:24:02.000Z",
+        "description": "11年初二生，大家可以叫我朱雨辰，想要交朋友，无奈之人，欧弟歌手啥的多多少少沾一点，对人类很友善，只是不要骂我\nip：浙江",
+        "id": "1975129821111074816",
+        "location": "低頭看看",
+        "name": "朱雨辰",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060670600402939904/TgvcWOMz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 121,
+          "like_count": 6315,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 1577
+        },
+        "username": "woaiuai0721",
+        "verified": false
+      }
+    ]
+  }
+}

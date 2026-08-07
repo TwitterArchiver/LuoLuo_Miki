@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592401094273302528",
+    "conversation_id": "2070382983039889547",
+    "created_at": "2026-06-28T02:04:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T03:04:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071052042660127048"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2055095022425722880",
+          "start": 0,
+          "username": "UnkMtX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071052042660127048",
+    "in_reply_to_user_id": "2055095022425722880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070382983039889547",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@UnkMtX 摸摸你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592401094273302528",
+        "conversation_id": "2070382983039889547",
+        "created_at": "2026-06-28T02:04:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T03:04:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071052042660127048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2055095022425722880",
+              "start": 0,
+              "username": "UnkMtX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071052042660127048",
+        "in_reply_to_user_id": "2055095022425722880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070382983039889547",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@UnkMtX 摸摸你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055095022425722880",
+        "conversation_id": "2070382983039889547",
+        "created_at": "2026-06-26T05:45:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T06:45:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070382983039889547"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/UnkMtX/status/…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/UnkMtX/status/2069990998042972634",
+              "start": 25,
+              "url": "https://t.co/BygzyiEYZ8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070382983039889547",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 704,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069990998042972634",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "没办法😣，我生物妈要求的.........😭😭😭 https://t.co/BygzyiEYZ8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-15T06:16:59.000Z",
+        "description": "大家好~❤️！\n这里是糯米，很高兴认识大家❤️\n丨不od丨抑郁丨性别焦虑丨无证含糖🍥丨MTF\n为什么会这样子就像你从未来过\n@linxinyujiang",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 62,
+                "username": "linxinyujiang"
+              }
+            ]
+          }
+        },
+        "id": "1592401094273302528",
+        "name": "糯米🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057058246888960000/PSLJHun5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 116,
+          "like_count": 247,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 271
+        },
+        "url": "",
+        "username": "LuoLuo_Miki",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-15T01:17:01.000Z",
+        "description": "被关精卫中，不发帖就是没手机了😭|\n前世@UnkXyn|\nMTX🏳️‍⚧️|HRT🍥01.28.2026，被迫断糖06.06.2026|无证|家暴党😭|\n🎂11.13.2011🍰|暂时无法Od💊|159cm52kg|INFP-T|重度社恐|\n对象💖@Lvmaosamaovo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 20,
+                "username": "UnkXyn"
+              },
+              {
+                "end": 137,
+                "start": 124,
+                "username": "Lvmaosamaovo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/unk1111131",
+                "end": 23,
+                "expanded_url": "http://ngl.link/unk1111131",
+                "start": 0,
+                "url": "https://t.co/AjAoii7tnc"
+              }
+            ]
+          }
+        },
+        "id": "2055095022425722880",
+        "location": "🤯",
+        "name": "✟𝗨𝗻𝗸✟🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060807051815854080/KA8UAH6G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1390,
+          "following_count": 1118,
+          "like_count": 2946,
+          "listed_count": 15,
+          "media_count": 105,
+          "tweet_count": 747
+        },
+        "url": "https://t.co/AjAoii7tnc",
+        "username": "UnkMtX",
+        "verified": true
+      }
+    ]
+  }
+}

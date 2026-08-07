@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083234556875046912",
+        "3_2083234564336697344"
+      ]
+    },
+    "author_id": "1592401094273302528",
+    "conversation_id": "2083234574382100675",
+    "created_at": "2026-07-31T16:53:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T17:53:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083234574382100675"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0Ugk8CZaB9",
+          "end": 96,
+          "expanded_url": "https://x.com/LuoLuo_Miki/status/2083234574382100675/photo/1",
+          "media_key": "3_2083234556875046912",
+          "start": 73,
+          "url": "https://t.co/0Ugk8CZaB9"
+        },
+        {
+          "display_url": "pic.x.com/0Ugk8CZaB9",
+          "end": 96,
+          "expanded_url": "https://x.com/LuoLuo_Miki/status/2083234574382100675/photo/1",
+          "media_key": "3_2083234564336697344",
+          "start": 73,
+          "url": "https://t.co/0Ugk8CZaB9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083234574382100675",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "完蛋啦，又呕吐了🤤😰😭，可是吐出来真的很爽。\n今天就先到这里吧，该睡觉了，啊啊啊啊，一直要求说睡8小时的，好难啊，努力做吧😭\n我要努力睡大觉:D https://t.co/0Ugk8CZaB9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2083234556875046912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOkiysJbAAAooY4.jpg",
+        "width": 1080
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2083234564336697344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOkizH8awAADOOS.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083234556875046912",
+            "3_2083234564336697344"
+          ]
+        },
+        "author_id": "1592401094273302528",
+        "conversation_id": "2083234574382100675",
+        "created_at": "2026-07-31T16:53:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T17:53:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083234574382100675"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0Ugk8CZaB9",
+              "end": 96,
+              "expanded_url": "https://x.com/LuoLuo_Miki/status/2083234574382100675/photo/1",
+              "media_key": "3_2083234556875046912",
+              "start": 73,
+              "url": "https://t.co/0Ugk8CZaB9"
+            },
+            {
+              "display_url": "pic.x.com/0Ugk8CZaB9",
+              "end": 96,
+              "expanded_url": "https://x.com/LuoLuo_Miki/status/2083234574382100675/photo/1",
+              "media_key": "3_2083234564336697344",
+              "start": 73,
+              "url": "https://t.co/0Ugk8CZaB9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083234574382100675",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "完蛋啦，又呕吐了🤤😰😭，可是吐出来真的很爽。\n今天就先到这里吧，该睡觉了，啊啊啊啊，一直要求说睡8小时的，好难啊，努力做吧😭\n我要努力睡大觉:D https://t.co/0Ugk8CZaB9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-15T06:16:59.000Z",
+        "description": "🍥2026/5/22\n每天都想和一只猹贴贴 ♡♡ \n@Dreemurr_Miki｜我的对象，我的爱人｜丨不od丨不zc丨不抽烟丨不鉴证丨大龄丨有证含糖🍥丨MTF\n碎碎念日常\n\n互fo请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 26,
+                "username": "Dreemurr_Miki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoluo_miki",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoluo_miki",
+                "start": 0,
+                "url": "https://t.co/GbvEwIBrSw"
+              }
+            ]
+          }
+        },
+        "id": "1592401094273302528",
+        "location": "距离你126米",
+        "name": "糯米🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2082399117578473595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057058246888960000/PSLJHun5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 606,
+          "following_count": 191,
+          "like_count": 976,
+          "listed_count": 1,
+          "media_count": 82,
+          "tweet_count": 718
+        },
+        "url": "https://t.co/GbvEwIBrSw",
+        "username": "LuoLuo_Miki",
+        "verified": true
+      }
+    ]
+  }
+}

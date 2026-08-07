@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592401094273302528",
+    "conversation_id": "2072863294822793392",
+    "created_at": "2026-07-03T07:28:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T08:28:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072945458583118120"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1988674513517834244",
+          "start": 0,
+          "username": "mikanmkx"
+        },
+        {
+          "end": 17,
+          "id": "1551042471575973889",
+          "start": 10,
+          "username": "fnoozp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072945458583118120",
+    "in_reply_to_user_id": "1988674513517834244",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072920299201544227",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mikanmkx @fnoozp 我去过了，很麻烦，而且很难挂到号，挂号挂的我恶心死了("
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592401094273302528",
+        "conversation_id": "2072863294822793392",
+        "created_at": "2026-07-03T07:28:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T08:28:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072945458583118120"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1988674513517834244",
+              "start": 0,
+              "username": "mikanmkx"
+            },
+            {
+              "end": 17,
+              "id": "1551042471575973889",
+              "start": 10,
+              "username": "fnoozp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072945458583118120",
+        "in_reply_to_user_id": "1988674513517834244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072920299201544227",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mikanmkx @fnoozp 我去过了，很麻烦，而且很难挂到号，挂号挂的我恶心死了("
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2072863294822793392",
+        "created_at": "2026-07-03T05:48:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T06:48:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072920299201544227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1551042471575973889",
+              "start": 0,
+              "username": "fnoozp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072920299201544227",
+        "in_reply_to_user_id": "1551042471575973889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072917203226415344",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fnoozp 不知道这个能不能开药。。只能先找潘柏林问问了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-15T06:16:59.000Z",
+        "description": "大家好~❤️！\n这里是糯米，很高兴认识大家❤️\n丨不od丨抑郁丨性别焦虑丨无证含糖🍥丨MTF\n\n笨蛋@linxinyujiang",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 50,
+                "username": "linxinyujiang"
+              }
+            ]
+          }
+        },
+        "id": "1592401094273302528",
+        "name": "糯米🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057058246888960000/PSLJHun5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 127,
+          "like_count": 286,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 312
+        },
+        "url": "",
+        "username": "LuoLuo_Miki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 571,
+          "following_count": 482,
+          "like_count": 2052,
+          "listed_count": 2,
+          "media_count": 151,
+          "tweet_count": 628
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-24T03:12:27.000Z",
+        "description": "20岁顺女（确信）",
+        "id": "1551042471575973889",
+        "name": "初怡晓晓🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034599883244802048/X9AhM2Mk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 1984,
+          "like_count": 12381,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 135
+        },
+        "url": "",
+        "username": "fnoozp",
+        "verified": false
+      }
+    ]
+  }
+}

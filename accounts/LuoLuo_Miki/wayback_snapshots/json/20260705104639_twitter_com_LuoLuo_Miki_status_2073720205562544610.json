@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592401094273302528",
+    "conversation_id": "2073677174293373175",
+    "created_at": "2026-07-05T10:46:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T11:46:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073720205562544610"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2053864757329817600",
+          "start": 0,
+          "username": "today_is_foggy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073720205562544610",
+    "in_reply_to_user_id": "2053864757329817600",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073677174293373175",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@today_is_foggy 你也吃啊😨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592401094273302528",
+        "conversation_id": "2073677174293373175",
+        "created_at": "2026-07-05T10:46:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T11:46:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073720205562544610"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2053864757329817600",
+              "start": 0,
+              "username": "today_is_foggy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073720205562544610",
+        "in_reply_to_user_id": "2053864757329817600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073677174293373175",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@today_is_foggy 你也吃啊😨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053864757329817600",
+        "conversation_id": "2073677174293373175",
+        "created_at": "2026-07-05T07:55:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T08:55:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073677174293373175"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/shennaichuan_/…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/shennaichuan_/status/2073136548137374081",
+              "start": 15,
+              "url": "https://t.co/M9G3G1m0Wf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073677174293373175",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073136548137374081",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "咱都o了能不知道这玩意毒吗。 https://t.co/M9G3G1m0Wf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-15T06:16:59.000Z",
+        "description": "各类游戏都浅玩，战雷伟大鳄梨邦，🍥2026/5/22\n丨不od丨不zc丨大龄丨有证含糖🍥丨MTF\n互fo请私信\n傻瓜@SofHAvVenn，笨蛋@linxinyujiang",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 58,
+                "username": "SofHAvVenn"
+              },
+              {
+                "end": 86,
+                "start": 72,
+                "username": "linxinyujiang"
+              }
+            ]
+          }
+        },
+        "id": "1592401094273302528",
+        "name": "糯米🍥",
+        "pinned_tweet_id": "2073265357758886352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057058246888960000/PSLJHun5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 142,
+          "like_count": 388,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 377
+        },
+        "url": "",
+        "username": "LuoLuo_Miki",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-11T15:48:30.000Z",
+        "description": "kiki，二次元，笨蛋，无糖，不od、割手，什么都会一点但什么都做不好，只要接纳咱那一定会有反馈的说ww接触过的东西有好多，但都很入门...航空航天 时事政治 摄影 化妆 化学 锻炼健身 番剧游戏 还自己学过一点c和Python...希望有人可以来找咱聊天什么的。",
+        "id": "2053864757329817600",
+        "location": "成都  山东上学",
+        "name": "是kiki~",
+        "pinned_tweet_id": "2072524780209864832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054228140684410881/UolaELqW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 90,
+          "like_count": 1033,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 631
+        },
+        "url": "",
+        "username": "today_is_foggy",
+        "verified": false
+      }
+    ]
+  }
+}

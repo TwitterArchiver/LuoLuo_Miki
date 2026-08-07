@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592401094273302528",
+    "conversation_id": "2073406877829128521",
+    "created_at": "2026-07-05T01:41:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T02:41:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073582971672809815"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2022208955917979648",
+          "start": 0,
+          "username": "Ak1r4i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073582971672809815",
+    "in_reply_to_user_id": "2022208955917979648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073406877829128521",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ak1r4i 日子就这样子混过来了，还是得学东西，我反正已经自暴自弃了，就这样子一个人混着了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592401094273302528",
+        "conversation_id": "2073406877829128521",
+        "created_at": "2026-07-05T01:41:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T02:41:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073582971672809815"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2022208955917979648",
+              "start": 0,
+              "username": "Ak1r4i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073582971672809815",
+        "in_reply_to_user_id": "2022208955917979648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073406877829128521",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ak1r4i 日子就这样子混过来了，还是得学东西，我反正已经自暴自弃了，就这样子一个人混着了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022208955917979648",
+        "conversation_id": "2073406877829128521",
+        "created_at": "2026-07-04T14:01:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T15:01:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073406877829128521"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073406877829128521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唔嗯那个想求一份逃离原生家庭后的独居生活指南🙏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-15T06:16:59.000Z",
+        "description": "这里是糯米，很高兴认识大家❤️\n丨不od丨抑郁丨性别焦虑丨无证含糖🍥丨MTF\n互fo请私信\n笨蛋@linxinyujiang",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 48,
+                "username": "linxinyujiang"
+              }
+            ]
+          }
+        },
+        "id": "1592401094273302528",
+        "name": "糯米🍥",
+        "pinned_tweet_id": "2073265357758886352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057058246888960000/PSLJHun5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 136,
+          "like_count": 347,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 342
+        },
+        "url": "",
+        "username": "LuoLuo_Miki",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-13T07:19:33.000Z",
+        "description": "這麼大的世界卻無我的立錐之地\nMtf 无证含糖🍥/OD/休学中/毛绒玩具重度依赖/讲不来话的笨蛋。。\n求求互fo喵🥹",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ak1r4i",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ak1r4i",
+                "start": 0,
+                "url": "https://t.co/d4zjW5b8fM"
+              }
+            ]
+          }
+        },
+        "id": "2022208955917979648",
+        "location": "上海",
+        "name": "惺🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071134075751211008/RPLFxoUr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 121,
+          "like_count": 147,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 95
+        },
+        "url": "https://t.co/d4zjW5b8fM",
+        "username": "Ak1r4i",
+        "verified": false
+      }
+    ]
+  }
+}

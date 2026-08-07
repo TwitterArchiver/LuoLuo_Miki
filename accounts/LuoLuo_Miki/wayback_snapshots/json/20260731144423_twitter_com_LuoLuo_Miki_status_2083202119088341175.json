@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592401094273302528",
+    "conversation_id": "2083191228649337005",
+    "created_at": "2026-07-31T14:44:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T15:44:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083202119088341175"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1746818545630195713",
+          "start": 0,
+          "username": "Anxious_K1n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083202119088341175",
+    "in_reply_to_user_id": "1746818545630195713",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083191228649337005",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Anxious_K1n 啊？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2083191209686945792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOj7XjSbUAAc5Wb.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592401094273302528",
+        "conversation_id": "2083191228649337005",
+        "created_at": "2026-07-31T14:44:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T15:44:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083202119088341175"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1746818545630195713",
+              "start": 0,
+              "username": "Anxious_K1n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083202119088341175",
+        "in_reply_to_user_id": "1746818545630195713",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083191228649337005",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Anxious_K1n 啊？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083191209686945792"
+          ]
+        },
+        "author_id": "1746818545630195713",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2083191228649337005",
+        "created_at": "2026-07-31T14:01:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T15:01:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083191228649337005"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RXsOnVtooN",
+              "end": 23,
+              "expanded_url": "https://x.com/Anxious_K1n/status/2083191228649337005/photo/1",
+              "media_key": "3_2083191209686945792",
+              "start": 0,
+              "url": "https://t.co/RXsOnVtooN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083191228649337005",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/RXsOnVtooN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-15T06:16:59.000Z",
+        "description": "🍥2026/5/22\n每天都想和一只猹贴贴 ♡♡ \n@Dreemurr_Miki｜我的对象，我的爱人｜丨不od丨不zc丨不抽烟丨不鉴证丨大龄丨有证含糖🍥丨MTF\n碎碎念日常\n\n互fo请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 26,
+                "username": "Dreemurr_Miki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoluo_miki",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoluo_miki",
+                "start": 0,
+                "url": "https://t.co/GbvEwIBrSw"
+              }
+            ]
+          }
+        },
+        "id": "1592401094273302528",
+        "location": "距离你126米",
+        "name": "糯米🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2082399117578473595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057058246888960000/PSLJHun5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 606,
+          "following_count": 190,
+          "like_count": 970,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 714
+        },
+        "url": "https://t.co/GbvEwIBrSw",
+        "username": "LuoLuo_Miki",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-15T08:56:41.000Z",
+        "description": "我只会给我自己和爱我的人创造痛苦",
+        "id": "1746818545630195713",
+        "location": "Mercury",
+        "name": "Kasumi",
+        "pinned_tweet_id": "2082268005489332455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062077789306793984/OF_vhTdc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 406,
+          "following_count": 245,
+          "like_count": 1338,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 703
+        },
+        "url": "",
+        "username": "Anxious_K1n",
+        "verified": false
+      }
+    ]
+  }
+}

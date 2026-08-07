@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592401094273302528",
+    "conversation_id": "2083154016046051689",
+    "created_at": "2026-07-31T12:42:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T13:42:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083171354871005631"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1868438397083410432",
+          "start": 0,
+          "username": "2020520Rei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083171354871005631",
+    "in_reply_to_user_id": "1868438397083410432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083154016046051689",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2020520Rei 这是要😨，不能是我想的那样吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592401094273302528",
+        "conversation_id": "2083154016046051689",
+        "created_at": "2026-07-31T12:42:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T13:42:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083171354871005631"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1868438397083410432",
+              "start": 0,
+              "username": "2020520Rei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083171354871005631",
+        "in_reply_to_user_id": "1868438397083410432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083154016046051689",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2020520Rei 这是要😨，不能是我想的那样吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868438397083410432",
+        "conversation_id": "2083154016046051689",
+        "created_at": "2026-07-31T11:33:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T12:32:23.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083153798374244497",
+          "2083154016046051689"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083154016046051689",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "在发完上面那条帖子后不久，老爸就回来了，就像往常一样，他带了东西来吃，顺带挥了挥手，示意我把垃圾桶的垃圾绑起来换新袋子。我当然很开心，他回来了，无论在干什么，都会放下手中的事，去和他说话。说起这个啊，阿零有时候会很晕很痛很难受，躺在床上，咬紧牙关，都想起来和父母说说话，有时候专门两个人一起来这里一起陪我吃饭。但是怎么也起不来，甚至，连憋气蹦起来的指令都没有。但他们是理解的，他们知道我很难受，所以也不好意思打扰，因为阿零很喜欢打明牌，直接表达自己的真实且直接的想法与感受。没能起来，自己也很难过懊悔。“又错过一次和父母交谈的好机会了……”\n话说回来，他问我，问我手里的东西吃不吃，我说吃啊，肯定吃啊，只要是你带回来的东西，我什么都吃，我接过来放桌子上打开，一边说起来……哎，解离了，跳过吧。于是没一会我在不自觉厨房里徘徊，与老爸说起来了话，我问老爸，“你看我像一个精神病吗？”“这种哪里看得出来。”声音往上抬。然后我皱了皱眉头，咬了咬牙，吸了一大口气，咽了口水，说：“老爸……”“怎么了……”“呃……”“很难受啊？”“老爸，我，很难受。”我手搭在墙角边上，抿了抿嘴。老爸一边弯腰擦着灶台，一边抬着眉头说。“那就好好吃药呗，有空捏，就多出去走走嚯，药要按时按量吃。”然后我闭了一下眼睛，又哽咽了一下，“嗯……老爸，你得做好心里准备了。”老爸没说什么，就好像往常一样什么也没发生。一边擦着灶台，一边转头开水龙头。\n…………\n老爸要回去那边了，我向他在门口挥了挥手，只不过这一次比以往任何一次要认真。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 228,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在发完上面那条帖子后不久，老爸就回来了，就像往常一样，他带了东西来吃，顺带挥了挥手，示意我把垃圾桶的垃圾绑起来换新袋子。我当然很开心，他回来了，无论在干什么，都会放下手中的事，去和他说话。说起这个啊，阿零有时候会很晕很痛很难受，躺在床上，咬紧牙关，都想起来和父母说说话，有时候专门"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-15T06:16:59.000Z",
+        "description": "🍥2026/5/22\n每天都想和一只猹贴贴 ♡♡ \n@Dreemurr_Miki｜我的对象，我的爱人｜丨不od丨不zc丨不抽烟丨不鉴证丨大龄丨有证含糖🍥丨MTF\n碎碎念日常\n\n互fo请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 26,
+                "username": "Dreemurr_Miki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoluo_miki",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoluo_miki",
+                "start": 0,
+                "url": "https://t.co/GbvEwIBrSw"
+              }
+            ]
+          }
+        },
+        "id": "1592401094273302528",
+        "location": "距离你126米",
+        "name": "糯米🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2082399117578473595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057058246888960000/PSLJHun5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 606,
+          "following_count": 189,
+          "like_count": 964,
+          "listed_count": 1,
+          "media_count": 79,
+          "tweet_count": 710
+        },
+        "url": "https://t.co/GbvEwIBrSw",
+        "username": "LuoLuo_Miki",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-15T23:30:20.000Z",
+        "description": "账号重生×3 | 重度抑郁 | 有认知障碍 |爱臭美|体弱多病 | MTF🏳️‍⚧️ | 🥰普瑞巴林🥵PR80😋重度依赖😍 |只想做好自己 |  人美心善😘～| 163cm  45kg（小小只）              \n*我的互fo死了msk你赔我",
+        "id": "1868438397083410432",
+        "location": "0km",
+        "name": "Rei零酱🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075610198694297600/MUVZKOFF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 547,
+          "following_count": 330,
+          "like_count": 2105,
+          "listed_count": 1,
+          "media_count": 26,
+          "tweet_count": 1013
+        },
+        "url": "",
+        "username": "2020520Rei",
+        "verified": true
+      }
+    ]
+  }
+}

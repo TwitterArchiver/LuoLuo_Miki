@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066882184653512705"
+      ]
+    },
+    "author_id": "1592401094273302528",
+    "conversation_id": "2066882193398567231",
+    "created_at": "2026-06-16T13:54:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T14:54:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066882193398567231"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/eNLl9ERQAb",
+          "end": 65,
+          "expanded_url": "https://x.com/LuoLuo_Miki/status/2066882193398567231/photo/1",
+          "media_key": "3_2066882184653512705",
+          "start": 42,
+          "url": "https://t.co/eNLl9ERQAb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066882193398567231",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我购买的车票其实早就到站了，只是我下列车后又被人拉上车了，下一站，我还会在列车里吗 https://t.co/eNLl9ERQAb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066882184653512705",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK8KZWjbIAEGpwJ.jpg",
+        "width": 1682
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066882184653512705"
+          ]
+        },
+        "author_id": "1592401094273302528",
+        "conversation_id": "2066882193398567231",
+        "created_at": "2026-06-16T13:54:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T14:54:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066882193398567231"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eNLl9ERQAb",
+              "end": 65,
+              "expanded_url": "https://x.com/LuoLuo_Miki/status/2066882193398567231/photo/1",
+              "media_key": "3_2066882184653512705",
+              "start": 42,
+              "url": "https://t.co/eNLl9ERQAb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066882193398567231",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我购买的车票其实早就到站了，只是我下列车后又被人拉上车了，下一站，我还会在列车里吗 https://t.co/eNLl9ERQAb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-15T06:16:59.000Z",
+        "description": "老大，白给会有人要吗丨不键政丨不od丨不自残丨内向不敢见人丨想找恋人或者主人丨",
+        "id": "1592401094273302528",
+        "name": "糯米🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057058246888960000/PSLJHun5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 86,
+          "like_count": 178,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 190
+        },
+        "username": "LuoLuo_Miki",
+        "verified": true
+      }
+    ]
+  }
+}

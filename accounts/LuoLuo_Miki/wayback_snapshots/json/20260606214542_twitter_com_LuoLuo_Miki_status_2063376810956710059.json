@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592401094273302528",
+    "conversation_id": "2062467177874423963",
+    "created_at": "2026-06-06T21:45:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T22:45:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063376810956710059"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1962302660541079552",
+          "start": 0,
+          "username": "yuerQwQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063376810956710059",
+    "in_reply_to_user_id": "1962302660541079552",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062467177874423963",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuerQwQ 😨"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 896,
+        "media_key": "3_2062467170467303424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ9a9tCb0AAZmnC.jpg",
+        "width": 1140
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592401094273302528",
+        "conversation_id": "2062467177874423963",
+        "created_at": "2026-06-06T21:45:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T22:45:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063376810956710059"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1962302660541079552",
+              "start": 0,
+              "username": "yuerQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063376810956710059",
+        "in_reply_to_user_id": "1962302660541079552",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062467177874423963",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuerQwQ 😨"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062467170467303424"
+          ]
+        },
+        "author_id": "1962302660541079552",
+        "conversation_id": "2062467177874423963",
+        "created_at": "2026-06-04T09:31:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T10:31:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062467177874423963"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9SVJZguHcW",
+              "end": 38,
+              "expanded_url": "https://x.com/yuerQwQ/status/2062467177874423963/photo/1",
+              "media_key": "3_2062467170467303424",
+              "start": 15,
+              "url": "https://t.co/9SVJZguHcW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062467177874423963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 2118,
+          "like_count": 74,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "这样的话，一定会昏过去的吧🤤 https://t.co/9SVJZguHcW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-15T06:16:59.000Z",
+        "description": "老大，白给会有人要吗丨不键政丨不od丨不自残丨内向不敢见人丨想找恋人或者主人丨",
+        "id": "1592401094273302528",
+        "name": "糯米🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057058246888960000/PSLJHun5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 85,
+          "like_count": 124,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 139
+        },
+        "username": "LuoLuo_Miki",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-31T23:53:17.000Z",
+        "description": "17岁丨hrt 2026.4.17  🏳️‍⚧️丨无证含糖🍥丨修正马主义☭丨民主青年🇹🇼丨广东丨178身高体重115丨蓝v互fo丨可爱の老婆@wu31878丨喜欢的熊@A_Asystem丨我亲爱的宝宝@picxis63594丨姐姐@huihui_mikumi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 70,
+                "username": "wu31878"
+              },
+              {
+                "end": 93,
+                "start": 83,
+                "username": "A_Asystem"
+              },
+              {
+                "end": 112,
+                "start": 100,
+                "username": "picxis63594"
+              },
+              {
+                "end": 129,
+                "start": 115,
+                "username": "huihui_mikumi"
+              }
+            ]
+          }
+        },
+        "id": "1962302660541079552",
+        "name": "yuer🍥",
+        "pinned_tweet_id": "2062322312133886446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037565225751502849/_sEazegR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1533,
+          "following_count": 1055,
+          "like_count": 12064,
+          "listed_count": 2,
+          "media_count": 395,
+          "tweet_count": 2509
+        },
+        "username": "yuerQwQ",
+        "verified": true
+      }
+    ]
+  }
+}

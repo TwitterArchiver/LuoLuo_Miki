@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592401094273302528",
+    "conversation_id": "2063289819720044834",
+    "created_at": "2026-06-06T21:40:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T22:40:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063375539252158839"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1857802986837172224",
+          "start": 0,
+          "username": "LingJiaXin233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063375539252158839",
+    "in_reply_to_user_id": "1857802986837172224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063289819720044834",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LingJiaXin233 看得出来，公司很剥削了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1031,
+        "media_key": "3_2062092169624903680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ4F5yCbYAACO2x.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592401094273302528",
+        "conversation_id": "2063289819720044834",
+        "created_at": "2026-06-06T21:40:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T22:40:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063375539252158839"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1857802986837172224",
+              "start": 0,
+              "username": "LingJiaXin233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063375539252158839",
+        "in_reply_to_user_id": "1857802986837172224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063289819720044834",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingJiaXin233 看得出来，公司很剥削了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062092169624903680"
+          ]
+        },
+        "author_id": "1857802986837172224",
+        "conversation_id": "2063289819720044834",
+        "created_at": "2026-06-06T16:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T17:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063289819720044834"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Uj70eG5pmX",
+              "end": 31,
+              "expanded_url": "https://x.com/LingJiaXin233/status/2063289819720044834/photo/1",
+              "media_key": "3_2062092169624903680",
+              "start": 8,
+              "url": "https://t.co/Uj70eG5pmX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063289819720044834",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5075,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你也需要救援吗 https://t.co/Uj70eG5pmX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-15T06:16:59.000Z",
+        "description": "老大，白给会有人要吗丨不键政丨不od丨不自残丨内向不敢见人丨想找恋人或者主人丨",
+        "id": "1592401094273302528",
+        "name": "糯米🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057058246888960000/PSLJHun5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 85,
+          "like_count": 122,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 138
+        },
+        "username": "LuoLuo_Miki",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "这里凌嘉欣🏳️‍⚧️，你也可以叫我Sonora！\n无证含糖，研究研究性别和哲学\n发一些梗图，希望能给你带来快乐！\n可以关注我的生活号@adorableLing\n各位在X玩的开心！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 66,
+                "username": "adorableLing"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "pinned_tweet_id": "2061378922982609209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6765,
+          "following_count": 539,
+          "like_count": 19253,
+          "listed_count": 14,
+          "media_count": 2236,
+          "tweet_count": 5695
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      }
+    ]
+  }
+}

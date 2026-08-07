@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592401094273302528",
+    "conversation_id": "2063258095405744145",
+    "created_at": "2026-06-06T15:06:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T16:06:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063276290543927443"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1889861257",
+          "start": 0,
+          "username": "__summer__sea__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063276290543927443",
+    "in_reply_to_user_id": "1889861257",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063258095405744145",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@__summer__sea__ 真的很疼"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2352,
+        "media_key": "3_2063258081698729985",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKIqSy-bUAEQqH5.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592401094273302528",
+        "conversation_id": "2063258095405744145",
+        "created_at": "2026-06-06T15:06:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T16:06:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063276290543927443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1889861257",
+              "start": 0,
+              "username": "__summer__sea__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063276290543927443",
+        "in_reply_to_user_id": "1889861257",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063258095405744145",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@__summer__sea__ 真的很疼"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063258081698729985"
+          ]
+        },
+        "author_id": "1889861257",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2063258095405744145",
+        "created_at": "2026-06-06T13:53:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T14:53:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063258095405744145"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7liUWqmyNz",
+              "end": 32,
+              "expanded_url": "https://x.com/__summer__sea__/status/2063258095405744145/photo/1",
+              "media_key": "3_2063258081698729985",
+              "start": 9,
+              "url": "https://t.co/7liUWqmyNz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063258095405744145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 88,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这一刀下去爽了。 https://t.co/7liUWqmyNz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-15T06:16:59.000Z",
+        "description": "老大，白给会有人要吗丨不键政丨不od丨不自残丨内向不敢见人丨想找恋人或者主人丨",
+        "id": "1592401094273302528",
+        "name": "糯米🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057058246888960000/PSLJHun5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 84,
+          "like_count": 114,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 136
+        },
+        "username": "LuoLuo_Miki",
+        "verified": true
+      },
+      {
+        "created_at": "2013-09-21T11:07:58.000Z",
+        "description": "神户盐｜16岁｜护理专业｜已扭转一年半｜情感淡漠｜家长不管党｜Q:3755457720｜对象:@sklmm_｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 47,
+                "username": "sklmm_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/brentcruz106",
+                "end": 23,
+                "expanded_url": "https://t.me/brentcruz106",
+                "start": 0,
+                "url": "https://t.co/1e7qTaQHLq"
+              }
+            ]
+          }
+        },
+        "id": "1889861257",
+        "name": "盐🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061179467889074177/WoZoQ9BB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 707,
+          "following_count": 844,
+          "like_count": 8852,
+          "listed_count": 0,
+          "media_count": 151,
+          "tweet_count": 2758
+        },
+        "url": "https://t.co/1e7qTaQHLq",
+        "username": "__summer__sea__",
+        "verified": false
+      }
+    ]
+  }
+}

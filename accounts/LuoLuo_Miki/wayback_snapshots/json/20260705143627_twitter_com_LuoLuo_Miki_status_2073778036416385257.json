@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592401094273302528",
+    "conversation_id": "2073265357758886352",
+    "created_at": "2026-07-05T14:36:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T15:36:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073778036416385257"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2053620855276511233",
+          "start": 0,
+          "username": "BoluChaoji25202"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073778036416385257",
+    "in_reply_to_user_id": "2053620855276511233",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073774768684462209",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BoluChaoji25202 我们是不是见过面"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592401094273302528",
+        "conversation_id": "2073265357758886352",
+        "created_at": "2026-07-05T14:36:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T15:36:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073778036416385257"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2053620855276511233",
+              "start": 0,
+              "username": "BoluChaoji25202"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073778036416385257",
+        "in_reply_to_user_id": "2053620855276511233",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073774768684462209",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BoluChaoji25202 我们是不是见过面"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053620855276511233",
+        "conversation_id": "2073265357758886352",
+        "created_at": "2026-07-05T14:23:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T15:23:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073774768684462209"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1592401094273302528",
+              "start": 0,
+              "username": "LuoLuo_Miki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073774768684462209",
+        "in_reply_to_user_id": "1592401094273302528",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073265357758886352",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LuoLuo_Miki 宝宝我🙃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-15T06:16:59.000Z",
+        "description": "各类游戏都浅玩，战雷伟大鳄梨邦，🍥2026/5/22\n丨不od丨不zc丨大龄丨有证含糖🍥丨MTF\n互fo请私信\n傻瓜@SofHAvVenn，笨蛋@linxinyujiang",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 58,
+                "username": "SofHAvVenn"
+              },
+              {
+                "end": 86,
+                "start": 72,
+                "username": "linxinyujiang"
+              }
+            ]
+          }
+        },
+        "id": "1592401094273302528",
+        "name": "糯米🍥",
+        "pinned_tweet_id": "2073265357758886352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057058246888960000/PSLJHun5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 144,
+          "like_count": 404,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 394
+        },
+        "url": "",
+        "username": "LuoLuo_Miki",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-10T23:40:12.000Z",
+        "description": "爱看可爱的小正太小萝莉喵xqwq_\n/非二元性别🏳️‍🌈/生产日期：2011.04.15",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yuwozura",
+                "end": 23,
+                "expanded_url": "http://t.me/yuwozura",
+                "start": 0,
+                "url": "https://t.co/NRSXIfks0M"
+              }
+            ]
+          }
+        },
+        "id": "2053620855276511233",
+        "location": "United States",
+        "name": "与我zura",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055429387454136320/vFuT183t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 254,
+          "like_count": 258,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 86
+        },
+        "url": "https://t.co/NRSXIfks0M",
+        "username": "BoluChaoji25202",
+        "verified": false
+      }
+    ]
+  }
+}

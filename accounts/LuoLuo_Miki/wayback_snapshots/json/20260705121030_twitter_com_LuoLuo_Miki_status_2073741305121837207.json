@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592401094273302528",
+    "conversation_id": "2073594502326194194",
+    "created_at": "2026-07-05T12:10:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T13:10:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073741305121837207"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1277909216372506625",
+          "start": 0,
+          "username": "QR49547798"
+        },
+        {
+          "end": 26,
+          "id": "1883076846281228288",
+          "start": 12,
+          "username": "liynchn331903"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073741305121837207",
+    "in_reply_to_user_id": "1277909216372506625",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073740479724957865",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QR49547798 @liynchn331903 你是烧货"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592401094273302528",
+        "conversation_id": "2073594502326194194",
+        "created_at": "2026-07-05T12:10:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T13:10:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073741305121837207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1277909216372506625",
+              "start": 0,
+              "username": "QR49547798"
+            },
+            {
+              "end": 26,
+              "id": "1883076846281228288",
+              "start": 12,
+              "username": "liynchn331903"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073741305121837207",
+        "in_reply_to_user_id": "1277909216372506625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073740479724957865",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QR49547798 @liynchn331903 你是烧货"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1277909216372506625",
+        "conversation_id": "2073594502326194194",
+        "created_at": "2026-07-05T12:07:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T13:07:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073740479724957865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1883076846281228288",
+              "start": 0,
+              "username": "liynchn331903"
+            },
+            {
+              "end": 27,
+              "id": "1592401094273302528",
+              "start": 15,
+              "username": "LuoLuo_Miki"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "0071f14054b91099"
+        },
+        "id": "2073740479724957865",
+        "in_reply_to_user_id": "1883076846281228288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073728803982147889",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liynchn331903 @LuoLuo_Miki 我是燒火棍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-15T06:16:59.000Z",
+        "description": "各类游戏都浅玩，战雷伟大鳄梨邦，🍥2026/5/22\n丨不od丨不zc丨大龄丨有证含糖🍥丨MTF\n互fo请私信\n傻瓜@SofHAvVenn，笨蛋@linxinyujiang",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 58,
+                "username": "SofHAvVenn"
+              },
+              {
+                "end": 86,
+                "start": 72,
+                "username": "linxinyujiang"
+              }
+            ]
+          }
+        },
+        "id": "1592401094273302528",
+        "name": "糯米🍥",
+        "pinned_tweet_id": "2073265357758886352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057058246888960000/PSLJHun5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 142,
+          "like_count": 395,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 381
+        },
+        "url": "",
+        "username": "LuoLuo_Miki",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-30T10:18:09.000Z",
+        "description": "人設:半調子的機構工程師 \n在貓派狗派中鑄躇不決\nZ世代下的產物",
+        "id": "1277909216372506625",
+        "name": "F",
+        "pinned_tweet_id": "1892952810674913291",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026322679138316288/sSFD8xj4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 683,
+          "like_count": 111150,
+          "listed_count": 0,
+          "media_count": 168,
+          "tweet_count": 1356
+        },
+        "url": "",
+        "username": "QR49547798",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-25T08:59:02.000Z",
+        "description": "13.08.05\n我會時不時發點怪東西\n友跨（好吧可能真的翻車了\n初中喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sites.google.com/view/azez21/%E…",
+                "end": 23,
+                "expanded_url": "https://sites.google.com/view/azez21/%E9%A6%96%E9%A0%81",
+                "start": 0,
+                "url": "https://t.co/Bypq1lF4VO"
+              }
+            ]
+          }
+        },
+        "id": "1883076846281228288",
+        "location": "myhome",
+        "name": "AZEZ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054200736368750594/Nssvvqku_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 211,
+          "like_count": 5416,
+          "listed_count": 0,
+          "media_count": 291,
+          "tweet_count": 1507
+        },
+        "url": "https://t.co/Bypq1lF4VO",
+        "username": "liynchn331903",
+        "verified": false
+      }
+    ]
+  }
+}

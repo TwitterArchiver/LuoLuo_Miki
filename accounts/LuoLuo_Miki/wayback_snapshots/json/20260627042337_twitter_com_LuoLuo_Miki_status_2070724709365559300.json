@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592401094273302528",
+    "conversation_id": "2070722526976889026",
+    "created_at": "2026-06-27T04:23:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T05:23:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070724709365559300"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2067083791060082688",
+          "start": 0,
+          "username": "IkVJgfTe7N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070724709365559300",
+    "in_reply_to_user_id": "2067083791060082688",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070722526976889026",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IkVJgfTe7N 互"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2070722281748439040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLyu8bAaIAA3Dgj.jpg",
+        "width": 926
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592401094273302528",
+        "conversation_id": "2070722526976889026",
+        "created_at": "2026-06-27T04:23:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T05:23:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070724709365559300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2067083791060082688",
+              "start": 0,
+              "username": "IkVJgfTe7N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070724709365559300",
+        "in_reply_to_user_id": "2067083791060082688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070722526976889026",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IkVJgfTe7N 互"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070722281748439040"
+          ]
+        },
+        "author_id": "2067083791060082688",
+        "conversation_id": "2070722526976889026",
+        "created_at": "2026-06-27T04:14:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T05:14:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070722526976889026"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mSce0ZZTzB",
+              "end": 39,
+              "expanded_url": "https://x.com/IkVJgfTe7N/status/2070722526976889026/photo/1",
+              "media_key": "3_2070722281748439040",
+              "start": 16,
+              "url": "https://t.co/mSce0ZZTzB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070722526976889026",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "已尝试申诉三代目和一代目账号🥲 https://t.co/mSce0ZZTzB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-15T06:16:59.000Z",
+        "description": "大家好~❤️！\n这里是糯米，很高兴认识大家❤️\n丨不od丨抑郁丨性别焦虑丨无证含糖🍥丨MTF\n为什么会这样子就像你从未来过\n@linxinyujiang",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 62,
+                "username": "linxinyujiang"
+              }
+            ]
+          }
+        },
+        "id": "1592401094273302528",
+        "name": "糯米🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057058246888960000/PSLJHun5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 113,
+          "like_count": 234,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 253
+        },
+        "url": "",
+        "username": "LuoLuo_Miki",
+        "verified": false
+      },
+      {
+        "created_at": "2026-06-17T03:16:40.000Z",
+        "description": "这里是Unk4.0🍥\n三代目也没了😭😭😭\n怀念@UnkMtX\n先用个黑白头像24h吧",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 23,
+                "username": "UnkMtX"
+              }
+            ]
+          }
+        },
+        "id": "2067083791060082688",
+        "name": "Unk4.0🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070485483919147008/S4OayoUg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 87,
+          "like_count": 42,
+          "listed_count": 4,
+          "media_count": 2,
+          "tweet_count": 17
+        },
+        "url": "",
+        "username": "IkVJgfTe7N",
+        "verified": false
+      }
+    ]
+  }
+}

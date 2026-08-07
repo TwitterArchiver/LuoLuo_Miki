@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592401094273302528",
+    "conversation_id": "2082267858499981460",
+    "created_at": "2026-07-29T02:06:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T03:06:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082286488075592108"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1945331416528539649",
+          "start": 0,
+          "username": "bpmiea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082286488075592108",
+    "in_reply_to_user_id": "1945331416528539649",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082267858499981460",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bpmiea 啊？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592401094273302528",
+        "conversation_id": "2082267858499981460",
+        "created_at": "2026-07-29T02:06:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T03:06:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082286488075592108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1945331416528539649",
+              "start": 0,
+              "username": "bpmiea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082286488075592108",
+        "in_reply_to_user_id": "1945331416528539649",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082267858499981460",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bpmiea 啊？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945331416528539649",
+        "conversation_id": "2082267858499981460",
+        "created_at": "2026-07-29T00:51:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T01:51:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082267858499981460"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/gdioiui/status…",
+              "end": 87,
+              "expanded_url": "https://twitter.com/gdioiui/status/2081766940000027098",
+              "start": 64,
+              "url": "https://t.co/TY32avj8R7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082267858499981460",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 100,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081766940000027098",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "会错过买碳酸钡被警察上门炸柜，会错过放暑假一天上五节补课班，会错过被校园霸凌无数次忍气吞声，会错过被男朋友当杯子操完就跑😂😂😂 https://t.co/TY32avj8R7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-15T06:16:59.000Z",
+        "description": "各类游戏都浅玩，战雷伟大鳄梨邦，🍥2026/5/22\n每天都想和一只猹贴贴 ♡♡ \n@Dreemurr_Miki｜我的对象，我的爱人｜丨不od丨不zc丨不抽烟丨不鉴证丨大龄丨有证含糖🍥丨MTF\n\n互fo请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 42,
+                "username": "Dreemurr_Miki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoluo_miki",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoluo_miki",
+                "start": 0,
+                "url": "https://t.co/GbvEwIBrSw"
+              }
+            ]
+          }
+        },
+        "id": "1592401094273302528",
+        "location": "距离你126米",
+        "name": "糯米🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2079073415873605729",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057058246888960000/PSLJHun5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 584,
+          "following_count": 190,
+          "like_count": 866,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 675
+        },
+        "url": "https://t.co/GbvEwIBrSw",
+        "username": "LuoLuo_Miki",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-16T03:55:59.000Z",
+        "description": "MtF🏳️‍⚧️ | 无证🍥2026.1已炸柜 | 2011 | 自恨党\n吸毒❌自残❌键政❌滥交❌\narch&nix | py/kotlin/nodejs\ngfwfucker | vibecoder | Vocaloid&SV\n会发一些日常和碎碎念，可能会有负面内容…\n同类互fo！\n最爱的姐姐@4rulq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 153,
+                "start": 147,
+                "username": "4rulq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "transky.mtf.wiki",
+                "end": 23,
+                "expanded_url": "https://transky.mtf.wiki/",
+                "start": 0,
+                "url": "https://t.co/n3Vk7Z186e"
+              }
+            ]
+          }
+        },
+        "id": "1945331416528539649",
+        "location": "小城市 浙江省 中国",
+        "name": "叶洛夜🍥𝓑.𝓜.//一酱重度依赖",
+        "pinned_tweet_id": "2077917279115985096",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075763756723044352/VWZ-Y7B4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1045,
+          "following_count": 686,
+          "like_count": 924,
+          "listed_count": 2,
+          "media_count": 179,
+          "tweet_count": 1223
+        },
+        "url": "https://t.co/n3Vk7Z186e",
+        "username": "bpmiea",
+        "verified": true
+      }
+    ]
+  }
+}

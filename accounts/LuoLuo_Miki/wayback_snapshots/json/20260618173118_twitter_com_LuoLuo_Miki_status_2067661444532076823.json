@@ -1,0 +1,154 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067661441227005952"
+      ]
+    },
+    "author_id": "1592401094273302528",
+    "conversation_id": "2067661444532076823",
+    "created_at": "2026-06-18T17:31:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T18:31:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067661444532076823"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "中国三十四省级行政区域制霸标记生成工具",
+          "display_url": "lab.magiconch.com/china-ex/",
+          "end": 30,
+          "expanded_url": "http://lab.magiconch.com/china-ex/",
+          "start": 7,
+          "status": 200,
+          "title": "中国制霸生成器 - 中国三十四省级行政区域制霸标记生成工具",
+          "unwound_url": "https://lab.magiconch.com/china-ex/",
+          "url": "https://t.co/8XJlk8oAlF"
+        },
+        {
+          "display_url": "pic.x.com/IiOtaOUBZ7",
+          "end": 54,
+          "expanded_url": "https://x.com/LuoLuo_Miki/status/2067661444532076823/photo/1",
+          "media_key": "3_2067661441227005952",
+          "start": 31,
+          "url": "https://t.co/IiOtaOUBZ7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067661444532076823",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你也来试试吧\nhttps://t.co/8XJlk8oAlF https://t.co/IiOtaOUBZ7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2268,
+        "media_key": "3_2067661441227005952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLHPIDgboAAtGUf.jpg",
+        "width": 2268
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067661441227005952"
+          ]
+        },
+        "author_id": "1592401094273302528",
+        "conversation_id": "2067661444532076823",
+        "created_at": "2026-06-18T17:31:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T18:31:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067661444532076823"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "中国三十四省级行政区域制霸标记生成工具",
+              "display_url": "lab.magiconch.com/china-ex/",
+              "end": 30,
+              "expanded_url": "http://lab.magiconch.com/china-ex/",
+              "start": 7,
+              "status": 200,
+              "title": "中国制霸生成器 - 中国三十四省级行政区域制霸标记生成工具",
+              "unwound_url": "https://lab.magiconch.com/china-ex/",
+              "url": "https://t.co/8XJlk8oAlF"
+            },
+            {
+              "display_url": "pic.x.com/IiOtaOUBZ7",
+              "end": 54,
+              "expanded_url": "https://x.com/LuoLuo_Miki/status/2067661444532076823/photo/1",
+              "media_key": "3_2067661441227005952",
+              "start": 31,
+              "url": "https://t.co/IiOtaOUBZ7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067661444532076823",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你也来试试吧\nhttps://t.co/8XJlk8oAlF https://t.co/IiOtaOUBZ7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-15T06:16:59.000Z",
+        "description": "老大，白给会有人要吗丨不键政丨不od丨不自残丨内向不敢见人丨想找恋人或者主人丨",
+        "id": "1592401094273302528",
+        "name": "糯米🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057058246888960000/PSLJHun5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 90,
+          "like_count": 179,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 197
+        },
+        "username": "LuoLuo_Miki",
+        "verified": false
+      }
+    ]
+  }
+}

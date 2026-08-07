@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592401094273302528",
+    "conversation_id": "2073594502326194194",
+    "created_at": "2026-07-09T05:41:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T06:41:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075092850954600561"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1699985068721082368",
+          "start": 0,
+          "username": "RX_Xron28390"
+        },
+        {
+          "end": 22,
+          "id": "1880436368553476096",
+          "start": 14,
+          "username": "lhskhgz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075092850954600561",
+    "in_reply_to_user_id": "1699985068721082368",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075087844465319991",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RX_Xron28390 @lhskhgz 😰😰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592401094273302528",
+        "conversation_id": "2073594502326194194",
+        "created_at": "2026-07-09T05:41:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T06:41:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075092850954600561"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1699985068721082368",
+              "start": 0,
+              "username": "RX_Xron28390"
+            },
+            {
+              "end": 22,
+              "id": "1880436368553476096",
+              "start": 14,
+              "username": "lhskhgz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075092850954600561",
+        "in_reply_to_user_id": "1699985068721082368",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075087844465319991",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RX_Xron28390 @lhskhgz 😰😰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699985068721082368",
+        "conversation_id": "2073594502326194194",
+        "created_at": "2026-07-09T05:21:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T06:21:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075087844465319991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1880436368553476096",
+              "start": 0,
+              "username": "lhskhgz"
+            },
+            {
+              "end": 21,
+              "id": "1592401094273302528",
+              "start": 9,
+              "username": "LuoLuo_Miki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075087844465319991",
+        "in_reply_to_user_id": "1880436368553476096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075083893708120148",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lhskhgz @LuoLuo_Miki BMPT已经落寞了，现在登场的是T90M竞技场，T80BVM，T80UE1-玛丽亚粉丝，Su30SM2，Su39"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-15T06:16:59.000Z",
+        "description": "各类游戏都浅玩，战雷伟大鳄梨邦，🍥2026/5/22\n丨不od丨不zc丨大龄丨有证含糖🍥丨MTF\n互fo请私信\n傻瓜@SofHAvVenn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 58,
+                "username": "SofHAvVenn"
+              }
+            ]
+          }
+        },
+        "id": "1592401094273302528",
+        "name": "糯米🍥",
+        "pinned_tweet_id": "2074857658339795022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057058246888960000/PSLJHun5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 149,
+          "like_count": 438,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 423
+        },
+        "url": "",
+        "username": "LuoLuo_Miki",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-08T03:16:52.000Z",
+        "description": "17岁在美宾洲男高/前世为德皇战死凡尔登转世的bf轮椅人/德拉无疑是美味的😋/本人搭载Welt大语言模型，响应速度114毫秒\n鉴证打咩，德皇kaiser：@sanitf1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 77,
+                "username": "sanitf1"
+              }
+            ]
+          }
+        },
+        "id": "1699985068721082368",
+        "location": "凡爾登，378號高地陣地，1916",
+        "name": "𝑇𝑦𝑟 𝑉𝑜𝑛 𝑊𝑒𝑙𝑡",
+        "pinned_tweet_id": "2071587468831514803",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061669969558147072/IWw1uzlk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 353,
+          "like_count": 10333,
+          "listed_count": 2,
+          "media_count": 1071,
+          "tweet_count": 7328
+        },
+        "url": "",
+        "username": "RX_Xron28390",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-18T02:05:52.000Z",
+        "description": "",
+        "id": "1880436368553476096",
+        "location": "安东星",
+        "name": "LHSKHGZ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026336007101255680/slTqS6_H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 23,
+          "like_count": 16758,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 273
+        },
+        "url": "",
+        "username": "lhskhgz",
+        "verified": false
+      }
+    ]
+  }
+}

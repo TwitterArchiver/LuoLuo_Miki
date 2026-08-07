@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592401094273302528",
+    "conversation_id": "2078551590731219149",
+    "created_at": "2026-07-18T18:44:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T19:44:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078551590731219149"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/aaarjkk/status…",
+          "end": 122,
+          "expanded_url": "https://twitter.com/aaarjkk/status/2078474796678230135",
+          "start": 99,
+          "url": "https://t.co/HslHSWVUlH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078551590731219149",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078474796678230135",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有过性行为：❌\n有过男朋友：✅\n有过女朋友：✅\n嗑过药：❌\n喝过酒：✅\n挂过科：✅\n去过夜店：❌\n抽过烟/用过电子烟：❌\n吻过别人：❌\n被留堂：❌\n被课堂赶出去：❌\n考试作弊：❌\n偷偷溜出家门：✅ https://t.co/HslHSWVUlH"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592401094273302528",
+        "conversation_id": "2078551590731219149",
+        "created_at": "2026-07-18T18:44:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T19:44:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078551590731219149"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aaarjkk/status…",
+              "end": 122,
+              "expanded_url": "https://twitter.com/aaarjkk/status/2078474796678230135",
+              "start": 99,
+              "url": "https://t.co/HslHSWVUlH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078551590731219149",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078474796678230135",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有过性行为：❌\n有过男朋友：✅\n有过女朋友：✅\n嗑过药：❌\n喝过酒：✅\n挂过科：✅\n去过夜店：❌\n抽过烟/用过电子烟：❌\n吻过别人：❌\n被留堂：❌\n被课堂赶出去：❌\n考试作弊：❌\n偷偷溜出家门：✅ https://t.co/HslHSWVUlH"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1955980103688790017",
+        "conversation_id": "2078474796678230135",
+        "created_at": "2026-07-18T13:39:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T14:39:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078474796678230135"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Shioochic_Xyn/…",
+              "end": 141,
+              "expanded_url": "https://twitter.com/Shioochic_Xyn/status/2078472854245614028",
+              "start": 118,
+              "url": "https://t.co/Y5unaCbfdC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078474796678230135",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 311,
+          "like_count": 6,
+          "quote_count": 3,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078472854245614028",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有过性行为：❌\n有过男朋友：❌\n有过女朋友：❌\n嗑过药：❌\n喝过酒：❌\n挂过科：❌\n去过夜店：❌\n抽过烟/用过电子烟：❌\n吻过别人：❌\n被留堂：✅\n被课堂赶出去：✅\n考试作弊：❌（小练小测不算）\n偷偷溜出家门：❌\n（我应该是最少的？） https://t.co/Y5unaCbfdC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-15T06:16:59.000Z",
+        "description": "各类游戏都浅玩，战雷伟大鳄梨邦，🍥2026/5/22\n挚友@Dreemurr_Miki｜丨不od丨不zc丨不抽烟丨不鉴证丨大龄丨有证含糖🍥丨MTF\n\n互fo请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 29,
+                "username": "Dreemurr_Miki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoluo_miki",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoluo_miki",
+                "start": 0,
+                "url": "https://t.co/GbvEwIBrSw"
+              }
+            ]
+          }
+        },
+        "id": "1592401094273302528",
+        "name": "糯米🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2074857658339795022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057058246888960000/PSLJHun5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 174,
+          "like_count": 574,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 531
+        },
+        "url": "https://t.co/GbvEwIBrSw",
+        "username": "LuoLuo_Miki",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪▯查成分互Follow(?)▯172cm▯53.25kg▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/jvZNExuURv"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "name": "貓貓貓貓喵喵喵",
+        "pinned_tweet_id": "2078259905748926467",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1120,
+          "following_count": 1149,
+          "like_count": 24105,
+          "listed_count": 5,
+          "media_count": 550,
+          "tweet_count": 3361
+        },
+        "url": "https://t.co/jvZNExuURv",
+        "username": "aaarjkk",
+        "verified": true
+      }
+    ]
+  }
+}

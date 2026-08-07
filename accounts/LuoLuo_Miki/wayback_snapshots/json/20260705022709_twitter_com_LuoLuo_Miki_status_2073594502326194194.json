@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073594495980195840"
+      ]
+    },
+    "author_id": "1592401094273302528",
+    "conversation_id": "2073594502326194194",
+    "created_at": "2026-07-05T02:27:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T03:27:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073594502326194194"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0CWHIhfY54",
+          "end": 31,
+          "expanded_url": "https://x.com/LuoLuo_Miki/status/2073594502326194194/photo/1",
+          "media_key": "3_2073594495980195840",
+          "start": 8,
+          "url": "https://t.co/0CWHIhfY54"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073594502326194194",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "😋，美味的抽奖 https://t.co/0CWHIhfY54"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 568,
+        "media_key": "3_2073594495980195840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMbjNS0a0AAAV2o.jpg",
+        "width": 508
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073594495980195840"
+          ]
+        },
+        "author_id": "1592401094273302528",
+        "conversation_id": "2073594502326194194",
+        "created_at": "2026-07-05T02:27:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T03:27:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073594502326194194"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0CWHIhfY54",
+              "end": 31,
+              "expanded_url": "https://x.com/LuoLuo_Miki/status/2073594502326194194/photo/1",
+              "media_key": "3_2073594495980195840",
+              "start": 8,
+              "url": "https://t.co/0CWHIhfY54"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073594502326194194",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "😋，美味的抽奖 https://t.co/0CWHIhfY54"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-15T06:16:59.000Z",
+        "description": "这里是糯米，很高兴认识大家❤️\n丨不od丨抑郁丨性别焦虑丨无证含糖🍥丨MTF\n互fo请私信\n笨蛋@linxinyujiang",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 48,
+                "username": "linxinyujiang"
+              }
+            ]
+          }
+        },
+        "id": "1592401094273302528",
+        "name": "糯米🍥",
+        "pinned_tweet_id": "2073265357758886352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057058246888960000/PSLJHun5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 137,
+          "like_count": 348,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 345
+        },
+        "url": "",
+        "username": "LuoLuo_Miki",
+        "verified": false
+      }
+    ]
+  }
+}

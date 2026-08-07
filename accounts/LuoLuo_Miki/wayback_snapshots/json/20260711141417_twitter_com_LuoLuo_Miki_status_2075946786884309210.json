@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592401094273302528",
+    "conversation_id": "2075844676159209670",
+    "created_at": "2026-07-11T14:14:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T15:14:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075946786884309210"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2023258926880636928",
+          "start": 0,
+          "username": "plane294"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075946786884309210",
+    "in_reply_to_user_id": "2023258926880636928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075844676159209670",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@plane294 买贵了，这个60-70一个"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1381,
+        "media_key": "3_2075844667024035840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM7hufLbUAAgCm5.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592401094273302528",
+        "conversation_id": "2075844676159209670",
+        "created_at": "2026-07-11T14:14:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T15:14:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075946786884309210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2023258926880636928",
+              "start": 0,
+              "username": "plane294"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075946786884309210",
+        "in_reply_to_user_id": "2023258926880636928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075844676159209670",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@plane294 买贵了，这个60-70一个"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075844667024035840"
+          ]
+        },
+        "author_id": "2023258926880636928",
+        "conversation_id": "2075844676159209670",
+        "created_at": "2026-07-11T07:28:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T08:28:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075844676159209670"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iCQcEodsVD",
+              "end": 28,
+              "expanded_url": "https://x.com/plane294/status/2075844676159209670/photo/1",
+              "media_key": "3_2075844667024035840",
+              "start": 5,
+              "url": "https://t.co/iCQcEodsVD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075844676159209670",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 254,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽牛逼 https://t.co/iCQcEodsVD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-15T06:16:59.000Z",
+        "description": "各类游戏都浅玩，战雷伟大鳄梨邦，🍥2026/5/22\n每天都想和一只猹贴贴 ♡♡ \n@Dreemurr_Miki｜我的对象，我的爱人丨不od丨不zc丨大龄丨有证含糖🍥丨MTF\n\n互fo请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 42,
+                "username": "Dreemurr_Miki"
+              }
+            ]
+          }
+        },
+        "id": "1592401094273302528",
+        "name": "糯米🍥",
+        "pinned_tweet_id": "2074857658339795022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057058246888960000/PSLJHun5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 152,
+          "like_count": 462,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 452
+        },
+        "url": "",
+        "username": "LuoLuo_Miki",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-16T04:51:43.000Z",
+        "description": "🚪114514 辞落的不健康账号 讲一下以前抽风的细节吧",
+        "id": "2023258926880636928",
+        "location": "China",
+        "name": "Chi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075603114967924736/EgEEk8zf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 4,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 14
+        },
+        "url": "",
+        "username": "plane294",
+        "verified": false
+      }
+    ]
+  }
+}

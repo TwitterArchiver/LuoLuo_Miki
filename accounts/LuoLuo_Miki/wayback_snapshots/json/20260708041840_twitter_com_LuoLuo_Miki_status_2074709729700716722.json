@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592401094273302528",
+    "conversation_id": "2074426386031534462",
+    "created_at": "2026-07-08T04:18:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T05:18:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074709729700716722"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2033160782687731712",
+          "start": 0,
+          "username": "Shioochic_Xyn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074709729700716722",
+    "in_reply_to_user_id": "2033160782687731712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074426386031534462",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shioochic_Xyn 对不起"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592401094273302528",
+        "conversation_id": "2074426386031534462",
+        "created_at": "2026-07-08T04:18:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T05:18:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074709729700716722"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2033160782687731712",
+              "start": 0,
+              "username": "Shioochic_Xyn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074709729700716722",
+        "in_reply_to_user_id": "2033160782687731712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074426386031534462",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shioochic_Xyn 对不起"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033160782687731712",
+        "conversation_id": "2074426386031534462",
+        "created_at": "2026-07-07T09:32:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T10:32:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074426386031534462"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074426386031534462",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 387,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是一个没礼貌的人，总是难以说出「对不起」「谢谢」「你好」之类最基本的话"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-15T06:16:59.000Z",
+        "description": "各类游戏都浅玩，战雷伟大鳄梨邦，🍥2026/5/22\n丨不od丨不zc丨大龄丨有证含糖🍥丨MTF\n互fo请私信\n傻瓜@SofHAvVenn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 58,
+                "username": "SofHAvVenn"
+              }
+            ]
+          }
+        },
+        "id": "1592401094273302528",
+        "name": "糯米🍥",
+        "pinned_tweet_id": "2073265357758886352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057058246888960000/PSLJHun5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 150,
+          "like_count": 428,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 412
+        },
+        "url": "",
+        "username": "LuoLuo_Miki",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-15T12:38:12.000Z",
+        "description": "小证含糖半家长党｜生产日期 09 04 08｜hrt 25 07 20🍥｜小证 26 01 17｜ADHD｜choose life ?!｜抢🐔姐@hiotemaron41774｜友跨顺男@Whatasiger｜友男跨顺@WhitesugarC｜友情链接:https://t.co/iIABjp0PAw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 72,
+                "username": "hiotemaron41774"
+              },
+              {
+                "end": 104,
+                "start": 93,
+                "username": "Whatasiger"
+              },
+              {
+                "end": 121,
+                "start": 109,
+                "username": "WhitesugarC"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "whatasiger.xyz",
+                "end": 150,
+                "expanded_url": "https://whatasiger.xyz",
+                "start": 127,
+                "url": "https://t.co/iIABjp0PAw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shioochic",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shioochic",
+                "start": 0,
+                "url": "https://t.co/MWqehqtsm2"
+              }
+            ]
+          }
+        },
+        "id": "2033160782687731712",
+        "location": "广州",
+        "name": "汐落 shio",
+        "pinned_tweet_id": "2061461592559239417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033161267213697024/nZfuP7C9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3852,
+          "following_count": 2020,
+          "like_count": 7727,
+          "listed_count": 6,
+          "media_count": 884,
+          "tweet_count": 6029
+        },
+        "url": "https://t.co/MWqehqtsm2",
+        "username": "Shioochic_Xyn",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592401094273302528",
+    "conversation_id": "2074080888720064967",
+    "created_at": "2026-07-06T11:44:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T12:44:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074097085239189792"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1549814682654949376",
+          "start": 0,
+          "username": "wszhd321"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074097085239189792",
+    "in_reply_to_user_id": "1549814682654949376",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074080888720064967",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wszhd321 少o点"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2074080826342453249",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMidhcmXMAEkVw3.jpg",
+        "width": 1700
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592401094273302528",
+        "conversation_id": "2074080888720064967",
+        "created_at": "2026-07-06T11:44:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T12:44:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074097085239189792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1549814682654949376",
+              "start": 0,
+              "username": "wszhd321"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074097085239189792",
+        "in_reply_to_user_id": "1549814682654949376",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074080888720064967",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wszhd321 少o点"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074080826342453249"
+          ]
+        },
+        "author_id": "1549814682654949376",
+        "conversation_id": "2074080888720064967",
+        "created_at": "2026-07-06T10:39:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T11:39:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074080888720064967"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xM1uHUSdLx",
+              "end": 33,
+              "expanded_url": "https://x.com/wszhd321/status/2074080888720064967/photo/1",
+              "media_key": "3_2074080826342453249",
+              "start": 10,
+              "url": "https://t.co/xM1uHUSdLx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074080888720064967",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "overdosed https://t.co/xM1uHUSdLx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2022-11-15T06:16:59.000Z",
+        "description": "各类游戏都浅玩，战雷伟大鳄梨邦，🍥2026/5/22\n丨不od丨不zc丨大龄丨有证含糖🍥丨MTF\n互fo请私信\n傻瓜@SofHAvVenn，笨蛋@linxinyujiang",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 58,
+                "username": "SofHAvVenn"
+              },
+              {
+                "end": 86,
+                "start": 72,
+                "username": "linxinyujiang"
+              }
+            ]
+          }
+        },
+        "id": "1592401094273302528",
+        "name": "糯米🍥",
+        "pinned_tweet_id": "2073265357758886352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057058246888960000/PSLJHun5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 146,
+          "like_count": 427,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 404
+        },
+        "url": "",
+        "username": "LuoLuo_Miki",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-20T17:53:20.000Z",
+        "description": "只要当下",
+        "id": "1549814682654949376",
+        "name": "与与",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073744811434082305/bdDkJ-W5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 39,
+          "like_count": 130,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 441
+        },
+        "url": "",
+        "username": "wszhd321",
+        "verified": false
+      }
+    ]
+  }
+}
