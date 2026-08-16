@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592401094273302528",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2087263891118309815",
+    "created_at": "2026-08-11T19:44:25.000Z",
+    "display_text_range": [
+      0,
+      146
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T20:44:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087263891118309815"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 79,
+          "id": "1809084384563376128",
+          "start": 65,
+          "username": "Dreemurr_Miki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087263891118309815",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "醒了，头昏，怎么晚上8点50左右昏过去了，不得不说内幻真的好厉害啊。各种电影场景都可以随意进去然后超级真实。\n然后构建了场景和老婆@Dreemurr_Miki贴贴去了，幻里很爽🤤老婆也很温柔。\n最喜欢抱抱了，不敢抱抱，然后被老婆强行抱住贴贴了。\n好玩好玩，就是最好还是要有朋友在身边才最好玩🤤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592401094273302528",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2087263891118309815",
+        "created_at": "2026-08-11T19:44:25.000Z",
+        "display_text_range": [
+          0,
+          146
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T20:44:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087263891118309815"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 79,
+              "id": "1809084384563376128",
+              "start": 65,
+              "username": "Dreemurr_Miki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087263891118309815",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "醒了，头昏，怎么晚上8点50左右昏过去了，不得不说内幻真的好厉害啊。各种电影场景都可以随意进去然后超级真实。\n然后构建了场景和老婆@Dreemurr_Miki贴贴去了，幻里很爽🤤老婆也很温柔。\n最喜欢抱抱了，不敢抱抱，然后被老婆强行抱住贴贴了。\n好玩好玩，就是最好还是要有朋友在身边才最好玩🤤"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-15T06:16:59.000Z",
+        "description": "🍥2026/5/22\n每天都想和一只猹贴贴 ♡♡ \n@Dreemurr_Miki｜我的对象，我的爱人｜丨不od丨不zc丨不抽烟丨不鉴证丨大龄丨有证含糖🍥丨MTF\n碎碎念日常，不玩游戏，不进行非必要互动，别靠近我\n\n账号委派托管@Dreemurr_Miki\n\n互fo请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 26,
+                "username": "Dreemurr_Miki"
+              },
+              {
+                "end": 127,
+                "start": 113,
+                "username": "Dreemurr_Miki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoluo_miki",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoluo_miki",
+                "start": 0,
+                "url": "https://t.co/GbvEwIAU2Y"
+              }
+            ]
+          }
+        },
+        "id": "1592401094273302528",
+        "is_identity_verified": false,
+        "location": "距离你126米",
+        "most_recent_tweet_id": "2087263891118309815",
+        "name": "糯米🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2082399117578473595",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1592401094273302528/1785815571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057058246888960000/PSLJHun5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 638,
+          "following_count": 196,
+          "like_count": 1155,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 817
+        },
+        "url": "https://t.co/GbvEwIAU2Y",
+        "username": "LuoLuo_Miki",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-05T04:38:31.000Z",
+        "description": "含糖mtx | 17岁 | 169cm 53kg | 家暴党\n\n@LuoLuo_Miki ←我的老婆\n一只绝望上学中的小药娘\n希望所有人都能拥有美好的人生\n不管您曾经经历了什么，我都希望喜乐和幸福能眷顾您",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 32,
+                "username": "LuoLuo_Miki"
+              }
+            ]
+          }
+        },
+        "id": "1809084384563376128",
+        "is_identity_verified": false,
+        "location": "Nevermind",
+        "most_recent_tweet_id": "2087159395775840594",
+        "name": "一只猹🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1809084384563376128/1720154603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070814983592562688/vPtUGMbw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 43,
+          "like_count": 1322,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 143
+        },
+        "url": "",
+        "username": "Dreemurr_Miki",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592401094273302528",
+    "conversation_id": "2086818160540553495",
+    "created_at": "2026-08-10T14:13:15.000Z",
+    "display_text_range": [
+      0,
+      87
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T15:12:42.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086818021377745405",
+      "2086818160540553495"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2086818160540553495",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天是第二天，自从前天喝了0.3g的盐，当天是喉咙刺疼。\n今天是第二天，喉咙火烧一样，疼，还咳嗽不断。幸好吞咽口水不疼，不然我力竭了。\n我没事，我没有，我只是单纯好奇，别搞我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592401094273302528",
+        "conversation_id": "2086818021377745405",
+        "created_at": "2026-08-10T14:12:42.000Z",
+        "display_text_range": [
+          0,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T15:12:42.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086818021377745405",
+          "2086818160540553495"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086818021377745405",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天是第二天，自从前天喝了0.3g的盐，当天是喉咙刺疼。\n今天是第二天，喉咙火烧一样，疼，还咳嗽不断。幸好吞咽口水不疼，不然我力竭了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592401094273302528",
+        "conversation_id": "2086818160540553495",
+        "created_at": "2026-08-10T14:13:15.000Z",
+        "display_text_range": [
+          0,
+          87
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T15:12:42.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086818021377745405",
+          "2086818160540553495"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086818160540553495",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天是第二天，自从前天喝了0.3g的盐，当天是喉咙刺疼。\n今天是第二天，喉咙火烧一样，疼，还咳嗽不断。幸好吞咽口水不疼，不然我力竭了。\n我没事，我没有，我只是单纯好奇，别搞我"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-15T06:16:59.000Z",
+        "description": "🍥2026/5/22\n每天都想和一只猹贴贴 ♡♡ \n@Dreemurr_Miki｜我的对象，我的爱人｜丨不od丨不zc丨不抽烟丨不鉴证丨大龄丨有证含糖🍥丨MTF\n碎碎念日常，不玩游戏，不进行非必要互动，别靠近我\n\n账号委派托管@Dreemurr_Miki\n\n互fo请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 26,
+                "username": "Dreemurr_Miki"
+              },
+              {
+                "end": 127,
+                "start": 113,
+                "username": "Dreemurr_Miki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoluo_miki",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoluo_miki",
+                "start": 0,
+                "url": "https://t.co/GbvEwIAU2Y"
+              }
+            ]
+          }
+        },
+        "id": "1592401094273302528",
+        "is_identity_verified": false,
+        "location": "距离你126米",
+        "most_recent_tweet_id": "2086818160540553495",
+        "name": "糯米🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2082399117578473595",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1592401094273302528/1785815571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057058246888960000/PSLJHun5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 634,
+          "following_count": 195,
+          "like_count": 1146,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 813
+        },
+        "url": "https://t.co/GbvEwIAU2Y",
+        "username": "LuoLuo_Miki",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

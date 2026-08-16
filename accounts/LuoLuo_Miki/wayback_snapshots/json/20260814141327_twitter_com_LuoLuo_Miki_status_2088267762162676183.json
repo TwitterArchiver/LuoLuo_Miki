@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088267746878656512"
+      ]
+    },
+    "author_id": "1592401094273302528",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2088267762162676183",
+    "created_at": "2026-08-14T14:13:27.000Z",
+    "display_text_range": [
+      0,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T15:13:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088267762162676183"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/qhDJKKEe02",
+          "end": 58,
+          "expanded_url": "https://x.com/LuoLuo_Miki/status/2088267762162676183/photo/1",
+          "media_key": "3_2088267746878656512",
+          "start": 35,
+          "url": "https://t.co/qhDJKKEe02"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088267762162676183",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088267746878656512"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "哎，我没有呀，只是在说胡话，我很抱歉，对不起，我没有这个想走的想法啦 https://t.co/qhDJKKEe02"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3168,
+        "media_key": "3_2088267746878656512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPsEc6CbkAAQF51.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088267746878656512"
+          ]
+        },
+        "author_id": "1592401094273302528",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2088267762162676183",
+        "created_at": "2026-08-14T14:13:27.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T15:13:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088267762162676183"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qhDJKKEe02",
+              "end": 58,
+              "expanded_url": "https://x.com/LuoLuo_Miki/status/2088267762162676183/photo/1",
+              "media_key": "3_2088267746878656512",
+              "start": 35,
+              "url": "https://t.co/qhDJKKEe02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088267762162676183",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088267746878656512"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哎，我没有呀，只是在说胡话，我很抱歉，对不起，我没有这个想走的想法啦 https://t.co/qhDJKKEe02"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-15T06:16:59.000Z",
+        "description": "🍥2026/5/22\n每天都想和一只猹贴贴 ♡♡ \n@Dreemurr_Miki｜我的对象，我的爱人｜丨不od丨不zc丨不抽烟丨不鉴证丨大龄丨有证含糖🍥丨MTF\n碎碎念日常，不玩游戏，不进行非必要互动，别靠近我\n\n账号委派托管@Dreemurr_Miki\n\n互fo请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 26,
+                "username": "Dreemurr_Miki"
+              },
+              {
+                "end": 127,
+                "start": 113,
+                "username": "Dreemurr_Miki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoluo_miki",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoluo_miki",
+                "start": 0,
+                "url": "https://t.co/GbvEwIAU2Y"
+              }
+            ]
+          }
+        },
+        "id": "1592401094273302528",
+        "is_identity_verified": false,
+        "location": "距离你126米",
+        "most_recent_tweet_id": "2088267762162676183",
+        "name": "糯米🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2082399117578473595",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1592401094273302528/1785815571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057058246888960000/PSLJHun5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 642,
+          "following_count": 202,
+          "like_count": 1180,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 835
+        },
+        "url": "https://t.co/GbvEwIAU2Y",
+        "username": "LuoLuo_Miki",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
