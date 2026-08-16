@@ -1,7 +1,7 @@
 {
   "name": "糯米🍥🏳️‍⚧️",
   "username": "@LuoLuo_Miki",
-  "bio": "🍥2026/5/22 每天都想和一只猹贴贴 ♡♡  @Dreemurr_Miki｜我的对象，我的爱人｜丨不od丨不zc丨不抽烟丨不鉴证丨大龄丨有证含糖🍥丨MTF 碎碎念日常，不玩游戏，不进行非必要互动，别靠近我  互fo请私信",
+  "bio": "🍥2026/5/22 每天都想和一只猹贴贴 ♡♡  @Dreemurr_Miki｜我的对象，我的爱人｜丨不od丨不zc丨不抽烟丨不鉴证丨大龄丨有证含糖🍥丨MTF 碎碎念日常，不玩游戏，不进行非必要互动，别靠近我  账号委派托管@Dreemurr_Miki  互fo请私信",
   "location": "距离你126米",
   "link": "https://ngl.link/luoluo_miki",
   "avatar": "avatar/avatar.jpg",
@@ -12,6 +12,11 @@
       {
         "end": 40,
         "start": 26,
+        "username": "Dreemurr_Miki"
+      },
+      {
+        "end": 127,
+        "start": 113,
         "username": "Dreemurr_Miki"
       }
     ]
