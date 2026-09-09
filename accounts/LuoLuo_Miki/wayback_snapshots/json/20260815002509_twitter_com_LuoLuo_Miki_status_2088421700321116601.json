@@ -1,0 +1,342 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1592401094273302528",
+    "conversation_id": "2088335253387739586",
+    "created_at": "2026-08-15T00:25:09.000Z",
+    "display_text_range": [
+      22,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T01:25:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088421700321116601"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2002632641573761025",
+          "start": 0,
+          "username": "a0bRJKk"
+        },
+        {
+          "end": 21,
+          "id": "616537873",
+          "start": 9,
+          "username": "aaarjkkmiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088421700321116601",
+    "in_reply_to_user_id": "2002632641573761025",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088335253387739586",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@a0bRJKk @aaarjkkmiao 🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592401094273302528",
+        "conversation_id": "2088335253387739586",
+        "created_at": "2026-08-15T00:25:09.000Z",
+        "display_text_range": [
+          22,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T01:25:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088421700321116601"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2002632641573761025",
+              "start": 0,
+              "username": "a0bRJKk"
+            },
+            {
+              "end": 21,
+              "id": "616537873",
+              "start": 9,
+              "username": "aaarjkkmiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088421700321116601",
+        "in_reply_to_user_id": "2002632641573761025",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088335253387739586",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a0bRJKk @aaarjkkmiao 🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2002632641573761025",
+        "conversation_id": "2088335253387739586",
+        "created_at": "2026-08-14T18:41:38.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T19:41:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088335253387739586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "616537873",
+              "start": 4,
+              "username": "aaarjkkmiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088335253387739586",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 299,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我已经把@aaarjkkmiao 的大部分贴文删了\n希望能解除ghostban🥺"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2022-11-15T06:16:59.000Z",
+        "description": "🍥2026/5/22\n每天都想和一只猹贴贴 ♡♡ \n@Dreemurr_Miki｜我的对象，我的爱人｜丨不od丨不zc丨不抽烟丨不鉴证丨大龄丨有证含糖🍥丨MTF\n碎碎念日常，不玩游戏，不进行非必要互动，别靠近我\n\n账号委派托管@Dreemurr_Miki\n\n互fo请私信",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 26,
+                "username": "Dreemurr_Miki"
+              },
+              {
+                "end": 127,
+                "start": 113,
+                "username": "Dreemurr_Miki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luoluo_miki",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luoluo_miki",
+                "start": 0,
+                "url": "https://t.co/GbvEwIAU2Y"
+              }
+            ]
+          }
+        },
+        "id": "1592401094273302528",
+        "is_identity_verified": false,
+        "location": "距离你126米",
+        "most_recent_tweet_id": "2088421700321116601",
+        "name": "糯米🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2082399117578473595",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1592401094273302528/1785815571",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057058246888960000/PSLJHun5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 642,
+          "following_count": 202,
+          "like_count": 1181,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 840
+        },
+        "url": "https://t.co/GbvEwIAU2Y",
+        "username": "LuoLuo_Miki",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-21T06:51:00.000Z",
+        "description": "大号@aaarjkk 1478Followers卡进后室寻回互Fo🤍\n☁️活在幻想中☁️希望咱们每天都能开开心心的☁️成绩倒数(?)☁️查成分互Follow(?)☁️172cm53kg巨人☁️\n\n🏳️此为小号,大号:@aaarjkkmiao\n🤍睡不着就想发点luo照-@a0brjkkmiao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 2,
+                "username": "aaarjkk"
+              },
+              {
+                "end": 120,
+                "start": 108,
+                "username": "aaarjkkmiao"
+              },
+              {
+                "end": 146,
+                "start": 134,
+                "username": "a0brjkkmiao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "shop.aaarjkk.top",
+                "end": 23,
+                "expanded_url": "https://shop.aaarjkk.top/",
+                "start": 0,
+                "url": "https://t.co/zFbB5RUQUm"
+              }
+            ]
+          }
+        },
+        "id": "2002632641573761025",
+        "is_identity_verified": false,
+        "location": "🚩出售账号➡️",
+        "most_recent_tweet_id": "2088405413599613026",
+        "name": "我是貓貓！",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2002632641573761025/1786657775",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037677239232520192/0twB0Jgd_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 214,
+          "like_count": 676,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 126
+        },
+        "url": "https://t.co/zFbB5RUQUm",
+        "username": "a0bRJKk",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-06-23T22:30:17.000Z",
+        "description": "大号@aaarjkk 1478Followers卡进后室寻回互Fo🤍\n☁️活在幻想中☁️希望咱们每天都能开开心心的☁️成绩倒数(?)☁️查成分互Follow(?)☁️172cm53kg巨人☁️\n\n🏳️小号可能负面-@a0brjkk\n🤍睡不着就想发点luo照-@a0brjkkmiao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 2,
+                "username": "aaarjkk"
+              },
+              {
+                "end": 115,
+                "start": 107,
+                "username": "a0brjkk"
+              },
+              {
+                "end": 141,
+                "start": 129,
+                "username": "a0brjkkmiao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "shop.aaarjkk.top",
+                "end": 23,
+                "expanded_url": "https://shop.aaarjkk.top/",
+                "start": 0,
+                "url": "https://t.co/lIxlEX4uF5"
+              }
+            ]
+          }
+        },
+        "id": "616537873",
+        "is_identity_verified": false,
+        "location": "@aaarjkk (2025.8-2026.8) 永远怀念 ",
+        "most_recent_tweet_id": "2088141918136090664",
+        "name": "喵！😶‍🌫️--aaarjkk二世 寻回互Fo🩷",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/616537873/1786621805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087845591523168256/D8VdVCaf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 170,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 2
+        },
+        "url": "https://t.co/lIxlEX4uF5",
+        "username": "aaarjkkmiao",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
